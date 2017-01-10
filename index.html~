@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset='UTF-8'>
   <title>XDRT</title>
 </head>
 <body>
@@ -21,6 +22,6 @@
   <p>To showcase my thinking.</p>
   <h3>Contact</h3>
   <p>Email: xdrt [dot] by [at] gmail [dot] com</o>
-  <h3>Click <a>this link</a> to see my favorites.</h3>
+  <h3>Click <a href="favorites.html">this link</a> to see my favorites.</h3>
 </body>
 </html>
