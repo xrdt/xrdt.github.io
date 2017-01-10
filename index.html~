@@ -11,14 +11,16 @@
 
   <h3>Introduction</h3>
   <p>I am a student at Caltech studying computer science and business, 
-     economics, and management. 
+  economics, and management.</p> 
 
-     My major interests are in machine learning and quantitative finance, 
+  <p>My major interests are in machine learning and quantitative finance, 
      particularly in algorithmic trading. Some other interests include:
      data visualization, virtual/augmented reality, resource management, 
-     and AI chatbots.
+     and AI chatbots.</p>
   <h3>Purpose of This Website</h3>
   <p>To showcase my thinking.</p>
-  <h3>Click <a>this link to go to my favorites.</h3>
+  <h3>Contact</h3>
+  <p>Email: ipacifics 'at' gmail 'dot' com</o>
+  <h3>Click <a>this link</a> to go to my favorites.</h3>
 </body>
 </html>
