@@ -4,10 +4,12 @@
   <meta charset="UTF-8">
   <title>XDRT</title>
   <link rel="icon"
-        type="image"
+        type="image/x-icon"
         href="XDRT_Favicon.ico">
 </head>
 <body>
+  <a href="index.html"><img border=0 alt="XDRT_LOGO" src="XDRT_Logo.png"
+    width=70 height=100></a>
   <h1>This is XDRT's website</h1>
   <h3>Username Trickness:</h3>
   <p>I go by XDRT, not by XRDT. XDRT was unavailable, so I created XRDT 
