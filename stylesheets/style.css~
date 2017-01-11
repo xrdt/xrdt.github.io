@@ -1,0 +1,28 @@
+#navBar {
+  text-align: center;
+}
+
+#navBar ul {
+  display: inline-block;
+  list-style-type: none;
+  padding: 0;
+}
+
+#navBar li {
+  float: left;
+  background-color: #FFFFFF;
+  border-right: 2px solid #E38831;
+}
+
+#navBar a {
+  display: block;
+  padding: 14px 10px;
+  color: #339CFF;
+}
+
+#navBar li:last-child {
+  border-right: none;
+}
+
+#navBar li:hover {
+  background-color: #41DF1E;
