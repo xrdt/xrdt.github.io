@@ -10,14 +10,14 @@
 
 #navBar li {
   float: left;
-  background-color: #FFFFFF;
+  background-color: #CCFFC1;
   border-right: 2px solid #E38831;
 }
 
 #navBar a {
   display: block;
   padding: 14px 10px;
-  color: #339CFF;
+  color: #0068CB;
 }
 
 #navBar li:last-child {
