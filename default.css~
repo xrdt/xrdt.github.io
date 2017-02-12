@@ -1,0 +1,39 @@
+body {
+  background-color: #ccffff;   
+}
+
+a {
+  color: #ffcc00;
+}
+
+a:visited {
+  color: #3333cc;
+}
+
+#navBar {
+  text-align: center;
+}
+
+#navBar ul {
+  list-style-type: none;
+  display: inline-block;
+}
+
+#navBar li {
+  float: left;
+  border-right: 1px solid #bbb;
+}       
+
+#navBar li:first-child {
+  border-left: 1px solid #bbb;
+}
+
+#navBar li a {
+  display: block;
+  font-size: 1.1em;
+  padding: 14px 16px;
+}
+
+#navBar li a:hover {
+  background-color: #ffff99;
+}

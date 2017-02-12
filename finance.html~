@@ -1,25 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <link rel="stylesheet" type="text/css" href="stylesheets/style.css"/>
-  <link rel="icon"
-        href="images/XDRT_Favicon.ico"
-        type="image/x-icon"/>
-  <title>XDRT</title>
-</head>
-<body>
-  <h1 style="text-align: center">This is <a href="index.html"><img border=0 alt="XDRT_LOGO" 
-      src="images/XDRTS_Logo.png" width=180 height=60></a> website</h1>
+--- 
+layout: default
+---
 
-  <div id="navBar">
-    <ul> 
-      <li><a href="index.html">Home</a></li>
-      <li><a href="favorites.html">Favorites</a></li>
-      <li><a href="finance.html">Finance</a></li>
-      <li><a href="resume.html">Resume</a></li>
-    </ul>
-  </div>
+<section class="content">
 
   <h1>Finance Page</h1>
   <h3>Student Investment Fund</h3>
@@ -33,7 +16,6 @@
   on the link or below in the frame.</p>
   <div style="text-align:center">
     <object width=75% height=600 data="https://docs.google.com/document/d/1IddHfueovEdOlFjurYyNlrOZboU8PR7cYiZ87a3QRC8/edit?usp=sharing"></object>
+  </div>
 
-</body>
-</head>
-</html>
+  </section>
