@@ -3,7 +3,7 @@ body {
 }
 
 a {
-  color: #ffcc00;
+  color: #ff6633;
 }
 
 a:visited {
@@ -36,4 +36,9 @@ a:visited {
 
 #navBar li a:hover {
   background-color: #ffff99;
+}
+
+#drivefolder iframe {
+  text-align: center;
+  background-color: white;
 }

@@ -37,3 +37,11 @@ a:visited {
 #navBar li a:hover {
   background-color: #ffff99;
 }
+
+#drivefolder {
+  text-align: center;
+}
+
+#drivefolder iframe {
+  background-color: white;
+}
