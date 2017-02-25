@@ -1,6 +1,4 @@
 ---
 layout: posts
-title: Test
+title: 
 ---
-
-Hello hello hello.
