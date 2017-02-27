@@ -38,10 +38,45 @@ a:visited {
   background-color: #ffff99;
 }
 
-#drivefolder {
+.year {
+  color: red; 
+}
+
+.dropdown_bar {
   text-align: center;
 }
 
-#drivefolder iframe {
-  background-color: white;
+.drop {
+  list-style-type: none;
+  display: inline-block;
+}
+
+.dropdown {
+  font-size: 1.1em;
+}
+
+.dropbtn {
+  display: block;
+  padding: 14px 16px;
+  border-left: 1px solid #bbb;
+  border-right: 1px solid #bbb;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  padding: 14px 16px;
+  display: block;
+}
+
+.dropdown:hover {
+  background-color: #ffff99;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
 }
