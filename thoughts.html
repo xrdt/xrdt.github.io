@@ -6,13 +6,14 @@ layout: default
 <h1>Thoughts</h1>
 
   {% for post in site.posts %}
-    {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
-    {% if currentyear != year %}
-      <h2 id={{currentyear}} class="year">{{ currentyear }}</h2>
+    {% assign currentdate = post.date | date: "%Y" %}
+    {% if currentdate != date %}
+      <h2 id="year">{{ currentdate }}</h2>
+      {% assign date = currentdate %}
     {% endif %}
-    <ul class="posts-year">
-      <p><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></p>
-    </ul>
+      <ul>
+        <li><a href="{{ base }}{{ post.url }}">{{ post.title }}</a></li>
+      </ul>
   {% endfor %}
 
 </section>
