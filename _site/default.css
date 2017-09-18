@@ -91,3 +91,12 @@ iframe {
     margin: auto;
     background: #ccffd5;
 }
+
+.project_header { 
+    font-weight: normal;
+    text-decoration: underline
+}
+
+.project_sub {
+    font-weight: normal;
+}
