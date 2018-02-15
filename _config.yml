@@ -3,6 +3,7 @@ author: XDRT/BiancaYang
 description: An attempt at the truth.
 
 url: http://xrdt.github.io
+baseurl: /xrdt.github.io
 
 footer-links:
   twitter: xdrtxrdt

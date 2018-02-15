@@ -8,24 +8,26 @@ layout: default
 <h3>Update: Feb 15, 2018</h3>
 <p>I'm currently migrating the Google Drive posts onto this site. I will make
 new posts starting today onto this site.</p>
+<p>------------------------------------------------------</p>
 
-<p>Please view my thoughts through the Google Drive links provided in the frame below.</p>
+<p>Older thoughts are archived on Google Drive.<p>
 
-<p>My thoughts are works in progress. If you find that I am severly wrong on a topic and would like to correct my thinking, please leave a comment or contact me privately through email.<p>
-
-<div id="DriveThoughts">
+<!--<div id="DriveThoughts">
     <iframe src="https://drive.google.com/embeddedfolderview?id=0Bw28gWUp26esbGtLUEZzSkdVSGc#list" width="700" height="500" style="border-style: solid;"></iframe>
-</div>
+</div>-->
 
-<!--  {% for post in site.posts %}
-    {% assign currentdate = post.date | date: "%Y" %}
-    {% if currentdate != date %}
-      <h2 id="year">{{ currentdate }}</h2>
-      {% assign date = currentdate %}
-    {% endif %}
-      <ul>
-        <li><a href="{{ base }}{{ post.url }}">{{ post.title }}</a></li>
-      </ul>
-      {% endfor %} -->
+{% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
+{% for yearMonth in postsByYearMonth %}
+  <h3>{{ yearMonth.name }}</h3>
+    <ul>
+      {% for post in yearMonth.items %}
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+{% endfor %}
+
+<br>
+<br>
+<br>
 
 </section>
