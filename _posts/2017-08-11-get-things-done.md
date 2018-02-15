@@ -2,12 +2,9 @@
 layout: posts
 title: "Get Things Done"
 ---
-Get Things Done
-=====
-
-*Author: Bianca Yang*
-*Email: ipacifics@gmail.com*
-*Twitter: @xdrtxrdt*
+*Author: Bianca Yang*<br>
+*Email: ipacifics@gmail.com*<br>
+*Twitter: @xdrtxrdt*<br>
 
 Produce results.
 
