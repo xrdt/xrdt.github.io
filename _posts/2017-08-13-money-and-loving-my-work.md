@@ -14,4 +14,4 @@ One day, I hope to come back to my writing desk and say that I have found my pas
 
 
 
-**Awesome Paul Graham article about doing what you love: http://www.paulgraham.com/love.html**
+[Awesome Paul Graham article about doing what you love](http://www.paulgraham.com/love.html)
