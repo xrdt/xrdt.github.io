@@ -10,11 +10,7 @@ layout: default
 new posts starting today onto this site.</p>
 <p>------------------------------------------------------</p>
 
-<p>Older thoughts are archived on Google Drive.<p>
-
-<!--<div id="DriveThoughts">
-    <iframe src="https://drive.google.com/embeddedfolderview?id=0Bw28gWUp26esbGtLUEZzSkdVSGc#list" width="700" height="500" style="border-style: solid;"></iframe>
-</div>-->
+<p>Older thoughts are archived on <a href="https://drive.google.com/embeddedfolderview?id=0Bw28gWUp26esbGtLUEZzSkdVSGc#list">Google Drive</a>.<p>
 
 {% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
 {% for yearMonth in postsByYearMonth %}

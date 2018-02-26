@@ -1,9 +1,13 @@
 body {
-  background-color: #ccffff;   
+  background-color: #ccffff;
 }
 
 a {
   color: #330099;
+}
+
+li {
+    font-size: 1.1em;
 }
 
 a:visited {
@@ -27,7 +31,7 @@ p {
 #navBar li {
   float: left;
   border-right: 1px solid #bbb;
-}       
+}
 
 #navBar li:first-child {
   border-left: 1px solid #bbb;
@@ -44,7 +48,7 @@ p {
 }
 
 #year {
-  color: red; 
+  color: red;
 }
 
 .dropdown_bar {
@@ -92,7 +96,7 @@ iframe {
     background: #ccffd5;
 }
 
-.project_header { 
+.project_header {
     font-weight: normal;
     text-decoration: underline
 }
