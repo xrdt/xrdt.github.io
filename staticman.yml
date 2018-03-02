@@ -10,8 +10,6 @@ comments:
 
     format: "yaml"
 
-    moderation: false
-
     name: "xrdt.github.io"
 
     path: "_data/comments/"
