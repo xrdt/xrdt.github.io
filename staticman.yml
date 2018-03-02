@@ -4,6 +4,8 @@ comments:
 
     branch: "master"
 
+    filename: "entry{@timestamp}"
+
     commitMessage: "Someone commented on something"
 
     format: "yaml"
@@ -13,7 +15,6 @@ comments:
     name: "xrdt.github.io"
 
     path: "_data/comments/"
-    filename: "entry{@timestamp}"
 
     generatedFields:
         date:
