@@ -67,7 +67,7 @@ this.
 <div>
     <h2>Submit a Comment</h2>
 </div>
-<form method="POST" action="https://api.staticman.net/v2/entry/xrdt/xrdt.github.io">
+<form method="POST" action="https://api.staticman.net/v2/entry/xrdt/xrdt.github.io/master">
   <label><input name="fields[name]" type="text">Name</label>
   <br>
   <label><input name="fields[email]" type="email">E-mail</label>
