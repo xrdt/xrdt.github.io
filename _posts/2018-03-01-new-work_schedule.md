@@ -29,15 +29,15 @@ coordinated effort, people will still set shifts so life balance is maintained.
 I am going to propose a less ridiculous working schedule that should prevent
 end of workday fatigue.
 
-Shift 1: 9am - 12:30pm
-Break: 12:30pm - 3pm
-Shift 2: 3pm - 6:30pm
+Shift 1: 9am - 12:30pm<br>
+Break: 12:30pm - 3pm<br>
+Shift 2: 3pm - 6:30pm<br>
 *Total Working Hours*: 7
 
 Compare this with the current working schedule:
-Shift 1: 9am - 12pm
-Break: 12pm - 1pm
-Shift 2: 1pm - 5pm
+Shift 1: 9am - 12pm<br>
+Break: 12pm - 1pm<br>
+Shift 2: 1pm - 5pm<br>
 *Total Working Hours*: 7
 
 
