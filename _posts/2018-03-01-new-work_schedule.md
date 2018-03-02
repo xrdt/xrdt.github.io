@@ -62,18 +62,3 @@ some of the time to lay on some grass and watch the clouds.
 
 I don't like reading email, but you can email me if you want to chat about
 this.
-
-
-<div>
-    <h2>Submit a Comment</h2>
-</div>
-<form method="POST" action="https://api.staticman.net/v2/entry/xrdt/xrdt.github.io/master">
-  <label><input name="fields[name]" type="text">Name</label>
-  <br>
-  <label><input name="fields[email]" type="email">E-mail</label>
-  <br>
-  <label><textarea name="fields[message]"></textarea>Message</label>
-  <br>
-  <button type="submit">Submit a Comment</button>
-  <br>
-</form>
