@@ -44,7 +44,7 @@ sinister.) There was a bit of debate about how good Carnegie's book is because s
 the book was too obvious. I felt the same way when I first read this book years ago, but I justfied the 
 time spent by saying that he reminded me of many common sense principles I should be applying.
 
-I take some fault with the sentiment expressed by this sentence. If these principles are good, then I 
+I take fault with the last sentence of the previous paragraph. If these principles are good, then I 
 should internalize them and always behave accordingly. But, I, like most people, brush away the task of 
 correcting my behavior by saying it's hard. "I'm working on it." "Please bear with me." What I'm 
 effectively saying is that becoming a better person isn't a priority. By saying things are too hard, I'm 
