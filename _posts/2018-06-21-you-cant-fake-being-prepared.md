@@ -20,7 +20,7 @@ It's very hard to fake being prepared.
 The number of times I have been given a soft pass on worse than mediocre work
 is alarming. What is more alarming, however, is how brazenly idiotic I have
 been in repeatedly taking advantage of others' leniency. I have, to put it
-more blatently, been lying[1].
+more blatently, been lying[[1]](#1d)<a name="1u"></a>.
 
 I am absolutely ashamed of my behavior. I would like to be the morally upright
 and respectable person who does what she says she will do. I want to get more
@@ -50,17 +50,17 @@ post will show up by the end of July.
 
 
 Note: Those who are judging the work of someone (or a team) who (which) is not
-producing sufficient results should use the Five Whys [2] to understand why
+producing sufficient results should use the Five Whys [[2]](#2d)<a name="2u"></a> to understand why
 the performance has been so poor. Make a decision on how to go forward that
 is consistent with the work culture you want to build. Firing, training,
 and implementing new policies are all reasonable courses of action to take.
 
 
 ___
-[1] Read James Altucher's __Choose Yourself__. Specifically,
+[[1]](#1u)<a name="1d"></a> Read James Altucher's __Choose Yourself__. Specifically,
 read the section titled "Honesty Makes You More Money". Really, you should
 just read James' entire book. The first pass won't take you long and you'll
 want to reread it multiple times to really make sure the message sinks in.
 
-[2] You can find this on Wikipedia or in Charles Duhigg's
+[[2]](#2u)<a name="2d"></a> You can find this on Wikipedia or in Charles Duhigg's
 __The Power of Habit__.
