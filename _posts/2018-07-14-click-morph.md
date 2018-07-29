@@ -16,3 +16,9 @@ clicking it.
 
 Perhaps there are other words we've augmented in this same way due to the
 information age.
+
+__Update (July 27, 2018)__<br>
+Here are some other words that fit the mold:
+* Crack
+* Crunch
+* Pop

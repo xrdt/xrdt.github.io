@@ -8,3 +8,5 @@ baseurl: /xrdt.github.io
 footer-links:
   twitter: xdrtxrdt
   github: xrdt
+
+plugins:
