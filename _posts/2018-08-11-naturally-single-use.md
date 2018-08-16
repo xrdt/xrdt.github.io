@@ -5,6 +5,9 @@ title: "Naturally Single Use"
 *Author: Bianca Yang*<br>
 *Email: <a href="mailto:ipacifics@gmail.com?subject=Hello from the XDRT Blog">ipacifics@gmail.com</a>*<br>
 
+Update (8/15/2018). [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox?utm_source=hackernewsletter&utm_medium=email&utm_term=learn):
+Increasing efficiency doesn't necessarily reduce consumption.
+
 Can you think of any naturally occurring resource that is single use? The only
 ones that came to my mind were oil and natural gas. They take so long to
 regenerate that they are effectively one use.
