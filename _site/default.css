@@ -96,3 +96,7 @@ iframe {
 .project_sub {
     font-weight: normal;
 }
+
+blockquote {
+    font-size: 1.1em;
+}
