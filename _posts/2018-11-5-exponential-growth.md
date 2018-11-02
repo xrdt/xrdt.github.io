@@ -10,5 +10,5 @@ Having multiple optionality isn’t computational insanity<br>
 Because we all living in hyper-reality<br>
 Our brains as good as cyborgs, this is the new age of humanity<br>
 Let’s take it to the next level, grow our minds, bodies, and cities<br>
-Deny the self to achieve exponential monies con diddy<br>
-
+Deny the self to achieve exceeding monies con diddy<br>
+By the end, we can tell our kids all the stories of the good old
