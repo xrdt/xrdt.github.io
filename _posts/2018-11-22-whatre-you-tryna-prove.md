@@ -1,0 +1,36 @@
+---
+layout: posts
+title: “What’re You Tryna Prove? (Interviews)“
+---
+*Author: Bianca Yang*<br>
+*Email: <a href="mailto:ipacifics@gmail.com?subject=Hello from the XDRT Blog">ipacifics@gmail.com</a>*<br>
+
+After reading countless articles from [Hackernews](http://news.ycombinator.com) (the primary news source for any self-respecting software developer, jk) about software dev interviews and going through too many interviews myself, I have come to the conclusion that the interview is a test of your working knowledge and your communication. Maybe this is a dumb realization, especially given the amount of effort that is put into helping people prepare for interviews and the amount of energy people have spent in dissecting interviews. But I feel that viewing interviews in this light clears confusion and helps us understand how we can do better at selecting the right candidates.
+
+The point of an interview is to determine a candidate’s work aptitude. Work aptitude is a function of the following criteria: ability to solve relevant problems and ability to communicate.
+
+Let’s break these two factors down.
+
+Your ability to solve problems is the most salient and easily measurable metric which can determine your potential productivity as an employee. This is the most critical piece of software development interviews and is largely dependent on your working knowledge. Why do I say working knowledge and not problem-solving ability? Because lots of problems you will be asked in an interview are problems that you cannot build the answer to from scratch. Even if you can build the problem to them from scratch, you are often too pressed on time to be able to complete your solution. You need to know the tools of the trade, or the specific trick to crack the solution open. These tricks are non-trivial, which is why it is critical to keep them readily accessible in your toolbox of working knowledge.
+
+Note that I have implicitly combined experience into working knowledge.
+
+Let me give an example of a software engineering task that is designed to determine working knowledge. The task is to determine the sort order of the individual letters in an alien alphabet. The input is a sorted array of strings. The solution is to perform a topological sort. Now, you don’t need to know exactly what a topological sort is, but you at least need to know how to represent and work with graphs with code. You also need strong algorithmic fundamentals to understand what information needs to be stored, what order you should process things in, and how to process things.
+
+Let me give another example. Implement atof (ascii to float, or string to float), without using built-in functions like float() (Python). You can solve this problem using first principles and just by thinking about representing numbers by splitting out the bases. For example: 123 = 1 * 100 + 2 * 10 + 3 * 1. The tricky part is, again, the algorithmic fundamentals: what to store, how to process things, and how to aggregate results. The strength of your fundamentals determines whether you will be able to solve the problem in the 45 minutes you and your interviewer have been allotted.
+
+To reiterate, one roadblock to passing technical interviews is insufficient working knowledge.
+
+Your ability to communicate will determine how well you can contribute to the progress of the company. You are always going to be required to work with other people to achieve certain objectives. You will need to work with them to coordinate responsibilities. You will need to convince others of the value of your work. You will need to share your results. All of these tasks require effective communication. Good communication is the key to transparency, which keeps people happy and allows for efficient operations.
+
+But communication isn’t just about your ability to push information out. It also hinges upon on your ability to receive and seek information. If you are smart about sharing  your thoughts and engaging your interviewer, you will often get hints from them about the direction you should be going. Take advantage of them to progress more quickly through issues and to prove that you have the knowledge they’re looking for.
+
+Some companies will claim they are looking for “culture fit”. That is a meaningless criteria because it is mostly not measured except by gut feeling. Gut feeling has not been meaningfully proved to be correct, so it is a waste of time to make an important decision like hiring based on it. That’s just about as bad as hiring people based on horoscopes or tea leaves.
+
+The important criteria that interviewers are trying to evaluate you on are working knowledge and communication. These sound like reasonable criteria, but if you can pass that rubric, what have you proven? What are they trying to get you to prove?
+
+To hinge interview success on working knowledge suggests a very narrow view of hiring. You can argue that it’s hard to measure ability any other way … But that’s a topic I want to hit in another post. This is of course exacerbated by the tendency of employees to jump ship every couple of years. When your employees demonstrate no loyalty, why should you demonstrate any long-term thinking in hiring and seek people who lack skills but have great aptitude? Why would you invest in training? Why would you delay immediate gratification when you could satisfy your investor overlords who consider growth to be the ultimate success metric? The short answer is that you wouldn’t. Most companies hire you based on snapshot of your abilities and allocate you to projects based on previously demonstrated skills. You are viewed as an expendable resource, a *human* resource—nonetheless, one that has an expected useful lifetime, one that can be discarded (at-will) when no longer useful, one that is faceless and a burden on the company’s operating margins. You are expected to also think this way, to think in terms of projects that you could work on, of teams that you could immediately contribute to. You are reminded to always be hungry, to always be looking for opportunities outside your current team and current company, to operate as a money-inspired mercenary. The problem here is that projects are short-term and that short-term optimizations, especially around money, can [lead you down the wrong path](http://shyamsankar.com/tag/your%20future). Thinking in terms of “grass is greener” and being hungry to the point of being a tech mercenary will make it harder for you to do truly meaningful work. I will elaborate on this “wrong path” in a later blog post. For now, understand that unless you believe jumping from job to job and optimizing for immediate technical pleasure in projects is the right path to pursue, most companies are not going to be right for you.
+
+We’ve discussed what you should be trying to prove in interviews. What am I trying to prove in this post? I’m trying to explain what I believe is the most efficient way to understand the current interview process and expose some inherent issues with the process so I can elaborate on those issues in a future blog post. I hope this post was informative, if a bit inflammatory.
+
+Please find loopholes in my logic and submit them to me @ ipacifics@gmail.com. I subscribe to [Crocker’s Rules](http://sl4.org/crocker.html) so do not mince words if you have feedback.
