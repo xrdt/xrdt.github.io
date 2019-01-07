@@ -11,7 +11,7 @@ layout: default
 
   {% for file in site.static_files %}
       {% if file.extname == ".blend" %}
-      <li><a href="{{ site.baseurl }}{{ file.path }}">{{ file.path }}</a></li>
+      <li><a href="{{ site.baseurl }}{{ file.path }}">{{ file.path | remove: "/blender/" }}</a></li>
       {% endif %}
   {% endfor %}
 
