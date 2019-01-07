@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<section class="content">
+
+  <h1>Blender Models</h1>
+
+  <p>I've just started learning to use Blender. Here are some models I've
+     built so far.</p>
+
+  {% for file in site.static_files %}
+      {% if file.extname == ".blend" %}
+      <li><a href="{{ site.baseurl }}{{ file.path }}">{{ file.path }}</a></li>
+      {% endif %}
+  {% endfor %}
+
+</section>
