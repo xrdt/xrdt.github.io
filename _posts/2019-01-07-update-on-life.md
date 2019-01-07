@@ -32,13 +32,9 @@ pilot's license in the six months before I graduate. Once that's done, I'll
 hopefully be able to use my license to make weekend getaways to places like
 Lake Tahoe, or Mammoth. Ah, the life of a pilot.
 
-But learning to fly doesn't end there. A private pilot's license only gets you
-so far, especially when the cloud layer is low and thick, or when the sun is
-below the horizon. An instrument rating expands the conditions you can fly
-in, which makes it a natural second rating to pursue after the private pilot.
-Once that rating's complete? Either a commercial pilot's license or a
-different type of air vehicle license is in order, I suppose. Jet airplanes,
-gliders, helicopters, hot air balloons, the options are limitless.
+But learning to fly doesn't end there. A private pilot's license is really
+only the beginning of a journey in flying. Staying current, continuing to
+learn, why there's so much left to be [done and seen](http://www.wingsbywerntz.com/private-pilot/using-your-certificate).
 
 Perhaps I'll see one of you in the friendly skies one of these days.
 
