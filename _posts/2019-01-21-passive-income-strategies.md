@@ -75,6 +75,15 @@ Below are a couple of the ideas I've had:
      put in a book and share with others.
    * [Stratechery](https://stratechery.com) isn't royalty-based, but it's
      a neat way to monetize all those smarts Ben Thompson's got in his head.
+* Vending Machine
+   * I think this is largely a real estate game. You have to find the places
+     with good traffic with hungry, anxious, bored, etc people with no other
+     options. You have to make sure the rate of vandalism is low enough that
+     you aren't going to lose sleep over broken front panels or stolen goods.
+     But, if you have the capital and connections to acquire a machine and
+     get it somewhere good, this probably isn't a bad passive strategy.
+     You could probably pay someone to collect the money for you at some
+     point.
 * (Subscription) Software
    * I'm thinking stuff like [Freedom](http://freedom.to), or
      [TimeOut](https://itunes.apple.com/us/app/time-out-break-reminders/id402592703?mt=12). I feel like this strategy is more frontloaded than some of the
