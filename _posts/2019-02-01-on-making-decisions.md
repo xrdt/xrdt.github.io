@@ -75,4 +75,10 @@ looking??? It's just going to be harder and harder to find useful nuggets
 that can push us closer to a decision. So stop wasting time, mental energy,
 etc. and make the decision! If you have uncertainties that you can
 easily resolve, then resolve them! Ask whoever you need to ask. Declare
-something to be unimportant.
+something to be unimportant. Make a decision and move forward with your life
+to doing the important work of making your decision a reality. And if you
+fail? That's great, because we learn a lot through failure. In fact, the
+tighter you can get the decide-act-feedback loop, the more you will learn.
+That's another incentive for you to make decisions faster.
+
+Comments, questions, stories, etc can go to my email.
