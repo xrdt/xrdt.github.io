@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Informattion with a Long Half Life"
+title: "Information with a Long Half Life"
 ---
 *Author: Bianca Yang*<br>
 *Email: <a href="mailto:ipacifics@gmail.com?subject=Hello from the XDRT Blog">ipacifics@gmail.com</a>*<br>
