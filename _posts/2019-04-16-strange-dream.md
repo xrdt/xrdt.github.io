@@ -5,7 +5,7 @@ title: "Strange Dream"
 *Author: Bianca Yang*<br>
 *Email: <a href="mailto:ipacifics@gmail.com?subject=Hello from the XDRT Blog">ipacifics@gmail.com</a>*<br>
 
-I had been waiting for my student pilot for about four months at this point.
+I had been waiting for my student pilot certificate for about four months at this point.
 I'd completed the IACRA registration on Dec 15, 2018. With a 120 day valid
 period, I had until April 15, 2019 to get my plastic card. Well, the months
 passed by. There were some issues with the system so my record wasn't
