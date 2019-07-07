@@ -43,3 +43,6 @@ Media⁩ ▸ Tones)
 device name in iTunes. Drag the newly created \*\*\*.m4r file into this Tones
 section. You should now be able to use the new ringtone. You can delete any
 of the intermediate songs from your iTunes library.
+
+Update, July 7: Applescript for doing the above, except for step 13, is
+[here](https://github.com/xrdt/AppleScripts).
