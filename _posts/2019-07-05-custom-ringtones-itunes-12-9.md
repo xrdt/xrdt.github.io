@@ -46,3 +46,4 @@ of the intermediate songs from your iTunes library.
 
 Update, July 7: Applescript for doing the above, except for step 13, is
 [here](https://github.com/xrdt/AppleScripts).
+If you prefer an app, you can download it from [here](../../../custom_ringtones.app)
