@@ -1,2 +1,4 @@
-*.swp
-*.bash
+/*
+
+!.gitignore
+!_site/
