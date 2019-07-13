@@ -1,0 +1,17 @@
+Today, I’d like to introduce you to one of my favorite newsletter compilers: [Austin Kleon](https://austinkleon.com/). Austin Kleon is an artist who lives in Austin, Texas. That’s about all I know about him. He’s written a couple of books on being an artist, which he frequently weaves into his blog posts and newsletter. He included a quote in one of his blog posts from [Sarah Manguso](https://www.google.com/search?client=safari&rls=en&q=sarah+manguso&ie=UTF-8&oe=UTF-8), who is a writer. Again, I don’t know much about her. Austin pulled out one of her quotes: 
+
+The purpose of being a serious writer is not to express oneself, and it is not to make something beautiful, though one might do those things anyway. Those things are beside the point. The purpose of being a serious writer is to keep people from despair. If you keep that in mind always, the wish to make something beautiful or smart looks slight and vain in comparison. If people read your work and, as a result, choose life, then you are doing your [job](http://tumblr.austinkleon.com/post/163762573336). 
+
+
+It’s scary to think about how fragile the human mind is. Most of us are on the brink of mental collapse, and each little burden we add to our daily cross pushes us closer and closer to that brink, where we can stare off the edge without fear and fall into eternal punishment. 
+
+We use art to refocus our souls. I think Manguso’s quote is generalizable to other forms of art. We need art and beauty and nature to help us refind ourselves. As Steve Jobs said: 
+
+If you just sit and observe, you will see how restless your mind is. If you try to calm it, it only makes it worse, but over time it does calm, and when it does, there's room to hear more subtle things - that's when your intuition starts to blossom and you start to see things more clearly and be in the present more. Your mind just slows down, and you see a tremendous expanse in the moment. You see so much more than you could see before. 
+
+The constant chit chat of the internet, the buzz of the cars on the road, the vibration of our phone, the flickering screen of our computer, etc. It’s never ending, but you have a choice to make it stop. Take a couple hours each week to sit, reflect, and do something meaningful. Write something deep or just go deep within your consciousness through meditation. Try to locally optimize your life at every point for your values. No one can steal you away from what is important to you. Stand up for what you believe in. 
+
+
+I have come to believe that college is a four-year summer camp. I feel like everybody around me is trying to perpetuate their youth while I am trying to grow up.
+
+I won’t deny that college has done wonders for exposing me to career opportunities and for rewiring my brain. I think it’s extremely important to lay all your beliefs down and reconfigure them every couple of months. It’s important to know the limits of your knowledge and your beliefs so you can build up strength where you need it the most. The best books are the ones that tear apart your brains at the seams, insert some new material, and have you try to find a way to put the pieces back together. You want to read books that completely turn your model of the world upside down so you can make that model more robust. Books that can be easily summarized into a long-form article, like the Gladwell books and Gawande’s book, are not at that level of profound. If you read Asimov’s __I, Robot__ or Andy Grove’s __High Output Management__, I think you’ll understand. 
