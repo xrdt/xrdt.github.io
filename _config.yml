@@ -10,3 +10,4 @@ footer-links:
   github: xrdt
 
 plugins:
+    ['jekyll-twitter-plugin']

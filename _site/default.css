@@ -88,15 +88,16 @@ iframe {
     background: #ccffd5;
 }
 
-.project_header {
-    font-weight: normal;
-    text-decoration: underline
-}
-
-.project_sub {
-    font-weight: normal;
-}
-
 blockquote {
     font-size: 1.1em;
+}
+
+#twitter {
+    float: right;
+    width: 30%;
+    margin-right: 10%;
+}
+
+#search {
+
 }
