@@ -21,7 +21,7 @@ about me by now (it was in middle school).
 
 I stopped drawing these comics after 8th grade, I think. That's at least
 where the trail stops cold. I think I'll pick up the comic hobby again, since
-I have such strong nostalgia \*.\* for these characters and because it was
+I have strong nostalgia \*.\* for these characters and because it was
 just plain fun.
 
 Anyway,
