@@ -11,3 +11,5 @@ footer-links:
 
 plugins:
     ['jekyll-twitter-plugin']
+
+pagination: 20

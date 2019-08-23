@@ -5,6 +5,14 @@ title: "Moving and New Job and Other Miscellaneous Things"
 *Author: Bianca Yang*<br>
 *Email: <a href="mailto:ipacifics@gmail.com?subject=Hello from the XDRT Blog">ipacifics@gmail.com</a>*<br>
 
+Note: This post is heavy on the complaining.
+
+Update 08/22/2019: Did I mention that the house doesn't have air conditioning?
+This past week has been absolute brutal. Temperatures have been over 90deg,
+reaching probably over 100deg in this 50 year old (almost 60 yr old) house
+with insulation so bad that it traps heat. It's practically inhumane to be
+in this house in the summer.
+
 Hello all, it's been a while since I last posted. For those who have the
 luxury of idle time and pliable, trigger-ready thumbs and an internet
 connection fast enough to browse the hottest social network, LinkedIn, you
