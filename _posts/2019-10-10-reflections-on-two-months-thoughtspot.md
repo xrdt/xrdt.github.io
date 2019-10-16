@@ -97,6 +97,12 @@ Our [Beyond](https://www.thoughtspot.com/beyond2019) conference is next week.
 We have a lot of new features we are excited to launch, and I'm looking
 forward to seeing the attendees ooh and aah over our improvements.
 
+Update 10/11/19: One of the pain points is that we only have two people on
+recruiting. They are definitely overburdened with all the work required to get
+our new grads, interns, and regular full-time hires into the system.
+
+Update 10/15/19: HR is also understaffed, with four people total managing
+our global staff of 500 and still trying to catch up on writing formal policy.
+
 Questions about Thoughtspot or me or this post? Email me @
 ipacifics@gmail.com (personal) or bianca.yang@thoughtspot.com (work).
-
