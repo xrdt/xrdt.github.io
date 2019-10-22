@@ -111,3 +111,33 @@ to a lot of companies and representatives at fairs. Make sure they don't
 forget you by giving them a contact point for questions or applications.
 * Connect with candidates where they are. Each person is different. Craft your
 message for each top candidate and make sure their needs are being met.
+
+Update 10/22/19: ThoughtSpot just hired
+[Bob Baxley](https://www.linkedin.com/in/bbaxley) as our senior VP of
+design and experience. Of course, this man is brilliant. I just finished
+reading the
+[transcript of his talk](https://medium.com/front-conference/designing-the-machine-that-designs-the-designs-by-bob-baxley-3bde2061ac6d)
+on design management, where he included a ridiculously clear outline for how
+to run on-site interviews. He lays out the a schedule for the entire day's
+interview and even includes a clear rubric for how to evaluate a designer's
+portfolio presentation. After reading this transcript, I started to wonder why
+technical interviews don't proceed this way. Why don't we have candidates
+present on their portfolio and then work collaboratively with other engineers
+on a neutral but interesting problem?
+
+The current "best practice", if you can
+even call it that, is to use LeetCode or HackerRank questions to filter
+candidates. I'm pretty sure people think those questions are of marginal
+relevance...we also ask *so many* of them over an interviewing cycle (up to 8,
+if I'm counting 2 - 3 phone screens + up to 5 on-site sessions correctly). The
+fact that the industry thinks we need 8 questions to determine a candidate's
+suitability must mean the questions are low signal. This approach also largely
+ignores a candidate's previous experience and does not do a particularly good
+job of teasing out a candidate's passion for building good software -- it just
+tests how well they've mastered thinking like a competitive programmer.
+
+I'm in favor of moving towards an interviewing model like the one Bob Baxley
+has laid out. I'm also highly in favor of moving on the schedule he proposes,
+where the candidate, not the company is the bottleneck in scheduling next
+steps.The only question that remains is: what do designers ask on the phone
+screen?
