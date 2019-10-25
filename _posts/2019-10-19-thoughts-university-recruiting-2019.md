@@ -58,6 +58,11 @@ I just gave for arbitrary rejections of candidates are systemically an issue,
 because most people tend to be pretty fair in their evaluations. What is
 clear, though, is that people do not normally have good rubrics for candidate
 evaluation, which means evaluation is inconsistent and sometimes arbitrary.
+(Update 10/24/19: This issue for sure extends throughout a company. If
+hiring depends on engineers individually coming up with good criteria for
+judging a candidate, there is certainly no top-down direction around what
+kind of candidate matches culture, technical aptitude, areas of expertise, so
+forth.)
 
 There was also no top-down direction about the kinds of people we want to be
 hiring. The assumption seems to be that we are smart engineers that can
@@ -135,6 +140,15 @@ suitability must mean the questions are low signal. This approach also largely
 ignores a candidate's previous experience and does not do a particularly good
 job of teasing out a candidate's passion for building good software -- it just
 tests how well they've mastered thinking like a competitive programmer.
+
+Update 10/24/19: One of the arguments in favor of Google's use of coding
+questions for candidates at every level is that they need to maintain a
+baseline level of coding ability. It's a fair point, but I don't think
+interviewers are necessarily careful enough in selecting the right questions.
+This issue may be a higher level issue, even, that the hiring manager or
+person who selected the interviewing panel didn't give good enough
+instructions to the panel regarding what profile should be tested for. Anyway,
+common rubric is the theme I want to push.
 
 I'm in favor of moving towards an interviewing model like the one Bob Baxley
 has laid out. I'm also highly in favor of moving on the schedule he proposes,
