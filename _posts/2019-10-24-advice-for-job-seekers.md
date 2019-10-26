@@ -134,7 +134,7 @@ any further conversation with them.
    company has been treating them well and that they believe in the company.
    It also shows that the team gels well and that they like the quality of
    work they have been producing.
-   * What is the path to yes? I am pulling this from
+   * [What is the path to yes](https://news.ycombinator.com/item?id=19507567)? I am pulling this from
    [Bob Baxley](https://medium.com/front-conference/designing-the-machine-that-designs-the-designs-by-bob-baxley-3bde2061ac6d),
    ThoughtSpot's new SVP of design and experience. This question is getting
    at operations and internal process. How easy is it to push new initiatives
