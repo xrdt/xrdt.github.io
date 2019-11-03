@@ -5,6 +5,8 @@ title: "Advice for Job Seekers (New Grads)"
 *Author: Bianca Yang*<br>
 *Email: <a href="mailto:ipacifics@gmail.com?subject=Hello from the XDRT Blog">ipacifics@gmail.com</a>*<br>
 
+All advice is autobiographical.
+
 If you want an interesting job in Secops, look no further:
 [https://latacora.com](https://latacora.com).
 
