@@ -93,7 +93,7 @@ different functions in the business and potentially in the industry.
    be comfortable seeing you as a fellow coworker. So try to fit in during
    lunch or other events they may have you participate in.
    * [Recognize that most questions these interviewers as you are total
-   BS.](My article )
+   BS.](../../11/24/technical-interview-question-bad.html)
 * [*I*](#Outfitu)<a name="Outfitd"></a> don't care what you dress in at a career fair, as long as it's clean
 and doesn't have holes. This is a perk of the tech industry.
 *You should dress
