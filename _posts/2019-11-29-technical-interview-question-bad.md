@@ -78,6 +78,23 @@ it to you. If they cannot (e.g. explain multithreading to me, complexity
 analysis of the algorithm they wrote, stack vs heap), then you have found a
 hole that you must mark on your rubric.
 
+Update: Of course Steve Yegge is still the foremost authority on the topic of
+how to properly conduct interviews. He published a [Medium article](https://medium.com/@steve.yegge/get-that-job-at-grab-eea6de1d8421)
+in 2018 on some small updates to his approach to interviewing. The most
+relevant sentence in that article about is about whether to do a breadth-first
+or depth-first search into the candidate's abilities and knowledge. The
+answer? Ding ding! _Breadth first_! The depth first approach of let me ask you
+some modified Leetcode questions gives you such little signal. It illuminates
+only the tiniest portion of the candidate's ability, leaving you still
+wondering at the end of the session or even the end of four of five of these
+sessions (on site interview) whether the candidate is a good engineer. That is
+why I am so enamored with Yegge's five essential questions for phone screens.
+Only by digging all around and poking harder at the parts that seem weird do
+you get a good holistic sense for whether a candidate knows enough about
+software to be useful. Anyway, I hope you read all of [Yegge's](https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
+posts on [interviewing](https://steve-yegge.blogspot.com/2006/03/truth-about-interviewing.html), not just the select few I've laid out here for your
+perusal.
+
 Sometimes people make a big deal out of cultural fit. Nobody wants to work
 with an asshole, but unless you're running an exclusive cult I think most
 people can fit into their team...What *is* an area of concern is
