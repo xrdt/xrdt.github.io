@@ -16,3 +16,5 @@ title: "Things I Can do to Improve my Life"
 * Make more smart friends in tech / entrepreneurship, esp. people I can meet in person in the Bay Area
 * Discover what I actually want to do with my life
 * Improve my focus
+* Learn how to do a handstand
+* Fully commit to a keto diet.

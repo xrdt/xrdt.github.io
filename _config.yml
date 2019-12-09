@@ -9,7 +9,4 @@ footer-links:
   twitter: xdrtxrdt
   github: xrdt
 
-plugins:
-    ['jekyll-twitter-plugin']
-
 pagination: 20

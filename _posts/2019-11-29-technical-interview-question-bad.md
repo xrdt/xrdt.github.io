@@ -5,6 +5,10 @@ title: "The Dreaded Technical Interview Question"
 *Author: Bianca Yang*<br>
 *Email: <a href="mailto:ipacifics@gmail.com?subject=Hello from the XDRT Blog">ipacifics@gmail.com</a>*<br>
 
+Update 12/7/19): For phone interviews, I now use
+[Steve Yegge's Five Essential Phone Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions). I haven't decided
+what is best to ask for on sites...
+
 I conducted my first onsite technical interview on Thursday this past week
 (11/21).
 I spent a long (probably too long) time sweating over what question to ask and
