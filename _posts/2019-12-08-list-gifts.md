@@ -15,6 +15,13 @@ Things that I want:
 * [Custom molded ear plugs](https://www.amazon.com/Decibullz-Earplugs-Comfortable-Protection-Shooting/dp/B01N129AQ8/ref=sr_1_4?keywords=earplugs+custom&qid=1575859569&sr=8-4)
 * [3L Water Reservoir](https://www.amazon.com/CamelBak-Crux-Reservoir-Set-Blue/dp/B01LA5FCJ2/ref=sr_1_24?dchild=1&keywords=water+reservoir+3l&qid=1575874263&sr=8-24)
 * [Leatherman Wave or equivalent multi-tool](https://www.amazon.com/LEATHERMAN-Wave-Multitool-Stainless-Steel/dp/B079MJBP21/ref=sr_1_1?keywords=wave+leatherman&qid=1575859269&sr=8-1)
+* [A Good Windbreaker (medium)](https://www.marmot.com/womens-trail-wind-hoody-58840.html)
+* [Good winter pants (size 10)](https://www.duluthtrading.com/womens-no-exposure-bonded-flex-fire-hose-pant-84805.html?dwvar_84805_color=BLK&cgid=womens-bottoms-lined-pants#start=4&cgid=womens-bottoms-lined-pants)
+* [Nice Kettlebells (6kg up)](https://aderfitness.com/product-category/kettlebells/)
+* Battle Ropes and Anchor
+* Barbell
+* [Skateboard](https://www.skatewarehouse.com/buildcomplete.html#deck=GIBMNVDK&trucks=TUSOTRBKBKJ&wheels=RICLOWH540&bearings=BSREDBR&hardware=BSHW1&griptape=JSGT)
+* [A Gorgeous Knife](https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/127012)
 * Some smart bulbs...I'd like to wake up earlier but have a hard time feeling motivated to be awake when it's dark outside. [Philips Hue](https://www2.meethue.com/en-us/starter-kits) is an option
 
 Things that I'd be happy to gift others:
@@ -23,8 +30,11 @@ Things that I'd be happy to gift others:
 * [Cast Iron Pan](https://www.amazon.com/Lodge-Skillet-Pre-Seasoned-Skillet-Silicone/dp/B00G2XGC88/ref=sxin_3_ac_d_rm?ac_md=0-0-Y2FzdCBpcm9uIHBhbg%3D%3D-ac_d_rm&keywords=cast+iron+pan&pd_rd_i=B00G2XGC88&pd_rd_r=784d15c7-e175-4d77-b5d8-ab31854d4e7b&pd_rd_w=dXk90&pd_rd_wg=WJaUB&pf_rd_p=6d29ef56-fc35-411a-8a8e-7114f01518f7&pf_rd_r=A9YV5HRVJPHDZH4D2PZ7&psc=1&qid=1575859625)
 * [Super Fancy Headlamp](https://www.amazon.com/ELMCHEE-Rechargeable-headlamp-Waterproof-Flashlight/dp/B07Q8G36QV/ref=sxin_3_ac_d_rm?ac_md=0-0-aGVhZGxhbXA%3D-ac_d_rm&keywords=headlamp&pd_rd_i=B07Q8G36QV&pd_rd_r=2f28e3f9-b663-4e51-8416-034820142b1e&pd_rd_w=Az0Zn&pd_rd_wg=0rDNy&pf_rd_p=6d29ef56-fc35-411a-8a8e-7114f01518f7&pf_rd_r=K6N9S08PMQHQCWXF23XH&psc=1&qid=1575859823)
 * [Simpler headlamp](https://www.amazon.com/Foxelli-Headlamp-Flashlight-2-Pack-Lightweight/dp/B07VCTYYZX/ref=sr_1_28?keywords=headlamp&qid=1575859823&sr=8-28)
+* [3L Water Reservoir](https://www.amazon.com/CamelBak-Crux-Reservoir-Set-Blue/dp/B01LA5FCJ2/ref=sr_1_24?dchild=1&keywords=water+reservoir+3l&qid=1575874263&sr=8-24)
 * [Waterproof Socks](https://www.amazon.com/RANDY-SUN-Waterproof-Half-Cushion-Multisport/dp/B07BXMDPW5/ref=sxin_3_ac_d_rm?ac_md=0-0-d2F0ZXJwcm9vZiBzb2Nrcw%3D%3D-ac_d_rm&keywords=waterproof+socks&pd_rd_i=B07BXMDPW5&pd_rd_r=8e1bec2f-c5d4-4819-af15-0ca490705f55&pd_rd_w=iaT1e&pd_rd_wg=KqoyL&pf_rd_p=6d29ef56-fc35-411a-8a8e-7114f01518f7&pf_rd_r=8CFKPRAKWVEHY70PBW6B&psc=1&qid=1575859946)
 * [Basic First Aid Kit](https://www.amazon.com/dp/B00W4WDRRU/ref=cm_sw_r_cp_apa_JbAABb17927C4)
 * [Uniqlo HeatTech or equivalent thin clothes that are super effective at keeping you warm](https://www.uniqlo.com/us/en/women/heattech-collection)
 * [Some good books](https://xrdt.github.io/books_readings.html)
+* [Nice knife](https://www.amazon.com/Mercer-Cutlery-Japanese-Style-Santoku-Knife/dp/B001EN6D62/ref=sr_1_3?s=home-garden&ie=UTF8&qid=1323154828&sr=1-3&tag=bifl1-20)
+* [Indestructible Military Issue Can Opener](https://www.amazon.com/P-38-Can-Opener-P-51/dp/B07NM2FF7C)
 * Cash, so people can buy experiences or save or just not be subjected to what I think is cool
