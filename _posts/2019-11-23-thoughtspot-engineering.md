@@ -9,7 +9,7 @@ This is partly to document the current state of the system and to help candidate
 getting into.
 
 <u>The Five Engineering Teams</u>:
-* Falcon (built our in-house database and manages data loading interfaces)
+* Falcon (our in-house database and manages data loading interfaces)
 * Sage (search engine. Responsible for tokenizing input and turning input into intermediate SQL-like query. Also responsible for surfacing
 completions as user types into search bar)
 * Callosum (application server that manages connections between Sage -> Falcon and Falcon -> Blink. Also translates the output from Sage into
