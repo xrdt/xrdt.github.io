@@ -13,3 +13,4 @@ title: "List of Skills You Aren't Likely to be Taught"
 6. Firing / [Hiring people](https://nav.al/build-a-team-that-ships) (Hire doers)
 7. Doing BHA (big hairy audacious things)
 8. Negotiation. Think like a gangster.
+9. That you should follow your nose because every great journey begins with curiosity (wonder is also a good synonym).

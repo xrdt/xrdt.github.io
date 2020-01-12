@@ -10,9 +10,9 @@ released because pharmaceutical companies would suppress the cure to guarantee t
 cancer drugs. Another coworker immediately responded by saying that such a scheme would be unlikely to happen
 because it would require silencing too many independent researchers (whom would likely be responsible world citizens
 and push for the release as aggressively as possible) and other non-self-interested entities. This other coworker
-also said that free markets work to prevent such forms of collusion from happening. If I had more balls, I would have
-laughed out loud and listed off just a couple of examples of modern collusion. I guess I have more balls on the internet
-than in real life, so here's my (desperately incomplete and US focused) list:
+also said that free markets work to prevent such forms of collusion from happening. I don't believe free markets
+have any guarantee on preventing collusion and corrupt behavior. This list is merely a showcase of cases where
+free markets haven't prevented special interests from fighting against what I think is better for the masses.
 * Big Tobacco: The Surgeon General published a report in [1964 linking smoking cigarettes (tobacco) to lung
 cancer](https://www.pbs.org/newshour/health/first-surgeon-general-report-on-smokings-health-effects-marks-50-year-anniversary)
 but it took 55 (!) years before the US passed a [federal
@@ -45,6 +45,13 @@ radical things and keep them hidden indefinitely.
 * [Danger of nuclear technologies](https://threadreaderapp.com/thread/1105105488197357569.html)
 * The entire underworld and black market: drugs, prostitutes, sex slaves, child soldiers, illegal arms, organ harvesting, just about everything
 you know is being traded but don't want to think about.
+* This is a really good one: [preference falsification](http://rationallyspeakingpodcast.org/show/rs-198-timur-kuran-on-private-truths-and-public-lies.html), or actions don't reveal preferences.
+  * One simple, fairly innocuous example: you agree to watch a movie with your friend group that you don't actually like to avoid social conflict.
+  * Another simple, not so innocuous example: you pretend to like the oppressive dictatorship genocide other human rights violations committing regime that you live under so you don't die.
+  * Related to ^^; not so innocuous example: you were high up in the oppressive regime but now it's been overthrown so you pretend you were always against that regime so you don't die.
+  * Have you had enough? What about all the dick suckers and ass kissers that are high up in corporate disasters like Enron or WeWork? Surely they don't want to lose their
+    $1 mil / year salaries and beautiful Manhattan penthouse or Texan mansion and their private jets by speaking out against their oh so benevolent employers.
+  * And this oh so beautiful [pyramid](https://twitter.com/harmonylion1/status/1215674705417424898) explains so much.
 * [Madoff](https://vi.wikipedia.org/wiki/Bernard_Madoff) and other Ponzi schemes
 * [Wikipedia list of proven conspiracies](http://web.archive.org/web/20190422213709/https://en.wikipedia.org/wiki/List_of_proven_conspiracies)
 
