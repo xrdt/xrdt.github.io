@@ -10,7 +10,7 @@ title: "List of Skills You Aren't Likely to be Taught"
 3. [What to do you with your life](http://www.windsweptsoftware.net/rickoverthoughts.pdf) and how to figure it out
 4. How to keep yourself spiritually, physically, and mentally sharp (nutrition, anyone?)
 5. Courage / willpower / integrity / commitment
-6. Firing / [Hiring people](https://nav.al/build-a-team-that-ships) (Hire doers)
-7. Doing BHA (big hairy audacious things)
-8. Negotiation. Think like a gangster.
+6. Firing / [Hiring people](https://nav.al/build-a-team-that-ships) (Hire people that get things done)
+7. All it takes to do BHA (big hairy audacious things) is willpower and curiosity. The rest is luck.
+8. Negotiation. How to think like a gangster.
 9. That you should follow your nose because every great journey begins with curiosity (wonder is also a good synonym).
