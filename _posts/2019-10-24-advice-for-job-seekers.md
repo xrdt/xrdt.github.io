@@ -19,6 +19,7 @@ Table of Contents:
 * [GPA doesn't matter](#GPAd)<a name="GPAu"></a>&shy;
 * [Skill meters are useless for your resume](#Skilld)<a name="Skillu"></a>&shy;
 * [Getting a job is about networking](#Networkingd)<a name="Networkingu"></a>&shy;
+* [Find a problem you can engage with](#Problemd)<a name="Problemu"></a>&shy;
 * [What do you want to get out of your job](#Goalsd)<a name="Goalsu"></a>&shy;
 * [Take your interviews seriously](#Seriousd)<a name="Seriousu"></a>&shy;
 * [I don't care what you wear (to a point)](#Outfitd)<a name="Outfitu"></a>&shy;
@@ -55,6 +56,12 @@ help.
    algorithms / data structures skills. The company is trying to see how you
    can help them get things done. Make sure you can prove your worth in the
    interview.
+* [Look](#Problemu)<a name="Problemd"></a> for a company that is working on a problem that you think is worth working
+on for at least the next 10 years. 10 years is kind of arbitrary, but I think it's long enough to require serious thought.
+If you think the problem is easily solvable in 1 year with long weekends and hours, probably the ambitions of the company
+aren't high enough. If they've pretty much already finished the product and are transitioning (even with noticing it...
+why else would they hire you) into [more maintenance mode](https://news.ycombinator.com/item?id=20306289), you may not want
+to join. If you don't find the problem legitimate, interesting, or worth solving, don't join. The world is full of problems.
 * [Always](#Goalsu)<a name="Goalsd"></a> try to think of how you can help the company and how they can
 help you. The relationship *must* be mutually beneficial. Typically, young
 people don't have much clarity on where you can have the most impact or what
@@ -74,6 +81,16 @@ different functions in the business and potentially in the industry.
    speak up as soon as you feel like you're not going to get something
    meaningful back for your time. Watch out for dead-end projects in
    internships, because they will hurt your performance in future interviews.
+   * Take the question of your tenure at the company seriously. Consider that it
+   probably takes 2 - 3 years for you to settle into a company. Only after you've
+   matured in a company's way of doing things and problem can you begin to work on
+   projects that are actually meaningful to the company's structure, bottom line, etc.
+   If you don't think the company can provide you a long enough runway to get you
+   to takeoff in 2 - 3 years, you probably shouldn't [join](#Problemd). The question of
+   tenure here isn't about the money. It's about finding a place that makes you happy and will
+   allow you to fully apply and level up your skills. Give each place at least 6 months before you
+   jump, if you absolutely have to. Before you jump, you should work with your manager and leadership to
+   see how the work environment can be adjusted to better fit your needs.
 * [Take](#Seriousu)<a name="Seriousd"></a> the interviews seriously.
    * Make sure you prepare. Do *not* waste anybody's time. It is expensive
    to have engineers interview you and it is expensive to bring you out for

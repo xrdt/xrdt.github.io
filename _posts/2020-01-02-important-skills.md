@@ -14,3 +14,5 @@ title: "List of Skills You Aren't Likely to be Taught"
 7. All it takes to do BHA (big hairy audacious things) is willpower and curiosity. The rest is luck.
 8. Negotiation. How to think like a gangster.
 9. That you should follow your nose because every great journey begins with curiosity (wonder is also a good synonym).
+10. Organization. How to organize and manage your life (prioritization, focus, discipline).
+10a. Personal Knowledge Repository. How do you manage all the information that you consume and think is important.
