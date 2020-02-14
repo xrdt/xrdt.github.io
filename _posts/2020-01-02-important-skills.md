@@ -9,7 +9,9 @@ title: "List of Skills You Aren't Likely to be Taught"
 2. Who to have loyalty to
 3. [What to do you with your life](http://www.windsweptsoftware.net/rickoverthoughts.pdf) and how to figure it out
 4. How to keep yourself spiritually, physically, and mentally sharp (nutrition, anyone?)
-5. Courage / willpower / integrity / commitment
+5. Courage (when to stand up for things) / willpower (getting things done is a
+matter of someone being hardheaded enough to push through walls) / integrity
+(do the right thign) / commitment / responsibility
 6. Firing / [Hiring people](https://nav.al/build-a-team-that-ships) (Hire people that get things done)
 7. All it takes to do BHA (big hairy audacious things) is willpower and curiosity. The rest is luck.
 8. Negotiation. How to think like a gangster.
