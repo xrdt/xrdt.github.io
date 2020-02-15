@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: thoughts
 ---
 
 <section class="content">
@@ -20,7 +20,36 @@ layout: default
     {%include search-lunr.html %}
 </div>
 
-{% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <p class="author">
+    <span class="date">{{ post.date }}</span>
+  </p>
+  <div class="content">
+    {{ post.content }}
+  </div>
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      Previous
+    </a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+<!--{% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
 {% for yearMonth in postsByYearMonth %}
   <h3>{{ yearMonth.name }}</h3>
     <ul>
@@ -28,7 +57,7 @@ layout: default
       <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: '%B %d, %Y' }} {{ post.title }}</a></li>
       {% endfor %}
     </ul>
-    {% endfor %}
+    {% endfor %}-->
 
 <br>
 <br>
