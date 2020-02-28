@@ -17,7 +17,7 @@ layout: default
 </ul>
 
 <div id="search">
-    {%include search-lunr.html %}
+    {% include search-lunr.html %}
 </div>
 
 {% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
