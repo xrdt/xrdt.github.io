@@ -20,7 +20,9 @@ Quotes are taken from the "Soros Lectures" book.
 Update 03/23/2020: If you've already steeped yourself in the vagaries of Soros' reflexivity theory and want some qualifications
 on its applicability, I highly recommend you peruse the Preface he wrote to the 2nd edition of [<u>The Alchemy of
 Finance</u>](https://www.amazon.com/Alchemy-Finance-George-Soros/dp/0471445495/ref=sr_1_1?dchild=1&keywords=alchemy+of+finance&qid=1584980315&sr=8-1).
-You can read the Preface [here](https://epdf.pub/the-alchemy-of-finance-reading-the-mind-of-the-market.html).
+You can read the Preface [here](https://epdf.pub/the-alchemy-of-finance-reading-the-mind-of-the-market.html). The main point to take away from
+the Preface is that reflexivity only matters (because it is the driving force) in those rare cases when Extremistan takes over (hello COVID-19).
+I haven't read Taleb's <u>Black Swan</u>, but that's probably where you want to look for more information on the topic.
 
 __Introduction to Reflexivity and Fallibility__:<br>
 In situations with thinking participants (all situations involving humans interacting with each other), the participants'
