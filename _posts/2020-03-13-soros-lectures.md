@@ -17,6 +17,11 @@ future failures like 2007 - 2008 one.
 
 Quotes are taken from the "Soros Lectures" book.
 
+Update 03/23/2020: If you've already steeped yourself in the vagaries of Soros' reflexivity theory and want some qualifications
+on its applicability, I highly recommend you peruse the Preface he wrote to the 2nd edition of [<u>The Alchemy of
+Finance</u>](https://www.amazon.com/Alchemy-Finance-George-Soros/dp/0471445495/ref=sr_1_1?dchild=1&keywords=alchemy+of+finance&qid=1584980315&sr=8-1).
+You can read the Preface [here](https://epdf.pub/the-alchemy-of-finance-reading-the-mind-of-the-market.html).
+
 __Introduction to Reflexivity and Fallibility__:<br>
 In situations with thinking participants (all situations involving humans interacting with each other), the participants'
 views of the world are partial and distorted (fallibility).[[1]](#1down)<a name="1up"></a> "[Reflexivity] is that these distorted views can

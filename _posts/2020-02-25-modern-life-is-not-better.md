@@ -19,3 +19,5 @@ title: "Dare I Say Modern Problems"
 | --- | --- |
 | Acceleration of society and our inability to keep up with | [Marshall McLuhan](https://en.wikipedia.org/wiki/Marshall_McLuhan), [good books](../../../books_readings.html) that are more than 50 years old, ancient wisdom |
 | --- | --- |
+
+Note: We are running on a [hedonic treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill).
