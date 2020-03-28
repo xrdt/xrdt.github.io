@@ -45,6 +45,7 @@ radical things and keep them hidden indefinitely.
 * [Danger of nuclear technologies](https://threadreaderapp.com/thread/1105105488197357569.html)
 * The entire underworld and black market: drugs, prostitutes, sex slaves, child soldiers, illegal arms, organ harvesting, just about everything
 you know is being traded but don't want to think about.
+* [Manufacturing Monopolies in the US](https://www.theamericanconservative.com/articles/americas-monopoly-crisis-hits-the-military/)
 * This is a really good one: [preference falsification](http://rationallyspeakingpodcast.org/show/rs-198-timur-kuran-on-private-truths-and-public-lies.html), or actions don't reveal preferences.
   * One simple, fairly innocuous example: you agree to watch a movie with your friend group that you don't actually like to avoid social conflict.
   * Another simple, not so innocuous example: you pretend to like the oppressive dictatorship genocide other human rights violations committing regime that you live under so you don't die.
