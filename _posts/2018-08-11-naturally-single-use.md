@@ -88,10 +88,10 @@ free passes they have been given. They aren't really affected, is what they
 think. Hippies are the only ones who are deluded enough to care and live
 on a farm or trash-free. How can they raise their kids like that? I think
 that, as I'm sure people have anecdotally discovered, that the more they
-put into achieving low-waste, low consumption, sustainble lifestyles, the
+put into achieving low-waste, low consumption, sustainable lifestyles, the
 more they get out of their lives. Analogously, the more you put into exercise,
 the more you get out of it. Let's help people create these positive feedback
-cycles and realize that growing their own food sustainbly can be fun. Living
+cycles and realize that growing their own food sustainably can be fun. Living
 no- or low-waste can be equivalent or better than living high-waste. Using
 less water doesn't make you miserable. Riding your bike rather than commuting
 by car makes you more happy (endorphins!). Being outside rather than using

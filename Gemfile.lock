@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/sverrirs/jekyll-paginate-v2.git
+  revision: 0e149fddb9a93161e8e9e9cf42d34aee493d768c
+  specs:
+    jekyll-paginate-v2 (3.0.0)
+      jekyll (>= 3.0, < 5.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -243,6 +250,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-paginate-v2!
 
 BUNDLED WITH
    2.0.2

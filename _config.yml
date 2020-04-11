@@ -9,3 +9,6 @@ footer-links:
   twitter: xdrtxrdt
   github: xrdt
 
+plugins: [jekyll-paginate-v2]
+paginate: 25
+paginate_path: "/thoughts/page:num/"
