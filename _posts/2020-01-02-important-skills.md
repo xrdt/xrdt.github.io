@@ -15,6 +15,9 @@ matter of someone being hardheaded enough to push through walls) / integrity
 6. Firing / [Hiring people](https://nav.al/build-a-team-that-ships) (Hire people that get things done)
 7. All it takes to do BHA (big hairy audacious things) is willpower and curiosity. The rest is luck.
 8. Negotiation. How to think like a gangster.
-9. That you should follow your nose because every great journey begins with curiosity (wonder is also a good synonym).
+9. That you should follow your nose because every great journey begins with
+curiosity (wonder is also a good synonym).
 10. Organization. How to organize and manage your life (prioritization, focus, discipline).
  * Personal Knowledge Repository. How do you manage all the information that you consume and think is important.
+11. Analyzing path dependence. [Ben Thompson recorded a great podcast with
+James Allworth that covers this topic](https://stratechery.com/2020/exponent-podcast-the-water-we-swim-in/).
