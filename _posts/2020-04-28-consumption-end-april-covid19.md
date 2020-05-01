@@ -59,9 +59,24 @@ tired of the TV, so maybe throw some intellectual internet writing or books or
 manga at me next?
 
 Movies:
-* 霸王別姬 -- 實在是太遺憾，我在網上找到的版本是被切短的，最後那畫面都被割斷...
-等到...得去圖書館尋整版再次享受那風光
+* 霸王別姬 (Farewell my Concubine)
+  * I caught onto this because of a gif from some guy's Twitter feed. Turns
+  out it was banned and is pretty hard to find on the Internet. Well, I
+  finally managed to find a copy, and say through over two hours of a grueling
+  but absolutely fantastic story that blends the opera and real life.
+  Unfortunately, the version I watched was the cut one, so I'll have to hike
+  to the library for a DVD of the uncut one once this COVID-19 nonsense is
+  over. Amazing movie. Please watch. 實在是太遺憾，我在網上找到的版本是被切短
+  的，最後那畫面都被割斷。我實在是覺得這部電影刺透了我新的某某敏感部分。看那
+  些孩子忍心地受虐待，看著蝶依因他純心信任「從一而終」的苟活，看著小樓無原則
+  隨時代、隨情況的狗存在，誒，這電影達到我好像這生初次見到的高峰。非常推薦各
+  位空一下時間，欣賞陳凱格、張國榮、張豐毅、鞏俐為您創作的美術。
 * Saint Young Men
+  * I was introduced to this movie by a college otaku friend. Aside from a
+  couple of scenes which I'd already seen on the Internet (sauna), I wasn't
+  super interested in the movie. Both characters are very soft and overreact
+  in very endearing ways. It's kind of cute, watching them, but the novelty of
+  their strange rendition of innocence wore of pretty quickly.
 
 Now onto manga:
 * Banana Fish
