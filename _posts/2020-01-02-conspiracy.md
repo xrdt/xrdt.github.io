@@ -62,6 +62,8 @@ and [Four Quadrant Model](https://twitter.com/ericrweinstein/status/954860660436
 * [Peter Thiel on Stagnation](https://www.youtube.com/watch?v=iRleB034EC8)
 * [Police power](https://en.wikipedia.org/wiki/Police_power_(United_States_constitutional_law))
 and [eminent domain](https://en.wikipedia.org/wiki/Eminent_domain)
+* [The world goes upside down when you treat electricity as a
+right](https://marginalrevolution.com/marginalrevolution/2020/03/the-consequences-of-treating-electricity-as-a-right.html?ck_subscriber_id=547821799)
 
 There is absolutely no guarantee in the theory of free markets about entities acting for the greater good. I think the only thing a free market provides is the
 freedom for entities to pursue and profit from their self-interest. It's business, after all.
