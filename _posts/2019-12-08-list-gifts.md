@@ -8,9 +8,10 @@ title: "My Approved Gift List"
 Things that I want:
 * ~~[Gymnastics Rings 1](https://www.amazon.com/Rep-Gymnastic-Rings-Numbered-Straps/dp/B00QR1J5NY/)~~
 * ~~[Gymnastics Rings 2](https://www.amazon.com/Gymnastic-Fitness-Exercise-Wooden-Gymnast/dp/B01FTOCY0A/)~~
-* [Indestructible hooks for your rings](https://www.amazon.com/Jungle-Gym-Kingdom-Playground-Capacity/dp/B015OXL2MW/)
+* [Indestructible hooks for your ^ rings](https://www.amazon.com/Jungle-Gym-Kingdom-Playground-Capacity/dp/B015OXL2MW/)
 * [Airpods Pro](https://www.apple.com/airpods-pro/)
 * [Textblade. Literally the coolest keyboard you have seen. According to HNews, works amazing](https://waytools.com/store/showroom/info/textblade/tablet)
+* [Sonder Design Keyboard](https://sonderdesign.com)
 * [Blowgun (for anyone *not* living in CA or MA or NYC)](https://www.amazon.com/Venom-Blowguns®-40-Darts-Made/dp/B008H7M0Q0/)
 * [Custom molded ear plugs](https://www.amazon.com/Decibullz-Earplugs-Comfortable-Protection-Shooting/dp/B01N129AQ8/)
 * [3L Water Reservoir](https://www.amazon.com/CamelBak-Crux-Reservoir-Set-Blue/dp/B01LA5FCJ2/)
@@ -24,9 +25,9 @@ Things that I want:
 * [Uniqlo HeatTech (Medium pants XS shirt)](https://www.uniqlo.com/us/en/women/heattech-collection)
 * [Merino wool socks (I'm size 8)](https://www.amazon.com/DANISH-ENDURANCE-Merino-Light-9-5-12-5/dp/B07D8VRCTW/)
 * [Book stand](https://www.amazon.com/Adjustable-Portable-Hardcover-Textbooks-Bookrest/dp/B07HC9D6Y8/)
+* [Laptop Stand](https://www.amazon.com/Adjustable-Portable-Workstation-Notebook-Ergonomic/dp/B088PRM33M/ref=sr_1_33?dchild=1&keywords=laptop+stand&qid=1591123222&sr=8-33)
 * Battle Ropes and Anchor
 * Barbell
-* Some smart bulbs...I'd like to wake up earlier but have a hard time feeling motivated to be awake when it's dark outside. [Philips Hue](https://www2.meethue.com/en-us/starter-kits) is an option
 
 Things that I'd be happy to gift others:
 * My go to Gift Set (Choose at least one of the following):
@@ -40,6 +41,7 @@ Things that I'd be happy to gift others:
 * [Book stand](https://www.amazon.com/Adjustable-Portable-Hardcover-Textbooks-Bookrest/dp/B07HC9D6Y8/)
 * [Crock Pot](https://www.amazon.com/Crock-Pot-SCV401-TR-4-Quart-Manual-Cooker/dp/B000AB32PE/)
 * [Custom molded ear plugs](https://www.amazon.com/Decibullz-Earplugs-Comfortable-Protection-Shooting/dp/B01N129AQ8/)
+* [Blowgun (for anyone *not* living in CA or MA or NYC)](https://www.amazon.com/Venom-Blowguns®-40-Darts-Made/dp/B008H7M0Q0/)
 * [Cast Iron Pan](https://www.amazon.com/Lodge-Skillet-Pre-Seasoned-Skillet-Silicone/dp/B00G2XGC88/)
 * [Headlamp](https://www.amazon.com/Foxelli-Headlamp-Flashlight-2-Pack-Lightweight/dp/B07VCTYYZX/)
 * [3L Water Reservoir](https://www.amazon.com/CamelBak-Crux-Reservoir-Set-Blue/dp/B01LA5FCJ2/)

@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Trying New Things, But Especially Food"
+title: "How Do You Pay When You Try New Things, But Especially Food"
 ---
 *Author: Bianca Yang*<br>
 *Email: <a href="mailto:ipacifics@gmail.com?subject=Hello from the XDRT Blog">ipacifics@gmail.com</a>*<br>

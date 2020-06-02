@@ -9,16 +9,18 @@ title: "List of Skills You Aren't Likely to be Taught"
 Systemic problem solving.
 2. How to figure out who to have loyalty to.
 3. [What to do you with your life](http://www.windsweptsoftware.net/rickoverthoughts.pdf)
-and how to figure it out
+and how to figure it out.
 4. How to keep yourself spiritually, physically, and mentally sharp (nutrition,
-fitness, anyone?)
+fitness, anyone?).
 5. Courage (when to stand up for things) / willpower (getting things done is a
 matter of someone being hardheaded enough to push through walls) / integrity
-(do the right thing) / commitment / responsibility
+(do the right thing) / commitment / responsibility.
 6. Firing / [Hiring people](https://nav.al/build-a-team-that-ships) (Hire people
-that get things done)
+that get things done).
 7. All it takes to do BHA (big hairy audacious things) is willpower and
 curiosity. The rest is luck.
+ * Everything gets done because one person was antsy enough and had enough
+balls to push through all the barriers to get something done.
 8. Negotiation. How to think like a gangster.
 9. That you should follow your nose because every great journey begins with
 curiosity (wonder is also a good synonym).
@@ -46,3 +48,20 @@ acceptance of that destination is a switch you can't directly flip.
  some point there is nothing you can do to push them over the edge. They have to
  rock back and forth on that knife's edge of "do I accept this or not" until
  they are ok with the consequences of their decision.
+13. "You get rich by delivering to the world what it wants at scale." -- Naval.
+ * Lower and middle class people think they can get rich by working hard.
+That's equivalent to believing that you can get rich by playing with scaling up
+a linear function of your inputs to your outputs. The most linear function of
+your inputs to your outputs in this world is your salary. The more hours you put
+in, the more you get paid. There's a limit to how much money you can make by
+moving up the ladder, too. It's not an exponential scale, even if you start from
+a high base (high base careers include HFT, medicine, software eng).
+ * Rich people realize that they got rich by finding superlinear or even
+exponential functions to transform their inputs. A classic example is land rent.
+Land ownership requires relatively negligible effort to maintain and collect
+money from. Another example is equity. A more recent example is the Internet.
+Whenever you see things that have massive economies of scale or that somehow
+get more efficient the bigger they get, you know you're looking at an
+opportunity to leverage your inputs into something much larger than you can
+intuitively understand (humans have a hard time understanding exponential
+growth).
