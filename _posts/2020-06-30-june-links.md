@@ -15,6 +15,37 @@ Books:
   perspective scattered throughout that it's worth devouring it all in one
   sitting once each year. [Here](../03/thinking-in-systems-quotes.html) are some
   quotes to pique your interest.
+* [Confessions of the Pricing
+Man](https://www.amazon.com/Confessions-Pricing-Man-Affects-Everything/dp/3319203991)
+  * I got this book a few months ago, for free, from The Waiter's Pad. I delayed
+  reading it for so long because, well, you know, I'm BUSY! This is literally a
+  book of cute anecdotes on price. I get pissed of while reading this because I
+  don't feel like my brain is really going through some deep technical wringer
+  that will dramatically enhance my life earnings / other material success, so
+  I'm going to leave it half read and see if it improves enough with age to be
+  worth picking up in the future.
+* [Kitchen
+Confidential](https://www.amazon.com/Kitchen-Confidential-Updated-Adventures-Underbelly/dp/0060899220/ref=sr_1_2?dchild=1&keywords=kitchen+confidential&qid=1591558074&s=books&sr=1-2)
+  * I decided to finally (virtually) pick up this tome after reading another
+  [whip-cracking honestly this is what the cruncher of big leagues professional
+  cooking is like
+  article](https://ruhlman.com/2010/09/20/so-you-wanna-be-a-chef-by-bourdain-2/?ck_subscriber_id=547821799)
+  by Bourdain. It's good...as a sit by the pool with a just gripping enough but
+  not too blood pressure raising book while on vacation read. He has a section
+  on cooking tools and name drops a couple of famous cooking books, so if you
+  actually want to get serious about upgrading your egg-frying equipment, you
+  won't be entirely left to your own devices. I'm not yet convinced it's time
+  for me to seriously up my cooking game, but my itch to sit down at the
+  negotiating table and draw out the contract of "what kind of adult I want to
+  be -- cooking edition" is only drawing nearer with every passing day. I love
+  eating but I my hatred for paying restaurants to cook mediocre or just
+  overpriced plates of mush or serve dry pastries to me is only growing, so
+  perhaps this will be the summer I finally crack and fill my kitchens with
+  beautiful little glass bowls for mise en place and shallots and King Arthur
+  Flour and stainless steel "so heavy I will dent your face" sauce pans and
+  Kerrygold butter and a "so sharp you'll cut yourself looking at it chef's
+  knife" etc etc etc and fill the kitchen air with more than just the reek of
+  slightly over-fried bacon and microwaved prepared meats from Costco.
 
 Internet Shenanigans:
 * Nicky Case strikes again with an interactive article on
@@ -23,7 +54,7 @@ Internet Shenanigans:
 Cool products I discovered:
 * [It's gorgeous](https://sonderdesign.com), but do I really need a $200
 keyboard?
-  * Gah, I could also get [this keyboard](https://waytools.com)...
+  * I could also get [this keyboard](https://waytools.com)...
 
 Products I Love~:
 * [Rubbermaid Easy Find Lid
@@ -31,13 +62,15 @@ Containers](https://www.amazon.com/s?k=rubbermaid+easy+find&ref=nb_sb_noss_2)!!!
 So durable. They're perfect for those days when I open a 2lb+ package of
 prepared carnitas or pulled pork from Costco~.
 
+Products I'm Debating Buying:
+* Airpods Pro? I don't often listen to music or digital sound outside of
+podcasts I stream while driving, but I am itching to just throw a couple hundred
+dollars at this white box and see what happens.
+
 Manga:
-* Whoo, I finished [Diamond is
-Unbreakable](https://en.wikipedia.org/wiki/Diamond_Is_Unbreakable). Now I'm only
-6 more parts of JoJo's Bizarre Adventure behind!!
-  * What's most impressive about this series is how many side stories and
-  characters can be introduced without disrupting the main flow of the plot.
-  Everybody contributes in their own little way to the madness of what befalls
-  this formerly sleepy little tourist town of Morioh.
-  * This part is so much more lighthearted than Steel Ball Run. Since the
-  main characters are a bunch of high school kids,
+* I've decided to put finishing [Diamond is
+Unbreakable](https://en.wikipedia.org/wiki/Diamond_Is_Unbreakable) on hold. I'm
+in a rut of boredom wrt the manga. It's been a fun, much more lighthearted ride
+than Steel Ball Run. I don't regret the time I've already put into it, but, just
+like Person of Interest, I don't see much value in personally uncovering the
+details of what befalls the characters.
