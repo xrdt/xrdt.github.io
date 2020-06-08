@@ -26,6 +26,9 @@ Table of Contents:
 * [Industry != school, except in school (In theory there is no difference between theory and practice. In practice there is.)](#IndustrySchoold)<a name="IndustrySchoolu"></a>&shy;
 * [Learn to negotiate](#Negotiated)<a name="Negotiateu"></a>&shy;
 * [Hard questions you may want to ask your potential future employer](#HardQuestionsd)<a name="HardQuestionsu"></a>&shy;
+* [Micro and Macro Level Views of the Company](../../../2020/06/07/micro-macro-views-company.html)
+* [Consider the Gap Between When You Accept the Offer and When You Begin
+Work](#gapd)<a name="gapu"</a>&shy;
 
 <br>
 <u>The List</u>:
@@ -219,3 +222,11 @@ any further conversation with them.
    like about the job.
    * Are the salary and benefits acceptable?
    * [More smart questions](https://joewegner.com/blog/startup-interview-questions)
+* [Consider the Gap Between When You Accept the Offer and When You Begin
+Work](#gapu)<a name="gapd"></a>
+  * There's really not much you can do about this, especially if you're in
+  school and you find a job during the feeding frenzy that is the fall of your
+  final year. But it is worth noting that that company you interviewed at,
+  especially if you join some young whippersnapper rocket ship startup, may be
+  materially different from the company you join (of course measured using some
+  objective and wonderful measure like the GAAP accounting standard).

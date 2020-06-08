@@ -18,7 +18,7 @@ matter of someone being hardheaded enough to push through walls) / integrity
 6. Firing / [Hiring people](https://nav.al/build-a-team-that-ships) (Hire people
 that get things done).
 7. All it takes to do BHA (big hairy audacious things) is willpower and
-curiosity. The rest is luck.
+curiosity ( and optimism, but curiosity implies that ). The rest is luck.
  * Everything gets done because one person was antsy enough and had enough
 balls to push through all the barriers to get something done.
 8. Negotiation. How to think like a gangster.

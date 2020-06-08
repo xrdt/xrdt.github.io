@@ -50,11 +50,26 @@ Confidential](https://www.amazon.com/Kitchen-Confidential-Updated-Adventures-Und
 Internet Shenanigans:
 * Nicky Case strikes again with an interactive article on
 [attractor landscapes](https://ncase.me/attractors/).
+* [Beautifully gruesome autopsy
+stories](https://www.reddit.com/r/AskReddit/comments/1z2s2c/what_is_the_most_shitty_thing_about_becoming_an/)
+* [This poignant reddit quote about becoming an adult](https://www.reddit.com/r/AskReddit/comments/1z2s2c/what_is_the_most_shitty_thing_about_becoming_an/cfq20t6/)
 
 Cool products I discovered:
 * [It's gorgeous](https://sonderdesign.com), but do I really need a $200
 keyboard?
   * I could also get [this keyboard](https://waytools.com)...
+
+Random Small Thoughts I'd Rather not tweet or Write a One-sentence Post for:
+* At a surface level, Thiel's assessment that China investing in the US (and
+contributing to the trade deficit) is backwards is correct. Why would Chinese
+people not invest in their own, faster growing securities? The second layer
+thinking could be that China can get investment or loans at cheaper rates if
+they park their money elsewhere.
+* Fill in with some thinking on remote working and salaries adjusted to CoL.
+
+Background Musics:
+* [Sentimental](https://www.youtube.com/watch?v=QkkvaiG1rJA)
+* [Studying](https://www.youtube.com/watch?v=MgphHyGgeQU)
 
 Products I Love~:
 * [Rubbermaid Easy Find Lid
