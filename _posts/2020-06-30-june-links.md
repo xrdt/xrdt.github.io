@@ -66,12 +66,11 @@ that everything that is wrong with the modern world is postmodernism.
   * Article 1: [Atonement is Activism](https://www.the-american-interest.com/2018/05/24/atonement-as-activism/)
     * White people like being flogged for harboring implicit biases and being
     racist to their bones by black people like Ta-Nehisi Coates.
-  * Article 2: [Science is getting f\*\*\*ed in the a\*\* by Grievance
-  Studies](https://medium.com/@heyingh/grievance-studies-goes-after-the-scientific-method-63b6cfd9c913)
+  * Article 2: [Science is Being Made a Farce of by Grievance Studies](https://medium.com/@heyingh/grievance-studies-goes-after-the-scientific-method-63b6cfd9c913)
   * Article 3: [That Beautiful Memo from James
   Damore](https://assets.documentcloud.org/documents/3914586/Googles-Ideological-Echo-Chamber.pdf)
-  * Article 4: [Man These People Made a Farce out of Grievance
-  Studies](https://areomagazine.com/2018/10/02/academic-grievance-studies-and-the-corruption-of-scholarship/)
+  * Article 4: [Year Long Grievance Studies Experiment to Expose the Rotted
+  Interior of this "Scientific" Edifice](https://areomagazine.com/2018/10/02/academic-grievance-studies-and-the-corruption-of-scholarship/)
 
 Cool things I discovered:
 * [It's gorgeous](https://sonderdesign.com), but do I really need a $200
@@ -86,7 +85,8 @@ contributing to the trade deficit) is backwards is correct. Why would Chinese
 people not invest in their own, faster growing securities? The second layer
 thinking could be that China can get investment or loans at cheaper rates if
 they park their money elsewhere.
-* [My take on the remote work salary CoL adjustment whatever nonsense](../.
+* [My take on the remote work salary CoL adjustment whatever
+nonsense](../08/remote-working-salary.html).
 
 Background Musics:
 * [Sentimental](https://www.youtube.com/watch?v=QkkvaiG1rJA)
