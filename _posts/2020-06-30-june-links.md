@@ -53,11 +53,32 @@ Internet Shenanigans:
 * [Beautifully gruesome autopsy
 stories](https://www.reddit.com/r/AskReddit/comments/1z2s2c/what_is_the_most_shitty_thing_about_becoming_an/)
 * [This poignant reddit quote about becoming an adult](https://www.reddit.com/r/AskReddit/comments/1z2s2c/what_is_the_most_shitty_thing_about_becoming_an/cfq20t6/)
+* Sourcegraph is very open about their
+[roadmap](https://docs.google.com/document/d/1cBsE9801DcBF9chZyMnxRdolqM_1c2pPyGQz15QAvYI/edit),
+[OKRs](https://about.sourcegraph.com/company/okrs),
+[vision](https://about.sourcegraph.com/company/strategy)
+* I came across this [nice tweetstorm from Heather Heying](https://twitter.com/HeatherEHeying/status/1269835093222158337?s=20), who, up until this point, I didn't know was Bret Weinstein's
+wife, today and got sucked into a wonderful wormhole of political correctness
+and ideological echo chambers and white atonement and not actually free free
+speech riots and all the other liberal nonsense I haven't been able to put
+coherent words to. And now I can say, with an absolutely farcical expression,
+that everything that is wrong with the modern world is postmodernism.
+  * Article 1: [Atonement is Activism](https://www.the-american-interest.com/2018/05/24/atonement-as-activism/)
+    * White people like being flogged for harboring implicit biases and being
+    racist to their bones by black people like Ta-Nehisi Coates.
+  * Article 2: [Science is getting f\*\*\*ed in the a\*\* by Grievance
+  Studies](https://medium.com/@heyingh/grievance-studies-goes-after-the-scientific-method-63b6cfd9c913)
+  * Article 3: [That Beautiful Memo from James
+  Damore](https://assets.documentcloud.org/documents/3914586/Googles-Ideological-Echo-Chamber.pdf)
+  * Article 4: [Man These People Made a Farce out of Grievance
+  Studies](https://areomagazine.com/2018/10/02/academic-grievance-studies-and-the-corruption-of-scholarship/)
 
-Cool products I discovered:
+Cool things I discovered:
 * [It's gorgeous](https://sonderdesign.com), but do I really need a $200
 keyboard?
   * I could also get [this keyboard](https://waytools.com)...
+* Literally buy shares in ['culture'](https://withotis.com/drop/tomb-of-dracula-10)
+* [Superhuman bookmarking](https://getkozmos.com)
 
 Random Small Thoughts I'd Rather not tweet or Write a One-sentence Post for:
 * At a surface level, Thiel's assessment that China investing in the US (and
@@ -65,7 +86,7 @@ contributing to the trade deficit) is backwards is correct. Why would Chinese
 people not invest in their own, faster growing securities? The second layer
 thinking could be that China can get investment or loans at cheaper rates if
 they park their money elsewhere.
-* Fill in with some thinking on remote working and salaries adjusted to CoL.
+* [My take on the remote work salary CoL adjustment whatever nonsense](../.
 
 Background Musics:
 * [Sentimental](https://www.youtube.com/watch?v=QkkvaiG1rJA)
