@@ -7,7 +7,7 @@ title: "Stuff that Happened June 2020"
 
 Welcome to June, my friends. We are halfway through the year.
 
-Books:
+__Books__:
 * [Thinking in Systems](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557)
   * After months, no, maybe years of knowing about this book, I finally
   understand why some people read this little primer every year. The book is
@@ -17,13 +17,14 @@ Books:
   quotes to pique your interest.
 * [Confessions of the Pricing
 Man](https://www.amazon.com/Confessions-Pricing-Man-Affects-Everything/dp/3319203991)
-  * I got this book a few months ago, for free, from The Waiter's Pad. I delayed
-  reading it for so long because, well, you know, I'm BUSY! This is literally a
-  book of cute anecdotes on price. I get pissed of while reading this because I
-  don't feel like my brain is really going through some deep technical wringer
-  that will dramatically enhance my life earnings / other material success, so
-  I'm going to leave it half read and see if it improves enough with age to be
-  worth picking up in the future.
+  * I got this book a few months ago, for free, from [The Waiter's
+  Pad](https://thewaiterspad.com). I delayed reading it for so long because,
+  well, you know, I'm BUSY! This is literally a book of cute anecdotes on price.
+  I get pissed off while reading this because I don't feel like my brain is
+  really going through some deep technical wringer that will dramatically
+  enhance my life earnings / other material success, so I'm going to leave it
+  half read and see if it improves enough with age to be worth picking up in the
+  future.
 * [Kitchen
 Confidential](https://www.amazon.com/Kitchen-Confidential-Updated-Adventures-Underbelly/dp/0060899220/ref=sr_1_2?dchild=1&keywords=kitchen+confidential&qid=1591558074&s=books&sr=1-2)
   * I decided to finally (virtually) pick up this tome after reading another
@@ -46,8 +47,32 @@ Confidential](https://www.amazon.com/Kitchen-Confidential-Updated-Adventures-Und
   Kerrygold butter and a "so sharp you'll cut yourself looking at it chef's
   knife" etc etc etc and fill the kitchen air with more than just the reek of
   slightly over-fried bacon and microwaved prepared meats from Costco.
+* Still working on Dark Forest...Sorry, I'm a slow reader.
+* [How Children
+Fail](https://www.amazon.com/Children-Fail-Classics-Child-Development/dp/0201484021),
+by John Holt
+  * I've been wanting to read this book since junior year of high school
+  (approx. 7 years now). That was when I somehow got caught up into the
+  conspiracy theory of Obama being a African Muslim and Charlotte Iserbyt's
+  [Dumbing Down of
+  America](https://www.amazon.com/deliberate-dumbing-down-america-Chronological/dp/0966707109/ref=sr_1_1)
+  and [John
+  Gatto](https://www.amazon.com/Dumbing-Down-Curriculum-Compulsory-Schooling/dp/0865718547/ref=sr_1_1).
+  For whatever reason, even though I chatted frequently with a college friend
+  who is no longer with us about education and how I would want to educate my
+  kids and why traditional education has irrevocably screwed with our brains and
+  is largely insufficient, despite the fact that the proportion of intellectual
+  elites has probably never changed, I never read this book. Now I have. My
+  fervor for the points Holt makes about how schools destroy children's minds
+  through constant application of fear and how the proper way to teach is to let
+  children follow their own paths. The only way that knowledge will stick is if
+  a person asks their own questions, rather than writing down on paper or
+  parroting back answers to questions others have fed them. When you feed
+  someone questions and answers, it's easy to for them to remember the answers
+  but hard to remember the questions, or rather, the point of the answers.
+  More notes [here]().
 
-Internet Shenanigans:
+__Internet Shenanigans__:
 * Nicky Case strikes again with an interactive article on
 [attractor landscapes](https://ncase.me/attractors/).
 * [Beautifully gruesome autopsy
@@ -65,21 +90,37 @@ coherent words to. And now I can say, with an absolutely farcical expression,
 that everything that is wrong with the modern world is postmodernism.
   * Article 1: [Atonement is Activism](https://www.the-american-interest.com/2018/05/24/atonement-as-activism/)
     * White people like being flogged for harboring implicit biases and being
-    racist to their bones by black people like Ta-Nehisi Coates.
+    racist to their bones by black people like Ta-Nehisi Coates. Note that
+    Ta-Nehisi Coates is apparently uncomfortable with his son playing
+    comfortably with white kids.
+    * The parallels of this sometimes self-flagellation and [feet
+   washing](https://twitter.com/HeatherEHeying/status/1269836041512349696?s=20) and
+    looking for salvation / redemption from black people sounds a lot like....
+    hmmm...Christanity?
   * Article 2: [Science is Being Made a Farce of by Grievance Studies](https://medium.com/@heyingh/grievance-studies-goes-after-the-scientific-method-63b6cfd9c913)
   * Article 3: [That Beautiful Memo from James
   Damore](https://assets.documentcloud.org/documents/3914586/Googles-Ideological-Echo-Chamber.pdf)
   * Article 4: [Year Long Grievance Studies Experiment to Expose the Rotted
   Interior of this "Scientific" Edifice](https://areomagazine.com/2018/10/02/academic-grievance-studies-and-the-corruption-of-scholarship/)
+  * [U Chicago Report on Freedom of
+  Expression](https://provost.uchicago.edu/sites/default/files/documents/reports/FOECommitteeReport.pdf)
+    * [U Chicago Letter to Class of 2020 Freshman on the University's Commitment
+  to Freedom of Expression](https://twitter.com/ChicagoMaroon/status/768561465183862785),
+    including its lack of support for trigger warnings or safe spaces.
+  * Note that democracy doesn't necessarily result in truth, because a majority
+  of uneducated fools may not necessarily come to the right conclusions. [This
+  article](https://moontowermeta.com/dinosaur-markets/) argues that markets have
+  a stronger truth seeking mechanism called profit.
+  * Is all truth falsifiable?
 
-Cool things I discovered:
+__Cool things I discovered__:
 * [It's gorgeous](https://sonderdesign.com), but do I really need a $200
 keyboard?
   * I could also get [this keyboard](https://waytools.com)...
 * Literally buy shares in ['culture'](https://withotis.com/drop/tomb-of-dracula-10)
 * [Superhuman bookmarking](https://getkozmos.com)
 
-Random Small Thoughts I'd Rather not tweet or Write a One-sentence Post for:
+__Random Small Thoughts I'd Rather not tweet or Write a One-sentence Post for__:
 * At a surface level, Thiel's assessment that China investing in the US (and
 contributing to the trade deficit) is backwards is correct. Why would Chinese
 people not invest in their own, faster growing securities? The second layer
@@ -88,22 +129,22 @@ they park their money elsewhere.
 * [My take on the remote work salary CoL adjustment whatever
 nonsense](../08/remote-working-salary.html).
 
-Background Musics:
+__Background Musics__:
 * [Sentimental](https://www.youtube.com/watch?v=QkkvaiG1rJA)
 * [Studying](https://www.youtube.com/watch?v=MgphHyGgeQU)
 
-Products I Love~:
+__Products I Love~__:
 * [Rubbermaid Easy Find Lid
 Containers](https://www.amazon.com/s?k=rubbermaid+easy+find&ref=nb_sb_noss_2)!!!
 So durable. They're perfect for those days when I open a 2lb+ package of
 prepared carnitas or pulled pork from Costco~.
 
-Products I'm Debating Buying:
+__Products I'm Debating Buying__:
 * Airpods Pro? I don't often listen to music or digital sound outside of
 podcasts I stream while driving, but I am itching to just throw a couple hundred
 dollars at this white box and see what happens.
 
-Manga:
+__Manga__:
 * I've decided to put finishing [Diamond is
 Unbreakable](https://en.wikipedia.org/wiki/Diamond_Is_Unbreakable) on hold. I'm
 in a rut of boredom wrt the manga. It's been a fun, much more lighthearted ride
