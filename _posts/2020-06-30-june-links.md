@@ -96,7 +96,20 @@ that everything that is wrong with the modern world is postmodernism.
     * The parallels of this sometimes self-flagellation and [feet
    washing](https://twitter.com/HeatherEHeying/status/1269836041512349696?s=20) and
     looking for salvation / redemption from black people sounds a lot like....
-    hmmm...Christanity?
+    hmmm...Christanity? The only difference is that there is no hope for those
+    who practice this PC self flagellation. No matter how much they bend
+    themselves over backwards and say, falsely, I had no idea how bad slavery
+    was, they will never be reconciled with the fundamentally and perpetually
+    aggrieved blacks. The issue is that we've now hit the point where you either
+    fall upon your sword every time something with even the marginal potential
+    to offen appears or could appear (safe spaces to avoid talking about hard
+    things, classes on PC topics to perpetuate the need for struggle sessions
+    about white on black racism and oppression, trigger warnings so sensitive
+    ears can stay deaf to exactly the issues they think are so important to
+    express an unending movement of frustration over) or you get mauled for
+    being insensitive and unwoke and simply someone who's not welcome (now you
+    know what it's like to be discriminated against, haha). Do you think people
+    chose to bring this upon themselves?
   * Article 2: [Science is Being Made a Farce of by Grievance Studies](https://medium.com/@heyingh/grievance-studies-goes-after-the-scientific-method-63b6cfd9c913)
   * Article 3: [That Beautiful Memo from James
   Damore](https://assets.documentcloud.org/documents/3914586/Googles-Ideological-Echo-Chamber.pdf)
