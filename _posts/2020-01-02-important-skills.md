@@ -7,7 +7,12 @@ title: "List of Skills You Aren't Likely to be Taught"
 
 1. [Debugging](https://danluu.com/anon-benchmark/) (from code to your life).
 Systemic problem solving.
-2. How to figure out who to have loyalty to.
+2. The world runs on people. It runs on people talking to each other, getting
+to know each other over coffee or meals, building loyalty to each other,
+stabbing each other in the back, being upset at each other, so on and so forth.
+People skills are so important because, in the end, everything is about people.
+  * People can make or break an experience.
+  * How to figure out who to have loyalty to.
 3. [What to do you with your life](http://www.windsweptsoftware.net/rickoverthoughts.pdf)
 and how to figure it out.
 4. How to keep yourself spiritually, physically, and mentally sharp (nutrition,
@@ -65,3 +70,4 @@ get more efficient the bigger they get, you know you're looking at an
 opportunity to leverage your inputs into something much larger than you can
 intuitively understand (humans have a hard time understanding exponential
 growth).
+

@@ -70,7 +70,7 @@ by John Holt
   parroting back answers to questions others have fed them. When you feed
   someone questions and answers, it's easy to for them to remember the answers
   but hard to remember the questions, or rather, the point of the answers.
-  More notes [here]().
+  More notes [here](../10/how-children-fail-notes.html).
 
 __Internet Shenanigans__:
 * Nicky Case strikes again with an interactive article on
@@ -110,9 +110,13 @@ that everything that is wrong with the modern world is postmodernism.
     being insensitive and unwoke and simply someone who's not welcome (now you
     know what it's like to be discriminated against, haha). Do you think people
     chose to bring this upon themselves?
+    * Salem Witch Trials, Struggle Sessions, Straight Up Riots.
   * Article 2: [Science is Being Made a Farce of by Grievance Studies](https://medium.com/@heyingh/grievance-studies-goes-after-the-scientific-method-63b6cfd9c913)
   * Article 3: [That Beautiful Memo from James
   Damore](https://assets.documentcloud.org/documents/3914586/Googles-Ideological-Echo-Chamber.pdf)
+    * I have a hard time understanding why people were, and still are, upset
+    about the idea that men and women were different when this came out and
+    exploded. How is it a good thing to homogenize men and women?
   * Article 4: [Year Long Grievance Studies Experiment to Expose the Rotted
   Interior of this "Scientific" Edifice](https://areomagazine.com/2018/10/02/academic-grievance-studies-and-the-corruption-of-scholarship/)
   * [U Chicago Report on Freedom of
