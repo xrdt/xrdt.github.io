@@ -13,15 +13,17 @@ stabbing each other in the back, being upset at each other, so on and so forth.
 People skills are so important because, in the end, everything is about people.
   * People can make or break an experience.
   * How to figure out who to have loyalty to.
-3. [What to do you with your life](http://www.windsweptsoftware.net/rickoverthoughts.pdf)
+3. [What to do with your life](http://www.windsweptsoftware.net/rickoverthoughts.pdf)
 and how to figure it out.
 4. How to keep yourself spiritually, physically, and mentally sharp (nutrition,
 fitness, anyone?).
 5. Courage (when to stand up for things) / willpower (getting things done is a
-matter of someone being hardheaded enough to push through walls) / integrity
-(do the right thing) / commitment / responsibility.
+matter of someone being hardheaded enough to push through the walls that will
+appear to stop them from getting things done) / integrity (doing the right
+thing on principle) / commitment / responsibility.
 6. Firing / [Hiring people](https://nav.al/build-a-team-that-ships) (Hire people
 that get things done).
+  * [Managers of one](https://signalvnoise.com/posts/1430-hire-managers-of-one).
 7. All it takes to do BHA (big hairy audacious things) is willpower and
 curiosity ( and optimism, but curiosity implies that ). The rest is luck.
  * Everything gets done because one person was antsy enough and had enough
@@ -32,6 +34,7 @@ curiosity (wonder is also a good synonym).
 10. Organization. How to organize and manage your life (prioritization, focus, discipline).
  * Personal Knowledge Repository. How do you manage all the information that you
  consume and think is important.
+ * Write just about every f\*\*\*ing thing down.
 11. Analyzing path dependence. [Ben Thompson recorded a great podcast with
 James Allworth that covers this topic](https://stratechery.com/2020/exponent-podcast-the-water-we-swim-in/).
 12. You can't convince people to do things. They have to convince themselves.

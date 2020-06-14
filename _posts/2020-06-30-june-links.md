@@ -71,6 +71,14 @@ by John Holt
   someone questions and answers, it's easy to for them to remember the answers
   but hard to remember the questions, or rather, the point of the answers.
   More notes [here](../10/how-children-fail-notes.html).
+* [The PE Diet](http://www.thepediet.com)
+  * I listened to a HVMN podcast with Ted Naiman, thought what he was saying
+  made sense, and finally decided to read his book. The book is written in a
+  brain-dead simple way. Some people hate it for oversimplifying, even relative
+  to [Ted's other lectures], but you have to give the man some kudos for
+  distilling this insanely complex web of nutritional and dieting advice into
+  a couple of simple rules that make enough sense and clearly have amazing
+  results. Give it a shot.
 
 __Internet Shenanigans__:
 * Nicky Case strikes again with an interactive article on
@@ -129,6 +137,30 @@ that everything that is wrong with the modern world is postmodernism.
   article](https://moontowermeta.com/dinosaur-markets/) argues that markets have
   a stronger truth seeking mechanism called profit.
   * Is all truth falsifiable?
+  * [Dark Horse Podcast 21!!!](https://www.youtube.com/watch?v=OjEt7iMJlVM)
+* You want to know what is going on in China? No one better to learn from than
+[Ladanyi](https://twitter.com/iandenisjohnson/status/1266610434695737344).
+  * Love the 10 commandments. Some smart commenter noted that you can reverse
+  some of the commandments to make them relevant for China --> US watchers.
+  * [Unpaywalled NYRB article on Layandi's _The Communist Party of China and
+  Marxism,
+  1921-1985_](https://www.chinafile.com/library/nyrb-china-archive/art-interpreting-nonexistent-inscriptions-written-invisible-ink-blank)
+* My friend's Twitter feed is very clearly living in another local minimum on
+this Internet manifold. Please enjoy [this meme of a
+thread](https://twitter.com/virgil_30/status/1270791101989957637?s=20) on non
+R^n political compasses.
+* When you remove the [ice
+tray](https://www.reddit.com/r/lifehacks/comments/evgb9q/remove_your_ice_tray_to_get_unlimited_ice/)
+* Fun with Percentages and Numerical Values, that is, [Why Your Health Insurance
+Provider Doesn't Really Want to Lower
+Costs](https://caseload.substack.com/p/the-upside-down-insurance-incentive)
+* Every system can be gamed. [This spotlight is on
+Spotify](https://www.rollingstone.com/pro/features/fake-artists-have-billions-of-streams-on-spotify-is-sony-now-playing-the-service-at-its-own-game-834746/)
+* Bret Victor's beautiful PDF on [Helping Technologists
+See](http://worrydream.com/SeeingSpaces/SeeingSpaces.pdf).
+  * If you don't know Bret Victor, you need to get on [his
+  website](http://worrydream.com) and absorb all the brilliance that this man
+  can produce when he thinks about and works on interfaces.
 
 __Cool things I discovered__:
 * [It's gorgeous](https://sonderdesign.com), but do I really need a $200

@@ -57,13 +57,20 @@ you know is being traded but don't want to think about.
 * [Wikipedia list of proven conspiracies](http://web.archive.org/web/20190422213709/https://en.wikipedia.org/wiki/List_of_proven_conspiracies)
 * [Utah Companies Paying Employees to Get Cheap Prescriptions from Mexico](https://www.sltrib.com/mexico-pharmacy-tourism/)
 * [The Entirety of the Hell World Newsletter](https://luke.substack.com/p/each-time-she-woke-up-she-repeated)
-* Eric Weinstein's [DISC](https://twitter.com/ericrweinstein/status/1222907103402029056)
+* Everything Eric and Bret Weinstein talk about
+  * Eric Weinstein's [DISC](https://twitter.com/ericrweinstein/status/1222907103402029056)
+  * [Portal Podcast Wiki](https://theportal.wiki/wiki/Main_Page)
+  * [Dark Horse Podcast](https://podcasts.apple.com/us/podcast/bret-weinstein-darkhorse-podcast/id1471581521)
 and [Four Quadrant Model](https://twitter.com/ericrweinstein/status/954860660436824064)
 * [Peter Thiel on Stagnation](https://www.youtube.com/watch?v=iRleB034EC8)
 * [Police power](https://en.wikipedia.org/wiki/Police_power_(United_States_constitutional_law))
 and [eminent domain](https://en.wikipedia.org/wiki/Eminent_domain)
 * [The world goes upside down when you treat electricity as a
 right](https://marginalrevolution.com/marginalrevolution/2020/03/the-consequences-of-treating-electricity-as-a-right.html?ck_subscriber_id=547821799)
+* All of modern identity politics
+  * [BLM](https://twitter.com/techleadhd/status/1271138057412993025?s=20)
+  * [Unfounded accusation of racism UCLA](https://losangeles.cbslocal.com/2020/06/10/ucla-professor-on-leave-gordon-klein/)
+  * [Unfounded accusation of racism Evergreen](https://en.wikipedia.org/wiki/Evergreen_State_College#2017_protests)
 
 There is absolutely no guarantee in the theory of free markets about entities acting for the greater good. I think the only thing a free market provides is the
 freedom for entities to pursue and profit from their self-interest. It's business, after all.
