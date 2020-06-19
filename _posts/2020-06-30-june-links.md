@@ -209,6 +209,21 @@ Hierarhcy](https://pdfs.semanticscholar.org/36be/babeb72287ad9490e1ebab84e7225ad
   allows you to isolate objects when designing a system and organize types.
 * Yes, my friends, [Excel is a brilliant piece of
 software](https://tomtunguz.com/unbundling-of-excel/).
+* [Church of Interruption](https://news.ycombinator.com/item?id=21044009)
+  * I don't remember exactly why I decided to revisit this page. I must say that
+  I largely dismissed the post the first time I read it, which was at least a
+  year ago. I'm linking to it now because of the first
+  [HNews comment on the post](https://news.ycombinator.com/item?id=21046426).
+  I often use little endian if I need to say someone's name. Rather than saying
+  "Shannon, how was your weekend?", and making it very clear that I want
+  Shannon's attention, I'll say: "How was your weekend, Shannon?" People don't
+  really have trouble keeping up with the conversation, but I think it's a
+  stupid habit of mine. It's especially egregious if what I have to say before
+  the name is long. Why do I do this? I suspect it's a carry over from when I
+  was a child and my parents tried to get me to address them when I wanted their
+  attention. I resented the disciplinary action and this phenomenon is a
+  carryover from bygone times. *sigh*, one day I'll grow up.
+* [Oxford Comma MV](https://www.youtube.com/watch?v=P_i1xk07o4g)
 
 __Cool things I discovered__:
 * [It's gorgeous](https://sonderdesign.com), but do I really need a $200
