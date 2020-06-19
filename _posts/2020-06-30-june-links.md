@@ -7,8 +7,8 @@ title: "Stuff that Happened June 2020"
 
 Welcome to June, my friends. We are halfway through the year.
 
-__Books__:
-* [Thinking in Systems](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557)
+__Books (Bolded ones are recommended)__:
+* __[Thinking in Systems](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557)__
   * After months, no, maybe years of knowing about this book, I finally
   understand why some people read this little primer every year. The book is
   so simple, so intuitive, yet has so many little gems of quotes and pieces of
@@ -25,8 +25,8 @@ Man](https://www.amazon.com/Confessions-Pricing-Man-Affects-Everything/dp/331920
   enhance my life earnings / other material success, so I'm going to leave it
   half read and see if it improves enough with age to be worth picking up in the
   future.
-* [Kitchen
-Confidential](https://www.amazon.com/Kitchen-Confidential-Updated-Adventures-Underbelly/dp/0060899220/ref=sr_1_2?dchild=1&keywords=kitchen+confidential&qid=1591558074&s=books&sr=1-2)
+* __[Kitchen
+Confidential](https://www.amazon.com/Kitchen-Confidential-Updated-Adventures-Underbelly/dp/0060899220/ref=sr_1_2?dchild=1&keywords=kitchen+confidential&qid=1591558074&s=books&sr=1-2)__
   * I decided to finally (virtually) pick up this tome after reading another
   [whip-cracking honestly this is what the cruncher of big leagues professional
   cooking is like
@@ -48,8 +48,8 @@ Confidential](https://www.amazon.com/Kitchen-Confidential-Updated-Adventures-Und
   knife" etc etc etc and fill the kitchen air with more than just the reek of
   slightly over-fried bacon and microwaved prepared meats from Costco.
 * Still working on Dark Forest...Sorry, I'm a slow reader.
-* [How Children
-Fail](https://www.amazon.com/Children-Fail-Classics-Child-Development/dp/0201484021),
+* __[How Children
+Fail](https://www.amazon.com/Children-Fail-Classics-Child-Development/dp/0201484021)__,
 by John Holt
   * I've been wanting to read this book since junior year of high school
   (approx. 7 years now). That was when I somehow got caught up into the
@@ -71,7 +71,7 @@ by John Holt
   someone questions and answers, it's easy to for them to remember the answers
   but hard to remember the questions, or rather, the point of the answers.
   More notes [here](../10/how-children-fail-notes.html).
-* [The PE Diet](http://www.thepediet.com)
+* __[The PE Diet](http://www.thepediet.com)__
   * I listened to a HVMN podcast with Ted Naiman, thought what he was saying
   made sense, and finally decided to read his book. The book is written in a
   brain-dead simple way. Some people hate it for oversimplifying, even relative
@@ -79,6 +79,31 @@ by John Holt
   distilling this insanely complex web of nutritional and dieting advice into
   a couple of simple rules that make enough sense and clearly have amazing
   results. Give it a shot.
+* __[The Way It Spozed To
+Be](https://www.amazon.com/Way-Spozed-Be-Innovators-Education/dp/0867094079)__
+  * First, WTF, did anybody notice the [hardcover
+  prices](../../../images/expensive_book.png) on this book at $930+??
+  * I picked up this small little memoir because John Holt mentions it in
+  <u>How Children Fail</u>. When I say "mentions", Holt literally mentions the
+  book once, in passing. Anyways, I pick it up because I'm in this mode of
+  wanting to hear what these masters of unbreaking the 1960s American education
+  system have to say about educating these young, incipient members of society
+  to be as productive, happy, and curious as their forefathers were. I was
+  thrown in for a huge shock. First, Herdon's school is a black school, embedded
+  in some Californian ghetto. These are not the white, middle-class kids that
+  John Holt was working with. Herndon's kids are straight up "ghetto", with all
+  the inflection and stereotypical implications you can put on that word.
+  Herndon manages to make some progress in getting to know the kids, but he's
+  eventually fired for not being able to demonstrate his ability to "control"
+  the class. The book is page after page of utterly demoralizing and frustrating
+  and almost aimless recounts of his time at this one black school in
+  California. Unlike Holt, he doesn't sprinkle bits of real motivation or
+  breakthroughs in thinking throughout his memoirs. And by the end, he's utterly
+  [demoralized](../18/spozed-to-be.html). I know I'm not saying much in this
+  paragraph, but if you read the link attached to "demoralized", maybe you'll
+  get a sense that I've also fallen into the mental funk and hopelessness that
+  Herndon also fell into, years after his experience with that black, ghetto
+  school in California.
 
 __Internet Shenanigans__:
 * Nicky Case strikes again with an interactive article on
@@ -161,6 +186,29 @@ See](http://worrydream.com/SeeingSpaces/SeeingSpaces.pdf).
   * If you don't know Bret Victor, you need to get on [his
   website](http://worrydream.com) and absorb all the brilliance that this man
   can produce when he thinks about and works on interfaces.
+* Good old Bill Gurley on when a [Hardware Based Business Model may make
+sense](http://abovethecrowd.com/2003/02/10/software-in-a-box-the-comeback-of-the-hardware-based-business-model/)
+* [Eric Weinstein on the 1980s systemic domestic labor shortage of scientists
+and high tech workers
+hoax](https://www.ineteconomics.org/uploads/papers/Weinstein-GUI_NSF_SG_Complete_INET.pdf)
+  * [Related collection of docs on the labor
+  shortage](http://users.nber.org/~sewp/references/archive/timelineofdocuments.pdf)
+* [Great interview question](https://twitter.com/nikitabier/status/1253805033025486849).
+Heard on the [My First Million
+Podcast](https://podcasts.apple.com/gb/podcast/70-making-money-in-48-hours-fat-fire-how-to-collect-%242m/id1469759170?i=1000472867272), the hardest hitting
+podcast I listen to.
+  * Related [Stratechery
+  posts](https://stratechery.com/2016/the-audacity-of-copying-well/) on
+  [tbh](https://stratechery.com/2017/why-facebook-shouldnt-be-allowed-to-buy-tbh/),
+  a company Nikita had founded.
+* A classic paper by Barbara Liskov on [Data Abstraction and
+Hierarhcy](https://pdfs.semanticscholar.org/36be/babeb72287ad9490e1ebab84e7225ad6a9e5.pdf)
+  * The main point is that data abstraction is the more powerful technique.
+  Hierarchy lends its usefulness if you follow the [Liskov Substitution
+  Principle](https://en.wikipedia.org/wiki/Behavioral_subtyping) because it
+  allows you to isolate objects when designing a system and organize types.
+* Yes, my friends, [Excel is a brilliant piece of
+software](https://tomtunguz.com/unbundling-of-excel/).
 
 __Cool things I discovered__:
 * [It's gorgeous](https://sonderdesign.com), but do I really need a $200
@@ -181,12 +229,19 @@ nonsense](../08/remote-working-salary.html).
 __Background Musics__:
 * [Sentimental](https://www.youtube.com/watch?v=QkkvaiG1rJA)
 * [Studying](https://www.youtube.com/watch?v=MgphHyGgeQU)
+* [Relaxing](https://www.youtube.com/watch?v=_tKyc0NNwJ0)
 
 __Products I Love~__:
 * [Rubbermaid Easy Find Lid
 Containers](https://www.amazon.com/s?k=rubbermaid+easy+find&ref=nb_sb_noss_2)!!!
 So durable. They're perfect for those days when I open a 2lb+ package of
 prepared carnitas or pulled pork from Costco~.
+* [Logitech
+K750](https://www.amazon.com/gp/product/B005L38VRU/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&th=1)
+Man, I really was starting to hate the tactile feel of the latest Magic
+Keyboard. This keyboard really blows that device out of the water in terms of
+chiclet feel. Sure, it's not mechanical, but I haven't yet found that mechanical
+switches really deliver that much added typing value for me.
 
 __Products I'm Debating Buying__:
 * Airpods Pro? I don't often listen to music or digital sound outside of
