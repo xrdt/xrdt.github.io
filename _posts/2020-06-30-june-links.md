@@ -224,6 +224,11 @@ software](https://tomtunguz.com/unbundling-of-excel/).
   attention. I resented the disciplinary action and this phenomenon is a
   carryover from bygone times. *sigh*, one day I'll grow up.
 * [Oxford Comma MV](https://www.youtube.com/watch?v=P_i1xk07o4g)
+* [Why Figma is Brilliant](https://kwokchain.com/2020/06/19/why-figma-wins/)
+* [Excellent monograph on the US's geopolotical
+power](https://worldview.stratfor.com/article/geopolitics-united-states-part-1-inevitable-empire)
+  * One mundane wow from the article: the cost of transport via water is roughly
+  10 to 30 times cheaper than overland.
 
 __Cool things I discovered__:
 * [It's gorgeous](https://sonderdesign.com), but do I really need a $200
@@ -245,6 +250,7 @@ __Background Musics__:
 * [Sentimental](https://www.youtube.com/watch?v=QkkvaiG1rJA)
 * [Studying](https://www.youtube.com/watch?v=MgphHyGgeQU)
 * [Relaxing](https://www.youtube.com/watch?v=_tKyc0NNwJ0)
+* [More Studying Music](https://www.youtube.com/watch?v=8sJk9AE82kc)
 
 __Products I Love~__:
 * [Rubbermaid Easy Find Lid
