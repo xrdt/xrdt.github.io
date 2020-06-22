@@ -229,6 +229,9 @@ software](https://tomtunguz.com/unbundling-of-excel/).
 power](https://worldview.stratfor.com/article/geopolitics-united-states-part-1-inevitable-empire)
   * One mundane wow from the article: the cost of transport via water is roughly
   10 to 30 times cheaper than overland.
+* [Hyrum's Law of Implicit Interfaces](https://www.hyrumslaw.com)
+  * People create dependencies where there are none explicitly specified,
+  locking a system into a potentially unsustainable state.
 
 __Cool things I discovered__:
 * [It's gorgeous](https://sonderdesign.com), but do I really need a $200
@@ -236,6 +239,8 @@ keyboard?
   * I could also get [this keyboard](https://waytools.com)...
 * Literally buy shares in ['culture'](https://withotis.com/drop/tomb-of-dracula-10)
 * [Superhuman bookmarking](https://getkozmos.com)
+* [Did you know this feature on
+iOS?](https://www.youtube.com/watch?v=fjs93acOPL8)
 
 __Random Small Thoughts I'd Rather not tweet or Write a One-sentence Post for__:
 * At a surface level, Thiel's assessment that China investing in the US (and
@@ -268,6 +273,8 @@ __Products I'm Debating Buying__:
 * Airpods Pro? I don't often listen to music or digital sound outside of
 podcasts I stream while driving, but I am itching to just throw a couple hundred
 dollars at this white box and see what happens.
+  * I'd be down to try another pair of wireless buds that works well with Apple
+  devices.
 
 __Manga__:
 * I've decided to put finishing [Diamond is
@@ -276,3 +283,11 @@ in a rut of boredom wrt the manga. It's been a fun, much more lighthearted ride
 than Steel Ball Run. I don't regret the time I've already put into it, but, just
 like Person of Interest, I don't see much value in personally uncovering the
 details of what befalls the characters.
+
+__Entertainment__:
+* Watched a few episodes of [Kim's
+Convenience](https://en.wikipedia.org/wiki/Kim%27s_Convenience) the other day.
+It's an ok show. It's not super funny, it's very clearly blocked and structured
+to set up and accentuate the nonsense quirks of the characters, the parents'
+accents are played up, it's super clean, but it's not fantastic. It's pretty
+much only useful to help you shut your brain off.

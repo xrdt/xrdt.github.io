@@ -5,6 +5,51 @@ title:  "How Children Fail Notes"
 *Author: Bianca Yang*<br>
 *Email: <a href="mailto:ipacifics@gmail.com?subject=Hello from the XDRT Blog">ipacifics@gmail.com</a>*<br>
 
+Update 06/22/2020:<br>
+My work team has been talking about onboarding and user activation these days.
+During many of the ideation sessions, team members have talked about how little
+they regard they pay to the onboarding sequences. "I click through at the speed
+of light." "I've somehow never been caught at a time that I want to learn." The
+fundamental issue here is similar to what John talks about with teachers feeding
+kids questions they weren't interested in asking themselves at that point. Users
+who are being pushed through onboarding flows don't care to know the answers to
+the questions that onboarding is trying to show them. Even if it may save a user
+a couple of Google searches a few days, weeks, months down the line of using the
+product to learn all these tidbits in the onboarding flow now, he's much more
+motivated to find the answer to that question through Google because it's his
+question. There's human problems technology cannot solve.
+
+Note that there could be massively time saving features hidden in the never
+used onboarding. For example, filters in Gmail.
+
+It seems like the products with the most successful user growth are ones that
+hijack some neural mechanisms and exceed the threshold of the hormetic zone of
+that mechanism. For example, high fat + sugar foods hijacking our satiety
+mechanisms and pushing people into energy toxicity and metabolic dysfunction.
+Another example is how the "like button" and infinite scroll apps hijack our
+social reward mechanisms. Gambling hijacks our non-social reward mechanisms.
+Alcohol and drugs and pornography also overactivate our reward centers. All of
+these hijacked systems quickly become compromised and addicted to the stimuli.
+
+The previous paragraph doesn't accurately map the entire space of tools that
+have experienced wonderful, non-malicious growth. Would one consider Notion and
+AirTable malicious growers? Or Tesla? Substack? Growing google search users (ok,
+let's go down a rabbit hole of SEO corrupting what should be a simple keyword
+based search experience)? Dropbox's growth strategy of email invites? Github's
+status strategies with stars or number of forks, etc? Stripe or Twilio's focus
+on a super easy dev onboarding experience? Antitrust is potentially an area
+where people get nervous about fantastic product growth, but since people are
+bad at dealing with exponentials, the alarm bells only get triggered once the
+company has exceeded some fundamental measure of size AND has pissed off enough
+important users for the ills of that company's existence to be worth the
+government's attention.
+
+The best kind of learning environment is with a private tutor that truly cares
+about nurturing his student's intellectual curiosity. Can we miniaturize that
+kind of experience for product learning?
+
+-----
+
 I'm ashamed that it took me so long to find this book but I'm also grateful that
 I did come across it and its ilk seven years ago. I'm grateful for that band of
 educators in 1960s America who decided to take a closer look at what it takes to
