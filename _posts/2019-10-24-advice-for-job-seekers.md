@@ -5,21 +5,15 @@ title: "Advice for Job Seekers (New Grads)"
 *Author: Bianca Yang*<br>
 *Email: <a href="mailto:ipacifics@gmail.com?subject=Some Comments on the Advice for Job Seekers Post">ipacifics@gmail.com</a>*<br>
 
-Last updated: November 23, 2019
-
 All advice is autobiographical.
-
-If you want an interesting job in Secops, look no further:
-[https://latacora.com](https://latacora.com).
-If you want an interesting job doing good ol' systems building work among a team that
-genuinely cares about each other's personal development and the company's success,
-look no further than [ThoughtSpot](http://thoughtspot.com). [-.- shameless plug for my own company]
 
 Table of Contents:
 * [GPA doesn't matter](#GPAd)<a name="GPAu"></a>&shy;
 * [Skill meters are useless for your resume](#Skilld)<a name="Skillu"></a>&shy;
 * [Getting a job is about networking](#Networkingd)<a name="Networkingu"></a>&shy;
 * [Find a problem you can engage with](#Problemd)<a name="Problemu"></a>&shy;
+* [Find a Job You're Willing to Give 80+% of Your Daily Productive Hours To](#Productived)<a name="Productiveu"></a>&shy;
+* [Remember that It's Just as Hard to do a Small Thing Well as it is to do a Big Thing Well](#Rememberd)<a name="Rememberu"></a>&shy;
 * [What do you want to get out of your job](#Goalsd)<a name="Goalsu"></a>&shy;
 * [Take your interviews seriously](#Seriousd)<a name="Seriousu"></a>&shy;
 * [I don't care what you wear (to a point)](#Outfitd)<a name="Outfitu"></a>&shy;
@@ -28,7 +22,7 @@ Table of Contents:
 * [Hard questions you may want to ask your potential future employer](#HardQuestionsd)<a name="HardQuestionsu"></a>&shy;
 * [Micro and Macro Level Views of the Company](../../../2020/06/07/micro-macro-views-company.html)
 * [Consider the Gap Between When You Accept the Offer and When You Begin
-Work](#gapd)<a name="gapu"</a>&shy;
+Work](#gapd)<a name="gapu"></a>&shy;
 
 <br>
 <u>The List</u>:
@@ -65,14 +59,36 @@ If you think the problem is easily solvable in 1 year with long weekends and hou
 aren't high enough. If they've pretty much already finished the product and are transitioning (even with noticing it...
 why else would they hire you) into [more maintenance mode](https://news.ycombinator.com/item?id=20306289), you may not want
 to join. If you don't find the problem legitimate, interesting, or worth solving, don't join. The world is full of problems.
-* [Always](#Goalsu)<a name="Goalsd"></a> try to think of how you can help the company and how they can
-help you. The relationship *must* be mutually beneficial. Typically, young
-people don't have much clarity on where you can have the most impact or what
-makes them happy at work. At the risk of falling into a trap of optionality,
-you should try to find a place that will give you a good balance between
-flexibility and structure. You want structure so you get good at what you're
-assigned. You want flexibility to explore within the company and learn about
-different functions in the business and potentially in the industry.
+* [Find](#Productiveu)<a name="Productived"></a> Job You're Willing to Give
+80+% of Your Daily Productive Hours To
+  * Credits to [Tobi
+  Lutke](http://investorfieldguide.com/tobi-lutke-building-a-modern-business-invest-like-the-best-ep-173/),
+  CEO of Shopify, for this point. You should feel like investing time in your
+  work is the productive investment you can make at any point in time. It's
+  ok for you to sometimes feel like you're doing busywork, but at least 80% of
+  your time at work should feel very worthwhile.
+* [Remember](#Rememberu)<a name="Rememberd"><a/> that It's Just as Hard to do a
+Small Thing Well as it is to do a Big Thing Well
+  * A very salient way to think about this is that a plumber likely works as
+  hard if not more hard than a CEO to make his living but the plumber will never
+  make as much money as the CEO. You will work just as hard at a failing or
+  middling or even OK company as you will at a rocketship company. Work is work
+  is work, and nearly every workplace has the same expectations on how much work
+  their employees should be doing (or at least signaling they are doing). So,
+  make the right choices. Try to find the positions with the maximum risk or
+  potential for non-linear growth or potential for you to move into a
+  decision-making or decision-influencing role (read: position with leverage)
+  you can tolerate. Maximize your time while you are young so you can ride the
+  tailwainds when you get older.
+* [Always](#Goalsu)<a name="Goalsd"></a> try to think of how you can help the
+company and how they can help you. The relationship *must* be mutually
+beneficial. Typically, young people don't have much clarity on where you can
+have the most impact (leverage) or what makes them happy at work. At the risk of
+falling into a trap of optionality, you should try to find a place that will
+give you a good balance between flexibility and structure. You want structure
+so you get good at what you're assigned. You want flexibility to explore within
+the company and learn about different functions in the business and potentially
+in the industry.
    * If you are not working on projects that excite you and make you want to
    come to work every morning, ask for another project. Talk to people on
    other teams to see how else you could contribute. As a junior employee,
@@ -119,8 +135,9 @@ and doesn't have holes. This is a perk of the tech industry.
 *You should dress
 up for an interview with a consulting or finance firm.* That's just how
 business gets done.
-* [Industry](#IndustrySchoolu)<a name="IndustrySchoold"></a> work is not school work. School work is interesting for its own
-sake. That's pretty much what researchers (should) be doing: working on
+* [Industry](#IndustrySchoolu)<a name="IndustrySchoold"></a> work is not school
+work. School work is interesting for its own sake. That's pretty much what
+researchers (should) be doing: working on
 problems they find interesting because they find it interesting. If you've
 developed a taste for working on those kinds of problems, you should consider
 going to grad school. Industry work is about infrastructure, about designing
@@ -230,3 +247,6 @@ Work](#gapu)<a name="gapd"></a>
   especially if you join some young whippersnapper rocket ship startup, may be
   materially different from the company you join (of course measured using some
   objective and wonderful measure like the GAAP accounting standard).
+    * People want to join startups because they grow fast. That means they'll
+    grow and change a lot in the 6+ months between your accepting the offer and
+    starting work.

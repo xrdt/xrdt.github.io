@@ -233,14 +233,29 @@ power](https://worldview.stratfor.com/article/geopolitics-united-states-part-1-i
   * People create dependencies where there are none explicitly specified,
   locking a system into a potentially unsustainable state.
 
+__Podcast Learnings__:
+* [Tobi Lutke and Patrick
+O'Shag](http://investorfieldguide.com/tobi-lutke-building-a-modern-business-invest-like-the-best-ep-173/)
+  * Two takeaways:
+    1. Focus on building systems thinking. What this means for the org is to
+    hire good people and trust them to do good things. Also, let your employees
+    expense [Factorio](https://factorio.com).
+    2. Tobi -- I think most people have 5 good hours each day. I'd love to get
+    4 of those 5 hours for Shopify. Me -- You should find a job you are willing
+    to give 4 of those 5 hours each day to. Otherwise, you're probably wasting
+    your time.
+
 __Cool things I discovered__:
 * [It's gorgeous](https://sonderdesign.com), but do I really need a $200
 keyboard?
   * I could also get [this keyboard](https://waytools.com)...
 * Literally buy shares in ['culture'](https://withotis.com/drop/tomb-of-dracula-10)
 * [Superhuman bookmarking](https://getkozmos.com)
-* [Did you know this feature on
+* [Did you know about this feature on
 iOS?](https://www.youtube.com/watch?v=fjs93acOPL8)
+  * By the way, I hate that Apple got rid of the magnifying glass for moving the
+  cursor to specific character on iOS. The new freaking interface pretty much
+  never does what I want.
 
 __Random Small Thoughts I'd Rather not tweet or Write a One-sentence Post for__:
 * At a surface level, Thiel's assessment that China investing in the US (and
