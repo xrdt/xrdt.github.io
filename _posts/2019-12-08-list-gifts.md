@@ -14,7 +14,7 @@ Things that I want:
 * [Sonder Design Keyboard](https://sonderdesign.com)
 * [Blowgun (for anyone *not* living in CA or MA or NYC)](https://www.amazon.com/Venom-Blowguns®-40-Darts-Made/dp/B008H7M0Q0/)
 * [Custom molded ear plugs](https://www.amazon.com/Decibullz-Earplugs-Comfortable-Protection-Shooting/dp/B01N129AQ8/)
-* [3L Water Reservoir](https://www.amazon.com/CamelBak-Crux-Reservoir-Set-Blue/dp/B01LA5FCJ2/)
+* ~~[3L Water Reservoir](https://www.amazon.com/Source-Hydration-Reservoir-Leakproof-Antimicrobial/dp/B008S9AX0W/ref=sr_1_1)~~
 * [Leatherman Wave or equivalent multi-tool](https://www.amazon.com/LEATHERMAN-Wave-Multitool-Stainless-Steel/dp/B079MJBP21/)
 * [A Good Windbreaker (medium)](https://www.marmot.com/womens-trail-wind-hoody-58840.html)
 * [Good winter pants (size 10)](https://www.duluthtrading.com/womens-no-exposure-bonded-flex-fire-hose-pant-84805.html?dwvar_84805_color=BLK&cgid=womens-bottoms-lined-pants#start=4&cgid=womens-bottoms-lined-pants)
@@ -25,9 +25,11 @@ Things that I want:
 * [Uniqlo HeatTech (Medium pants XS shirt)](https://www.uniqlo.com/us/en/women/heattech-collection)
 * [Merino wool socks (I'm size 8)](https://www.amazon.com/DANISH-ENDURANCE-Merino-Light-9-5-12-5/dp/B07D8VRCTW/)
 * [Book stand](https://www.amazon.com/Adjustable-Portable-Hardcover-Textbooks-Bookrest/dp/B07HC9D6Y8/)
-* [Laptop Stand](https://www.amazon.com/Adjustable-Portable-Workstation-Notebook-Ergonomic/dp/B088PRM33M/ref=sr_1_33?dchild=1&keywords=laptop+stand&qid=1591123222&sr=8-33)
+* ~~[Laptop Stand](https://www.amazon.com/dp/B00J0823FI/ref=cm_sw_r_cp_api_4B2EAb77R7NKJ)~~
 * Battle Ropes and Anchor
 * Barbell
+* A motorcycle (MIN 500cc)
+* Books with Lindy effect
 
 Things that I'd be happy to gift others:
 * My go to Gift Set (Choose at least one of the following):

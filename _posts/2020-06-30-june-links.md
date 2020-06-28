@@ -104,6 +104,44 @@ Be](https://www.amazon.com/Way-Spozed-Be-Innovators-Education/dp/0867094079)__
   get a sense that I've also fallen into the mental funk and hopelessness that
   Herndon also fell into, years after his experience with that black, ghetto
   school in California.
+* [Eleven Rings: The Soul of
+Success](https://www.amazon.com/Eleven-Rings-Success-Phil-Jackson/dp/0143125346)
+  * You might enjoy this more if you know things about basketball. I got bored,
+  not only because I didn't know who was who or why they mattered, but also
+  because there's really no depth to the book. My brain was on autopilot. It's
+  a fine book if you're looking to pass the time by the pool or in the plane
+  during vacation, but I really don't see how this book will allow you to
+  improve your [analytical or informational or dispositional
+  advantages](../20/action-advantage.html)
+* __[How to Survive in Your Native
+Land](https://www.amazon.com/Survive-Your-Native-Innovators-Education/dp/0867094087)__
+  * James Herdon's second book. It's a travelogue that follows upon the heels
+  of <u>The Way it Spozed To Be</u>. This book isn't quite so bleak, because I
+  think James has learned to accept the human condition and the fact that no
+  one knows what the heck to be doing in school. He and some other teachers try
+  experimenting with "free classes", where the kids get a couple of periods to
+  just pursue their own fancies. This is a complete disaster because the kids
+  expect the teachers to tell them what to do but the teachers expect the kids
+  to tell them what to do. They end up getting into an exceedingly frustrating
+  situation where some kids complain all day about there being nothing to do but
+  reject all suggestions for things to do. Of course, that's not the end of the
+  story. They eventually evolve this free classroom into one with a couple
+  periods of mandatory reading, semi-mandatory math, and then free time. The
+  objective of the reading period was to give the kids time to actually sit down
+  and read, [not work on practice
+  worksheets](https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/)
+  with phonics or other practice *for* reading. As usual, I've put some choice
+  quotes [here](../27/survive-native-land.html).
+  * I enjoyed this book more than the previous one, though I do recommend the
+  previous one just for some context and acclimation to his writing style. The
+  previous travelogue is also cleaner.
+  * What's next? Herndon's written a few more books on education that seem just
+  as wandering and muse-like as the two I've already read. I want to get
+  something more concrete under my belt before I come back to him, so I might
+  jump to John Holt's <u>How Children Learn</u> or try something from
+  [Kohl](https://en.wikipedia.org/wiki/Herbert_R._Kohl) or
+  [Gattegno](https://en.wikipedia.org/wiki/Caleb_Gattegno). What's for sure is
+  that these books can keep me occupied for quite some time.
 
 __Internet Shenanigans__:
 * Nicky Case strikes again with an interactive article on
@@ -193,6 +231,7 @@ and high tech workers
 hoax](https://www.ineteconomics.org/uploads/papers/Weinstein-GUI_NSF_SG_Complete_INET.pdf)
   * [Related collection of docs on the labor
   shortage](http://users.nber.org/~sewp/references/archive/timelineofdocuments.pdf)
+  * [Intro article to Eric's paper](https://www.ineteconomics.org/perspectives/blog/how-why-government-universities-industry-create-domestic-labor-shortages-of-scientists-high-tech-workers)
 * [Great interview question](https://twitter.com/nikitabier/status/1253805033025486849).
 Heard on the [My First Million
 Podcast](https://podcasts.apple.com/gb/podcast/70-making-money-in-48-hours-fat-fire-how-to-collect-%242m/id1469759170?i=1000472867272), the hardest hitting
@@ -232,6 +271,77 @@ power](https://worldview.stratfor.com/article/geopolitics-united-states-part-1-i
 * [Hyrum's Law of Implicit Interfaces](https://www.hyrumslaw.com)
   * People create dependencies where there are none explicitly specified,
   locking a system into a potentially unsustainable state.
+* [Aswath Damodaran on how unusual the recent investing history has
+been](https://elmfunds.com/aswath-damodaran-interview/). Also, he's losing faith
+in mean reversion. And, if you're a momentum guy, just be straight up about it.
+You're only fooling yourself and your wallet by saying otherwise.
+* [Stratechery](https://stratechery.com)
+  * [Stratechery on FB's Plans for
+  Oculus](https://stratechery.com/2018/the-problem-with-virtual-reality/)
+    * Main takeaway: The growth strategy for Oculus and FB are fundamentally at
+  odds. Zuck's vision for the world wins at FB, though, so whatever the right
+  strategy for Oculus was may never see the light of day.
+  * [Senator Warren and Breaking up
+  Tech](https://stratechery.com/2019/where-warrens-wrong/)
+    * Summary: Warren fundamentally misunderstands how big tech (FANG +
+    MSFT) came to power, what keeps them in power, and what big tech really is.
+    Ben gives a couple of alternatives areas of restriction that rectify the
+    issues with Warren's proposal.
+  * [Apple iCloud and Apple's Founding
+  Myth](https://stratechery.com/2014/icloud-apples-founding-myth/)
+    * Summary: Apple is not fundamentally wired to do cloud right. Also, what
+    makes hardware hard is cost. Software is easier because its costlessness
+    affords greater iteration and learning cycles.
+  * [WeWork is to Real Estate What AWS was to
+  Computing](https://stratechery.com/2019/the-wework-ipo/)
+    * Summary: The [AWS comparison isn't strict](https://stratechery.com/2019/why-wework-isnt-aws-and-the-ceo-problem-cloudflares-s-1-contrasting-s-1s/). It's just meant to show that
+    both WeWork and AWS have transformed the fixed costs of real estate and
+    server computing into variable costs with hidden infrastructure (and the
+    associated infrastructure management). WeWork also can't magic away the
+    physicalness of real estate into the ether that software startups live in.
+  * [Apple Services Announcement March 2019](https://stratechery.com/2019/apples-services-event/)
+    * Summary: Apple's growth is slowing. It's trying to continue growing by
+    creating new products (AirPods, Watch), extending vertical integration (
+    Apple Card, Apple Arcade, Apple News+), and acquiring (not really, but this
+    is the third theoretical way to achieve growth). All the announcements
+    except AppleTV really make sense (Apple should have bought Netflix).
+* [Amazing Article on How to Read the Windspeed from Wind Socks, Flags, Smoke,
+and
+Water](https://www.aopa.org/news-and-media/all-news/2019/may/flight-training-magazine/blown-away)
+* [Website for looking up CA property
+data](https://assr.parcelquest.com/Statewide)
+* A [global commerce platform](https://twitter.com/hello_iamelliot) that's going
+to ship in Dec 2020. Want to keep tabs on it.
+* Business gifts are important. [This company](https://www.thnks.com) helps you
+manage your professional gift giving.
+* [Interesting procedural 3D art model
+generation](https://news.ycombinator.com/item?id=23569201)
+* [A rant on software getting slower and more
+bloated](https://tonsky.me/blog/disenchantment/)
+  * Related [computer law](https://en.wikipedia.org/wiki/Wirth%27s_law):
+  "Software is getting slower more rapidly than hardware is becoming faster."
+  * I want to tie this slowing down and bloating of software to the inevitable
+  slowing down and bloating of administrative processes that are necessary just
+  to keep the firm alive that occurs as organizations grow past a certain size.
+  It's really hard to say that Google or FB or the federal government or
+  a city police department or any other large organization could survive without
+  the hierarchical bureaucracy and process that they've all incorporated into
+  their scaffoldings. Then again, if you consider that there may be some
+  threshold of inefficiency above which orgs die, then it looks like these big
+  companies are every day moving closer and closer to that threshold. Well,
+  there are [very old
+  companies](https://en.wikipedia.org/wiki/List_of_oldest_companies) in the
+  world. What I haven't done is to see whether there is correlation between the
+  age and the size of the org. Is growth always a good thing? Is growth just
+  something we try to sustain because we don't want to learn to curb our
+  incurable desire for more and for novelty?
+  * More software obesity / nonsense rants / articles:
+    * [Rant1 on Electron](https://josephg.com/blog/electron-is-flash-for-the-desktop/)
+    * [Rant2 on Chrome](https://tonsky.me/blog/chrome-intervention/)
+    * [Note on why Bluetooth Doesn't Always Behave](https://www.nytimes.com/wirecutter/blog/understanding-bluetooth-pairing-problems/)
+    * [Straight up Website Obesity](https://idlewords.com/talks/website_obesity.htm)
+    * [Typing Latency](https://pavelfatin.com/typing-with-pleasure/)
+
 
 __Podcast Learnings__:
 * [Tobi Lutke and Patrick
@@ -256,6 +366,9 @@ iOS?](https://www.youtube.com/watch?v=fjs93acOPL8)
   * By the way, I hate that Apple got rid of the magnifying glass for moving the
   cursor to specific character on iOS. The new freaking interface pretty much
   never does what I want.
+* [a% of b == b% of a](https://betterexplained.com/articles/mental-math-shortcuts/)
+Better Explained always has good content, but this one really blew my mind.
+Note, this shortcut is for percentages, not for mods.
 
 __Random Small Thoughts I'd Rather not tweet or Write a One-sentence Post for__:
 * At a surface level, Thiel's assessment that China investing in the US (and
