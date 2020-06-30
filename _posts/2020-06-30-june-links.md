@@ -341,7 +341,7 @@ bloated](https://tonsky.me/blog/disenchantment/)
     * [Note on why Bluetooth Doesn't Always Behave](https://www.nytimes.com/wirecutter/blog/understanding-bluetooth-pairing-problems/)
     * [Straight up Website Obesity](https://idlewords.com/talks/website_obesity.htm)
     * [Typing Latency](https://pavelfatin.com/typing-with-pleasure/)
-
+    * [Non Bloat with the Wonderful Tools that are Unix](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 
 __Podcast Learnings__:
 * [Tobi Lutke and Patrick
@@ -354,6 +354,25 @@ O'Shag](http://investorfieldguide.com/tobi-lutke-building-a-modern-business-inve
     4 of those 5 hours for Shopify. Me -- You should find a job you are willing
     to give 4 of those 5 hours each day to. Otherwise, you're probably wasting
     your time.
+* [Kevin Rose and Tim
+Chang](https://podcast.kevinrose.com/tim-chang-consciousness-hacking/)
+  * Consciousness reorganizing teachers:
+    * Alan Watts
+    * Michael Singer, [The Untethered Soul](https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379)
+    * Anthony De Mello, [The Way to Love](https://www.amazon.com/Way-Love-Meditations-Anthony-Classics/dp/038524939X)
+    * [Osho](https://www.osho.com)
+    * [Rupert Spira](https://non-duality.rupertspira.com/home)
+      * We create this world out of our consciousness.
+  * The five basic health tips:
+    * Sleep
+    * Eat clean
+    * Fast
+    * Lift things and move frequently
+    * Meditate
+    * Manage anxiety
+    * Have healthy relationships
+  * The best teachers just ask you more and more annoying questions designed to
+  get you to get to the answer yourself.
 
 __Cool things I discovered__:
 * [It's gorgeous](https://sonderdesign.com), but do I really need a $200
@@ -378,6 +397,22 @@ thinking could be that China can get investment or loans at cheaper rates if
 they park their money elsewhere.
 * [My take on the remote work salary CoL adjustment whatever
 nonsense](../08/remote-working-salary.html).
+* No matter how intellectually amazing any single person is, you know you can
+eventually come to expect a certain style, a certain way of framing or seeing
+the world from them. That is why I need to follow so many distinct entities on
+Twitter or read so many distinct books. But I know that no matter how many
+disparate sources of information I absorb in an attempt to become
+multidimensional and *truly interesting*, I will also end up becoming a person
+who has one single, distinct way of exposing portions of the universal knowledge
+graph. Isn't that amazing? I try to fancy myself the small end point of a funnel
+with a wide mouth. But I know that even if I succeed in being an interesting
+person that other people are willing to listen to, I can only be a speck in the
+wide end of their individual funnels.
+* Ok, so I guess I did [tweet this
+one](https://threadreaderapp.com/thread/1277722666967822336.html). This is about
+audio vs visual AR.
+* Ok, [another one I did end up tweeting](https://t.co/o8KUnFqUqh?amp=1). This
+is about treating and viewing children like less than human.
 
 __Background Musics__:
 * [Sentimental](https://www.youtube.com/watch?v=QkkvaiG1rJA)
