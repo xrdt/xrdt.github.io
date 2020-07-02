@@ -5,10 +5,10 @@ title: "My Approved Gift List"
 *Author: Bianca Yang*<br>
 *Email: <a href="mailto:ipacifics@gmail.com?subject=Hello from the XDRT Blog">ipacifics@gmail.com</a>*<br>
 
-Things that I want:
+Things that I would be happy to receive:
 * ~~[Gymnastics Rings 1](https://www.amazon.com/Rep-Gymnastic-Rings-Numbered-Straps/dp/B00QR1J5NY/)~~
 * ~~[Gymnastics Rings 2](https://www.amazon.com/Gymnastic-Fitness-Exercise-Wooden-Gymnast/dp/B01FTOCY0A/)~~
-* [Indestructible hooks for your ^ rings](https://www.amazon.com/Jungle-Gym-Kingdom-Playground-Capacity/dp/B015OXL2MW/)
+* [2x2 Speed Cube](https://www.amazon.com/D-FantiX-Cyclone-Speed-Stickerless-Puzzles/dp/B00Q04QJSC/ref=cm_cr_arp_d_product_top)
 * [Airpods Pro](https://www.apple.com/airpods-pro/)
 * [Textblade. Literally the coolest keyboard you have seen. According to HNews, works amazing](https://waytools.com/store/showroom/info/textblade/tablet)
 * [Sonder Design Keyboard](https://sonderdesign.com)

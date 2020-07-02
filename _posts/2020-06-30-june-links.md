@@ -354,6 +354,7 @@ O'Shag](http://investorfieldguide.com/tobi-lutke-building-a-modern-business-inve
     4 of those 5 hours for Shopify. Me -- You should find a job you are willing
     to give 4 of those 5 hours each day to. Otherwise, you're probably wasting
     your time.
+      * What do you default to doing in your leisure time?
 * [Kevin Rose and Tim
 Chang](https://podcast.kevinrose.com/tim-chang-consciousness-hacking/)
   * Consciousness reorganizing teachers:
