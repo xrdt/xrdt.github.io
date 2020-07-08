@@ -112,4 +112,6 @@ __Podcasts (Most of these are so good I might relisten to them)__:
 __Internet Interests__:
 * [Very cool newspaper rendering of the front page of
 reddit](https://github.com/thesephist/unim.press)
+* [Work Yourself Out of Your
+Job](https://medium.com/@stevecox/work-yourself-out-of-your-job-to-accelerate-your-career-af1da7eafb6b)
 

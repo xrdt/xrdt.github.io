@@ -23,6 +23,7 @@ Table of Contents:
 * [Micro and Macro Level Views of the Company](../../../2020/06/07/micro-macro-views-company.html)
 * [Consider the Gap Between When You Accept the Offer and When You Begin
 Work](#gapd)<a name="gapu"></a>&shy;
+* [Great Twitter advice](https://twitter.com/SMTuffy/status/1280893276518744064)
 
 <br>
 <u>The List</u>:
