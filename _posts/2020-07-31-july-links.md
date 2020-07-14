@@ -108,6 +108,10 @@ __Podcasts (Most of these are so good I might relisten to them)__:
   in the show notes, in case you want to fact check or just go deeper into
   anything they discussed. This is a real hard hitting episode. Please check it
   out. Meanwhile, I'm going to buy Paul's book.
+* [Covid, Free Speech, and Lies](https://exponent.fm/episode-184-good-is-better-than-perfect/)
+  * Notes to come
+* [Eric Weinstein and His Son](https://podcasts.apple.com/us/podcast/34-zev-weinstein-on-parenting-boys-generation-z/id1469999563?i=1000474506222)
+  * Notes to come
 
 __Internet Interests__:
 * [Very cool newspaper rendering of the front page of
@@ -115,3 +119,21 @@ reddit](https://github.com/thesephist/unim.press)
 * [Work Yourself Out of Your
 Job](https://medium.com/@stevecox/work-yourself-out-of-your-job-to-accelerate-your-career-af1da7eafb6b)
 
+__China Studies__:
+* I'm currently slowly working my way through the [Ladanyi China News Analysis
+Archives](http://www.ladanyi.ch/china-news-analysis/). It's been slow, grueling
+work, but absolutely worth it for an understanding of a country that may very
+soon replace the US as the geopolitical kingpin.
+
+__Life Updates__:
+* I decided to risk my life (joking) and go on a [mountain
+trip](https://twitter.com/xdrtxrdt/status/1280262884082106368) with my
+paragliding instructor, Jeff Greenbaum, and the Mussel Rock locals for July 4th
+weekend. It was absolutely worth it because now I know the gang and have a
+guarantee that people will watch and help me when I go to [fly at
+Cheetah](https://twitter.com/xdrtxrdt/status/1281461779155939328). The budding
+relationship I have with the Mussel Rock locals is one big reason I wouldn't
+want to leave the Bay Area.
+* I've also restarted my Duolingo Russian learning. I'm far too lazy to learn on
+my own, so I figure I'll mentally exhaust myself each evening by running through
+around 130-150XP of lessons.
