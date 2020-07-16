@@ -21,6 +21,7 @@ Table of Contents:
 * [Learn to negotiate](#Negotiated)<a name="Negotiateu"></a>&shy;
 * [Hard questions you may want to ask your potential future employer](#HardQuestionsd)<a name="HardQuestionsu"></a>&shy;
 * [Micro and Macro Level Views of the Company](../../../2020/06/07/micro-macro-views-company.html)
+* [Types of Risk](#riskd)<a name="risku"></a>&shy;
 * [Consider the Gap Between When You Accept the Offer and When You Begin
 Work](#gapd)<a name="gapu"></a>&shy;
 * [Great Twitter advice](https://twitter.com/SMTuffy/status/1280893276518744064)
@@ -251,3 +252,37 @@ Work](#gapu)<a name="gapd"></a>
     * People want to join startups because they grow fast. That means they'll
     grow and change a lot in the 6+ months between your accepting the offer and
     starting work.
+* [Types of Risk; Which One Do You Want to Face?](#risku)<a name="riskd"></a>
+  * Operational risk
+    * Also known as execution risk, companies facing this kind of risk are
+    likely more mature but not yet established within traditional
+    infrastructure. For example, companies trying to go IPO largely face
+    operational risk in trying to meet revenue and operating maring numbers and
+    hiring the right executive team and meeting with bankers to get compliance
+    and other financial figures lined up. If you're facing operational risk, the
+    playbook is clear. You just have to check off the requisite boxes so you can
+    cross the finish line and then move onto different kinds of problems. You
+    can probably tell I am biased against joining a company when it's primarily
+    facing operational risk.
+  * Business risk
+    * This is the famed product-market fit problem. If you build it, will they
+    come? Companies face this kind of risk all throughout their lifecyle, since
+    companies want to achieve growth and they know that they can't get consumers
+    to buy more of the same old thing year after year without at least some
+    marketing tweaks. This is definitely more exciting than operational risk,
+    but the burden of delivery likely falls more on marketing / sales teams than
+    it does on engineering, since the objective likely isn't to deliver
+    something completely out of the technological Overton window. The objective
+    is to deliver something that is just novel enough to attract attention but
+    also familiar enough that people will feel comfortable parting with their
+    dollars for it.
+  * Technology Risk
+    * Think Hyperloop or SpaceX or anything JPL has done. This is probably the
+    most exciting area for engineers and other builders to be in because the
+    entire point of engineering is to find solutions to tough (and novel)
+    problems. Since the brunt of the work will fall upon engineering, expect to
+    work the hardest at these kinds of companies. Hopefully you reap what you
+    sow. Worst case, you will surround yourself with people who have risk
+    profiles skewed towards low-probability, high-reward outcomes. The
+    probability of at least one of you guys (Paypal Mafia) making it big in a
+    way where the spoils can be shared among the group is thus higher.

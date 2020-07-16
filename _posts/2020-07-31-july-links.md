@@ -118,12 +118,37 @@ __Internet Interests__:
 reddit](https://github.com/thesephist/unim.press)
 * [Work Yourself Out of Your
 Job](https://medium.com/@stevecox/work-yourself-out-of-your-job-to-accelerate-your-career-af1da7eafb6b)
+* Good Lord I've been looking for [this app](https://www.causal.app) for months.
+I saw the ShowHN on HackerNews around two months ago, lost the link to it, and
+now it's reappeared on HN Classic.
+* The one good quote out of this [resignation
+letter](https://www.bariweiss.com/resignation-letter):
+> truth isn’t a process of collective discovery, but an orthodoxy already known
+to an enlightened few whose job is to inform everyone else.
+* [Paul Graham's ToDo List](http://www.paulgraham.com/todo.html)
+* Collection of illustrated internet explanations
+  * [Tabletop Whale](http://tabletopwhale.com)
+  * [Stem Lounge](https://stemlounge.com)
+  * [Bartosz Ciechanowski's Blog](https://ciechanow.ski/lights-and-shadows/)
+  * [Explorable Explanations](https://explorabl.es)
+    * [Nicky Case's Blog](https://ncase.me)
 
 __China Studies__:
 * I'm currently slowly working my way through the [Ladanyi China News Analysis
 Archives](http://www.ladanyi.ch/china-news-analysis/). It's been slow, grueling
 work, but absolutely worth it for an understanding of a country that may very
 soon replace the US as the geopolitical kingpin.
+* When studying the early days of Communist China, you must study the root of
+the Chinese thinking -- Mao Ze Dong's work. The first piece I've read is
+"On New Democracy" ([中](http://chinatide.net/xiachao/23.html),
+[English](https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_26.htm#bm1)).
+* [China's ideological war and Tik Tok's place in
+it](https://stratechery.com/2020/the-tiktok-war/)
+  * China's greatest fear is that (Western) liberalism will push out Marxism as
+  the one world truth. Tik Tok, We Chat, etc, are all Chinese propaganda and
+  information gathering vectors. It is the responsibility of the US and other
+  Western governments to fight back against the destruction of liberal truth
+  in favor of authoritarian imposition and war by limiting China's reach.
 
 __Life Updates__:
 * I decided to risk my life (joking) and go on a [mountain
