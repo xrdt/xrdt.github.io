@@ -32,6 +32,9 @@ __Books__:
   * I could not be more happy to have finished this book and to have known that
   there was such a man who once existed and who was interested enough in sharing
   his experiences with the rest of us blind but eager fools.
+* __[Never Too Late](https://www.amazon.com/Never-Too-Late-Musical-Story/dp/0201567636)__
+  * Another good book by John Holt. This time, he's talking about his journey in
+  learning to play the cello as an adult.
 
 __Podcasts (Most of these are so good I might relisten to them)__:
 * [Ezra Klein and Rutger Bregman](https://podcasts.apple.com/us/podcast/are-humans-fundamentally-good-with-rutger-bregman/id1081584611?i=1000476380401)
@@ -132,6 +135,50 @@ to an enlightened few whose job is to inform everyone else.
   * [Bartosz Ciechanowski's Blog](https://ciechanow.ski/lights-and-shadows/)
   * [Explorable Explanations](https://explorabl.es)
     * [Nicky Case's Blog](https://ncase.me)
+* [Steven Sinofsky on
+Apple](https://medium.learningbyshipping.com/apples-relentless-strategy-and-execution-7544a76aa26)
+  * The starting point is Apple's recent announcement of Apple Silicon, the new
+  custom silicon that will power Macs. The transition will happen over the next
+  two years.
+  * Three things Sinofsky thinks Apple has clearly demonstrated extraordinary
+  ability in:
+    * Fearless multi-year strategy
+    * Clear unified planning/prioritization
+    * Wildly unprecedented execution
+  * Quote on Microsoft and their commitment to being an enterprise company:
+    > There’s a whole book to be written about the “deal” a company makes to
+    become an enterprise company and to promise compatibility. The reward of
+    success is extremely high, but it is almost a Faustian bargain because you
+    will absolutely cede the right to innovate.
+* Elinor Ostrom's [Design
+Principles for Common Pool Resource
+Institution](https://en.wikipedia.org/wiki/Elinor_Ostrom#Design_principles_for_Common_Pool_Resource_(CPR\)\_institution)
+  * I found this somewhere in a comment on HackerNews. Seems like a fairly
+  common sense framework, but [reality is more complicated than you
+  think](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail).
+* [This](https://www.arcpublishing.com) was mentioned on a [My First
+Million](https://thehustle.co/why-wapo-copying-amazon/) episode as an example of
+ways companies can turn their internal tooling into distinct products that
+then become bigger than the originating entities. AWS is the highest profile
+example of this business model. Of course, as has been discussed on
+[Stratechery](https://stratechery.com) and [Exponent](https://exponent.fm),
+a strategy is a cohesive set of actions that make sense in a context. This
+means that, as attractive as any business model may be, not every company can
+change their cost structure or revenue stream commitments or org structure to
+support a new way of building / selling / producing value.
+* I'm fascinated by this HackerNews thread on [Expert
+Beginners](https://news.ycombinator.com/item?id=23767438). I'm early into my
+career, but I have this strong fear that I'm already on the road towards
+becoming an Expert Beginner (is this just imposter syndrome?).
+  * [Well written comment](https://news.ycombinator.com/item?id=23774504) on the
+  demographic change from hobbyist / passion programmers towards professional
+  programmers who just want to keep their job. It also talks about how the lack
+  of standard certification (which comes from the dynamic, amorphous nature of
+  the field and its tools) has led to the whiteboarding interview.
+  * There are other comments on how hard it is to progress past plateaus of
+  learning and on how the number of materials / tutorials for learning rapidly
+  decreases once one gets past the beginner tutorials. Pretty soon you're onto
+  learning from research papers.
 
 __China Studies__:
 * I'm currently slowly working my way through the [Ladanyi China News Analysis
@@ -144,11 +191,91 @@ the Chinese thinking -- Mao Ze Dong's work. The first piece I've read is
 [English](https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_26.htm#bm1)).
 * [China's ideological war and Tik Tok's place in
 it](https://stratechery.com/2020/the-tiktok-war/)
+  * TikTok is a crazy successful information manipulation vector for China
+  because it leverages the human preference for moving pictures over text or
+  static images, and pulls content from the global pool of contributors (not
+  just a user's social network).
   * China's greatest fear is that (Western) liberalism will push out Marxism as
-  the one world truth. Tik Tok, We Chat, etc, are all Chinese propaganda and
-  information gathering vectors. It is the responsibility of the US and other
-  Western governments to fight back against the destruction of liberal truth
-  in favor of authoritarian imposition and war by limiting China's reach.
+  the one world truth. TikTok, We Chat, etc, are all Chinese tools that further
+  the political objective of making sure that Marxism survives as the single
+  ideological truth (you live I die). Western governments (esp US) need to step
+  up and fight for peace and liberalism by passing legislation on data privacy
+  and limiting global Chinese influence (cutting off highly effective influence
+  vectors like TikTok).
+  * This is an absolutely amazing speech on
+[XiJinPing and modern
+China](https://sinocism.com/p/engineers-of-the-soul-ideology-in). Main
+points:
+  * "the formal ideology of communism coexists with an unofficial ideology of old
+  China". This is also becoming clear from my reading of the archives of
+  Ladanyi's China News Analysis. Chinese people have a strong love and respect
+  for their culture (just look at how many TV serials are imperial Chinese court
+  dramas), especially the stories about the rise and fall of dynasties. Even
+  today, you'd probably be hard pressed to find Chinese people who don't know by
+  heart the stories of the Three Kingdoms and Sun Wu Kong or who isn't familiar
+  with the narratives of the other [Four Classic Chinese
+  Novels](https://en.wikipedia.org/wiki/Classic_Chinese_Novels).
+  * XiJinPing is an ideological monster. We haven't seen this level of
+  insistence on ideological perfection since the Cultural Revolution. The
+  underlying view:
+  > In the view of China’s princelings - or “Revolutionary Successors”, as they
+  prefer to be known - China is still trapped in the cycle which had created and
+  destroyed every dynasty that had gone before. In this tradition, when you lose
+  political power you don’t just lost your job (while keeping your super) as you
+  might in our rather gentrified arrangement. You lose your wealth, you lose
+  your freedom, you probably lose your life and possibly your entire extended
+  family. You are literally erased from history. Winners take all and losers
+  lose everything.
+  * The written work that provided Mao and now Xi a way out of this endless
+  cycle of eventual collapse was Stalin's _Short Course_:
+  > The most original insight in Stalin’s _Short Course on the History of the
+  Bolsheviks_ is that the path to socialist utopia will always be obstructed by
+  enemies who want to restore bourgeois capitalism from inside the party. These
+  internal enemies grow more desperate and more dangerous as they grow
+  increasingly imperilled - and as they collaborate with the spies and agents of
+  Western liberalism.
+  > ... What Stalin offered Mao was not only a manual for purging his peers but
+  also an explanation of why it was necessary. Purging his rivals was the only
+  way a vanguard party could “purify” itself, remain true to its revolutionary
+  nature and prevent a capitalist restoration.
+  * Xi is claiming to be the Revolutionary Successor to Mao:
+  > Xi’s language of “party purity”; “criticism and self-criticism”; “the mass
+  line”; his obsession with “unity”; his attacks on elements of “hostile Western
+  liberalism”, “constitutionalism” and other variants of ideological
+  “subversion” -  this is all Marxism-Leninism as interpreted by Stalin as
+  interpreted by Mao.
+  * The continual purges and social engineering and "tempering" and engineering
+  of the human soul will never end in Communist China:
+  > Importantly, the Communist Party never sought to “persuade” so much as
+  “condition”. By creating a fully enclosed system, controlling all incentives
+  and disincentives, and “breaking” individuals physically, socially and
+  psychologically, they found they could condition the human mind in the same
+  way that Pavlov had learned to condition dogs in a Moscow laboratory a few
+  years earlier.
+  > The Western conspiracy to infiltrate, subvert and overthrow the People’s
+  Party is not contingent on what any particular Western country thinks or does.
+  It is an equation, a mathematical identity: the CCP exists and therefore it is
+  under attack.
+  * And the seven Western false trends:
+  > Western constitutional democracy - “an attempt to undermine the current leadership”;
+  Universal values of human rights - an attempt to weaken the theoretical foundations of party leadership.
+  Civil Society - a “political tool” of the “Western anti-China forces” dismantle the ruling party’s social foundation.
+  Neoliberalism - US-led efforts to “change China’s basic economic system”.
+  The West’s idea of journalism - attacking the Marxist view of news, attempting to “gouge an opening through which to infiltrate our ideology”.
+  Historical nihilism - trying to undermine party history, “denying the inevitability” of Chinese socialism.
+  Questioning Reform and Opening - No more arguing about whether reform needs to go further.
+  * The biggest challenge to Western liberal and democratic ideals is that
+  propaganda constantly leaks out of China. TikTok / Twitter / FB / WeChat,
+  China will find a way to connect with its global diaspora and then, the rest
+  of those who can be politically useful against the constant threat of Western
+  thought. The Chinese model of authoritarianism has already implanted itself as
+  somewhat attractive because of "how they've handled the COVID situation". It's
+  absurd to assume that Western countries can choose piecemeal the pieces of
+  Chinese authoritarian governance to apply and expect it to work out well
+  (Ben and James covered this in [ep 184 of
+  Exponent](https://t.co/fxlBWIMEjC?amp=1)). Well, not sure what else to say
+  here besides "read the comments" and watch for more international pushback
+  on Chinese actions.
 
 __Life Updates__:
 * I decided to risk my life (joking) and go on a [mountain
@@ -162,3 +289,11 @@ want to leave the Bay Area.
 * I've also restarted my Duolingo Russian learning. I'm far too lazy to learn on
 my own, so I figure I'll mentally exhaust myself each evening by running through
 around 130-150XP of lessons.
+* "We're here to have a good time, not here for a long time!!" <<- Said in
+response to someone else's crabby remarks about a camping set up.
+* I've realized that I get very very upset when I'm bored. The days where I'm
+bored at work are the days where I think work sucks. The days when I can't
+figure out how to engage my mind are the days I feel like I wasted. I don't
+think I've ever been good at managing my response to boredom, but the Internet
+has definitely filed away at my patience and ability to just sit still and be
+grateful to be alive and to have a functioning cognition.
