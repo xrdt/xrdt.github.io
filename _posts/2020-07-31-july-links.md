@@ -179,6 +179,63 @@ becoming an Expert Beginner (is this just imposter syndrome?).
   learning and on how the number of materials / tutorials for learning rapidly
   decreases once one gets past the beginner tutorials. Pretty soon you're onto
   learning from research papers.
+* [New productivity app!!](http://amie.so)
+* [Stratechery on the Utterly Lacking Uber
+S-1](https://stratechery.com/2019/uber-questions/)
+  * Ben debates the Personal Mobility value proposition of Uber, their
+  advantages against Lyft, how they could win in the autonomous vehicles space,
+  and how little information Uber has included in their S-1.
+* [Stratechery on How Disney's Streaming Services Are Adapting to the Free
+Distribution World of the
+Internet](https://stratechery.com/2019/disney-and-the-future-of-tv/)
+  * Even if studying history is somewhat useless because we tend to do too
+  much useless pattern matching to rhyming contexts, it's still interesting to
+  learn about the history and evolution of [tech
+  conglomerates in industries like cable
+  television](http://investorfieldguide.com/collison/).
+  * Main points:
+    * Because the Internet has enabled free and limitless distribution, the
+    number of jobs that can be served through the Internet has dramatically
+    increased.
+    * Sports / news TV are best consumed live and thus are better suited for the
+    traditional cable distribution model. Sports also has the advantage of
+    having natural breaks for advertising. The high level of individual
+    preference in sports viewing also means that consumers will pay for access
+    to sports bundles and content distributors can charge high fees to
+    distributors. ESPN+ is a nice addition that allows ESPN to make use of its
+    streaming rights for less popular sports, but the above listings make sports
+    and ESPN highly suited for a wide distribution business model.
+    * Disney+ is all about driving the [Disney movies + merchandising + theme
+    park attractions
+    flywheel](https://kottke.org/15/06/walt-disneys-corporate-strategy-chart).
+    It's cheap because Disney wants to attract and retain as much traffic as
+    possible. Lifetime value of a Disney customer is much higher than the gains
+    from charging a higher price and getting to profitability (currently
+    projected to 2024) sooner.
+    * Hulu is a Netflix hedge.
+    * Closing thought from Ben: focus on the job(s) to be done.
+* [Stratechery on How to Regulate the
+Internet](https://stratechery.com/2019/a-regulatory-framework-for-the-internet/)
+  * Main points:
+    * Existing legislation has either entrenched the large players (FB / GOOG)
+    or practically demanded that platforms filter content or spy on traffic.
+    * We want free speech but we don't want child exploitation or hate crime
+    videos to be spread all over the internet.
+    * FB and Goog and Super Aggregators that facilitate interactions between
+    free users, free content creators (who could be users), and paying
+    advertisers. These platforms serve their customers, the advertisers, by
+    getting them as many eyeballs as possible. This means serving content people
+    want, which ranges from "the beautiful to the profane". Because users don't
+    pay for the service, their boycotting or other dissenting actions doesn't
+    have a direct impact on the platform's bottom line. Advertisers also don't
+    have much of any incentive to boycott the platforms, so the money just keeps
+    flowing in.
+    * The focus of regulation, then, should be on this category of ad-supported
+    businesses where there is a market failure. There is a fundamental
+    disconnect between supply (content) and monetization and consumption which
+    is not present with Internet infrastructure (ISPs) and other directly paid
+    applications (Azure / AWS / self or shared hosting). Keep the Internet free
+    in the other cases.
 
 __China Studies__:
 * I'm currently slowly working my way through the [Ladanyi China News Analysis
@@ -273,9 +330,8 @@ points:
   absurd to assume that Western countries can choose piecemeal the pieces of
   Chinese authoritarian governance to apply and expect it to work out well
   (Ben and James covered this in [ep 184 of
-  Exponent](https://t.co/fxlBWIMEjC?amp=1)). Well, not sure what else to say
-  here besides "read the comments" and watch for more international pushback
-  on Chinese actions.
+  Exponent](https://t.co/fxlBWIMEjC?amp=1)).
+  * My thoughts: Read the comments. I like Tom Clissold's and Justin O'Connor's.
 
 __Life Updates__:
 * I decided to risk my life (joking) and go on a [mountain
