@@ -236,6 +236,29 @@ Internet](https://stratechery.com/2019/a-regulatory-framework-for-the-internet/)
     is not present with Internet infrastructure (ISPs) and other directly paid
     applications (Azure / AWS / self or shared hosting). Keep the Internet free
     in the other cases.
+* [Stratechery on How Satya Nadella Ended Windows](https://stratechery.com/2018/the-end-of-windows/)
+  1. Office on iPad and Windows Azure --> Microsoft Azure
+    * Microsoft will serve non-Windows and Windows platforms.
+  2. Windows 10
+    * Temp retreat to fix the hatred for Windows 8.
+  3. Reorg
+    * From Ballmer's One Microsoft to Cloud and Enterprise ; Applications and
+    Services ; Windows and Devices. The Windows (and other non-core groups like
+    Surface) team was left out to come to terms with the reality of its end by
+    itself. No need to waste political capital by directly axing the group.
+  4. What's the next growth vector?
+    * Microsoft has successfully undone the Ballmer damage of functional
+    organization and become a divisional org. Whether Microsoft can find a cash
+    cow as successful as Windows to build its next few decades of growth upon
+    remains to be seen. Azure is still second to AWS; Office365 isn't
+    particularly strong as a general productivity suite.
+* [Stratechery on MSFT vs Zoom vs
+Slack in the SaaS
+Space](https://stratechery.com/2019/microsoft-slack-zoom-and-the-saas-opportunity/)
+  * The main point is to study [this chart](https://stratechery.com/wp-content/uploads/2019/04/Stratechery-2019-05-01-19.31.23.png)
+  and realize that the major challenge facing MSFT relative to the other hot
+  up and coming SaaS players is that MSFT doesn't have a clear way to grow its
+  user base.
 
 __China Studies__:
 * I'm currently slowly working my way through the [Ladanyi China News Analysis

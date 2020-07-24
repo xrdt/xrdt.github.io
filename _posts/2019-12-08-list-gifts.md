@@ -12,7 +12,6 @@ Things that I would be happy to receive:
 * [Airpods Pro](https://www.apple.com/airpods-pro/)
 * [Textblade. Literally the coolest keyboard you have seen. According to HNews, works amazing](https://waytools.com/store/showroom/info/textblade/tablet)
 * [Sonder Design Keyboard](https://sonderdesign.com)
-* [Blowgun (for anyone *not* living in CA or MA or NYC)](https://www.amazon.com/Venom-Blowguns®-40-Darts-Made/dp/B008H7M0Q0/)
 * [Custom molded ear plugs](https://www.amazon.com/Decibullz-Earplugs-Comfortable-Protection-Shooting/dp/B01N129AQ8/)
 * ~~[3L Water Reservoir](https://www.amazon.com/Source-Hydration-Reservoir-Leakproof-Antimicrobial/dp/B008S9AX0W/ref=sr_1_1)~~
 * [Leatherman Wave or equivalent multi-tool](https://www.amazon.com/LEATHERMAN-Wave-Multitool-Stainless-Steel/dp/B079MJBP21/)
@@ -33,23 +32,21 @@ Things that I would be happy to receive:
 
 Things that I'd be happy to gift others:
 * My go to Gift Set (Choose at least one of the following):
-  * [Weekender bag!](https://www.amazon.com/Foldable-Weekender-Compartment-Water-proof-Resistant/dp/B07GVK5VQ1/)
-  * [Finger Nail Clippers](https://www.amazon.com/Seki-Stainless-Fingernail-Clipper-SS-106/dp/B000F35R00/) OR
+  * [Cast Iron Pan](https://www.amazon.com/Lodge-Skillet-Skillet-Stovetop-Cooking/dp/B00063RWT8?ref_=ast_sto_dp) +
+  [Silicone Handle Holder](https://www.amazon.com/Lodge-Manufacturing-Company-ASHHM41-Silicone/dp/B00UHKS55K/)
+  * [Stryve Hickory Seasoned Biltong](https://www.walmart.com/ip/Stryve-Biltong-Hickory-Seasoned-8oz/257082789)
+* [Ceramic knife](https://www.amazon.com/Kyocera-FK-2PC-WH3-Revolution-Ceramic/dp/B000KU7I50/)
+* [Nice non ceramic cooking knife](https://www.amazon.com/Mercer-Cutlery-Japanese-Style-Santoku-Knife/dp/B001EN6D62/)
+* [Finger Nail Clippers](https://www.amazon.com/Seki-Stainless-Fingernail-Clipper-SS-106/dp/B000F35R00/) OR
   [Toe Nail clipper](https://kaiscissors.com/kai-type-003l-nail-clippers/)
-  * [Eyemask!!](https://www.amazon.com/gp/product/B00ZTC56O4/)
-* [Ceramic knives, anyone? (smooth as heck but they can chip)](https://www.amazon.com/Kyocera-FK-2PC-WH3-Revolution-Ceramic/dp/B000KU7I50/)
+* [Weekender bag!](https://www.amazon.com/Foldable-Weekender-Compartment-Water-proof-Resistant/dp/B07GVK5VQ1/)
+* [Eyemask!!](https://www.amazon.com/gp/product/B00ZTC56O4/)
 * [Merino wool socks](https://www.amazon.com/DANISH-ENDURANCE-Merino-Light-9-5-12-5/dp/B07D8VRCTW/)
 * [Uniqlo HeatTech](https://www.uniqlo.com/us/en/women/heattech-collection)
 * [Book stand](https://www.amazon.com/Adjustable-Portable-Hardcover-Textbooks-Bookrest/dp/B07HC9D6Y8/)
 * [Crock Pot](https://www.amazon.com/Crock-Pot-SCV401-TR-4-Quart-Manual-Cooker/dp/B000AB32PE/)
 * [Custom molded ear plugs](https://www.amazon.com/Decibullz-Earplugs-Comfortable-Protection-Shooting/dp/B01N129AQ8/)
-* [Blowgun (for anyone *not* living in CA or MA or NYC)](https://www.amazon.com/Venom-Blowguns®-40-Darts-Made/dp/B008H7M0Q0/)
-* [Cast Iron Pan](https://www.amazon.com/Lodge-Skillet-Pre-Seasoned-Skillet-Silicone/dp/B00G2XGC88/)
 * [Headlamp](https://www.amazon.com/Foxelli-Headlamp-Flashlight-2-Pack-Lightweight/dp/B07VCTYYZX/)
 * [3L Water Reservoir](https://www.amazon.com/CamelBak-Crux-Reservoir-Set-Blue/dp/B01LA5FCJ2/)
 * [Waterproof Socks](https://www.amazon.com/RANDY-SUN-Waterproof-Half-Cushion-Multisport/dp/B07BXMDPW5/)
-* [Uniqlo HeatTech or equivalent thin clothes that are super effective at keeping you warm](https://www.uniqlo.com/us/en/women/heattech-collection)
-* [Some good books](https://xrdt.github.io/books_readings.html)
-* [Perfume Sampler Set](https://www.sephora.com/product/replica-memory-box-P446793?icid2=products%20grid:p446793)
-* [Nice non ceramic cooking knife](https://www.amazon.com/Mercer-Cutlery-Japanese-Style-Santoku-Knife/dp/B001EN6D62/)
 * Cash, so people can buy experiences or save or just not be subjected to what I think is cool

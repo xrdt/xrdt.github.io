@@ -26,7 +26,13 @@ Open Ended Questions<br>
 ??. Merging in version control / Google Docs. CRDTs.<br>
 ??. Implement a regular expression parser that supports "." and "*"<br>
 ??. What happens when you type "google.com" into your web browser<br>
-??. Implement a partially persistent stack. O(number of elements) print per version. O(1) push and pop.<br>
+??. Design a persistent stack. It maintains a version counter which starts at 0.
+On every push or pop operation, version is incremented by 1. Expected time
+complexity:<br>
+  <ol>
+      <li>Push, Pop - O(1)</li>
+      <li>Print - O(Number of elements in given version)</li>
+  </ol>
 ??. Copying a file to a large number of destinations through a slow link. [At ITA, the file was
 the airlines' seat availability record, that really indicated which price points on each flight
 could be offered for sale right then.](https://news.ycombinator.com/item?id=21254743)<br>
