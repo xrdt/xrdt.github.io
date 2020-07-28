@@ -115,6 +115,18 @@ __Podcasts (Most of these are so good I might relisten to them)__:
   * Notes to come
 * [Eric Weinstein and His Son](https://podcasts.apple.com/us/podcast/34-zev-weinstein-on-parenting-boys-generation-z/id1469999563?i=1000474506222)
   * Notes to come
+* [台灣小男生跑北韓？！](https://podcasts.apple.com/tw/podcast/ep-35-北韓全民大臨演-平壤最大實境-rpg-逃出羊角島-ft-融融歷險記/id1476564589?i=1000484942856)
+  * 最近在試新的中文播客，覺得這節目講旅行蠻有意思。只是聽好玩喔，所以沒有神留下
+  筆記...歹勢。
+* [Practical Angel Investing Tips](https://player.fm/series/my-first-million/ep-82-the-guide-on-angel-investing)
+  * Build a portfolio of 20 - 30 companies. 20 is the absolute minimum size of
+  the portfolio to protect you against downside risk. Expect to give each
+  company $25k checks, so a total of $500k total investment on the low end.
+  * Invest in your friends! You have access to them early on and you know them
+  beyond the formal presentation.
+  * If you don't feel like you have the capital, offer to be a scout for someone
+  with capital. Take a 10 or 20% cut of the carry for each investment you
+  introduce them to.
 
 __Internet Interests__:
 * [Very cool newspaper rendering of the front page of
@@ -259,6 +271,19 @@ Space](https://stratechery.com/2019/microsoft-slack-zoom-and-the-saas-opportunit
   and realize that the major challenge facing MSFT relative to the other hot
   up and coming SaaS players is that MSFT doesn't have a clear way to grow its
   user base.
+* [PG on Conformism](http://paulgraham.com/conformism.html)
+  * PG is almost always good (some essays have been more boring than others, but
+  not less insightful), but this one hits really hard because it touches the
+  major contemporary outcries around hate speech and moderation of social media
+  and trigger warnings and social justice warriors and free speech and critical
+  race theory. PG frames these issues as signs that the aggressively conformist
+  are taking over, as they did when burning of heretics or witching hunting was
+  a common practice. He has some concern for the loss of the university as a
+  safe space for the aggressively nonconformist (that being said, where the heck
+  has Peter Thiel gone?), but he also knows that the aggressively nonconformist
+  will protect themselves and perhaps find a new gathering place from which to
+  shake up how we see the world (i.e. expose new edges in the global knowledge
+  graph).
 
 __China Studies__:
 * I'm currently slowly working my way through the [Ladanyi China News Analysis
@@ -376,3 +401,37 @@ figure out how to engage my mind are the days I feel like I wasted. I don't
 think I've ever been good at managing my response to boredom, but the Internet
 has definitely filed away at my patience and ability to just sit still and be
 grateful to be alive and to have a functioning cognition.
+* [And another mtn
+flight](https://twitter.com/xdrtxrdt/status/1287240533560061954). This time at
+Sheephead Mtn in California, near the border. This place requires much more
+active flying than Hat Creek to stay up.
+* Watched [this cute Ghibli-esque
+movie](https://en.wikipedia.org/wiki/Mirai_(film)) on July 26. I agree with the
+criticism that the gender and age roles are played way up. It is regardless an
+enjoyable escape from the stress of the current times.
+
+__Pieces of My Brain I Needed to Unload__:
+* Unless you are trying to gain mass, you shouldn't be drinking milk.
+* [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4431128/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4431128/)
+* It is possible to become addicted to school.
+* GMO = OMG
+  * WE = EW
+  * PEELS = SLEEP
+* How often is it that someone understands something but lacks the vocabulary to
+make themselves understood to others?
+  * The most obvious time this manifests is when someone is less proficient in
+  one language than another.
+  * Other times, someone's vocabulary is simply lacking and the other people
+  either are uninterested in helping the person struggling with words find the
+  right one for their idea or the other people also lack the vocabulary or the
+  word doesn't exist.
+  * How often do we assume someone is more stupid than they are because of
+  language difficulties?
+* Things you can't do in a video meeting that you can do in person.
+  * Have multiple conversation threads going on at the same time, with the
+  ability to everybody to unintrusively monitor every conversation at will.
+  * Whiteboard seamlessly. Drawing with the mouse doesn't really work and
+  screensharing from an iPad or other enabled drawing device is only available
+  with relatively low resolution and high latency.
+  * Know where meetings are happening by just walking around a building. Zooms
+  are invite only. You either know how to get in or you're completely out.

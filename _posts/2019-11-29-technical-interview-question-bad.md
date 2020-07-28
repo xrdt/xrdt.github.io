@@ -5,7 +5,19 @@ title: "The Dreaded Technical Interview Question"
 *Author: Bianca Yang*<br>
 *Email: <a href="mailto:ipacifics@gmail.com?subject=Hello from the XDRT Blog">ipacifics@gmail.com</a>*<br>
 
-Update 12/7/19): For phone interviews, I now use
+Update (7/22/2020): I now think that companies should design take home problems
+that take around 4 hours to complete and that comprehensively covers what they
+expect candidates to do in their day to day work. An evaluation rubric must also
+be created for this assessment to reduce individual evaluator bias. Because this
+test is comprehensive, any candidates who successfully meet the marks on the
+rubric should be invited to meet with key team members on site (or whatever your
+version of a final interview round is) for a series of discussions. The
+candidate has already demonstrated sufficient technical capability, so these
+discussions should be more casual and be focused on evaluating culture fit,
+alignment with company vision, expected tenure, and potential growth vectors or
+breadth of knowledge.
+
+Update (12/7/19): For phone interviews, I now use
 [Steve Yegge's Five Essential Phone Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions). I haven't decided
 what is best to ask for on sites...
 
@@ -111,9 +123,3 @@ I think that's pretty much the gamut of what matters when hiring software
 engineers: technical ability and communication ability. Different things as
 you go up the ladder, but I don't have good thoughts on how you judge the
 capacity of a senior engineer or higher so we'll have to come back to that.
-
-Email me to let me know if I'm wrong or missing anything. The thought of
-candidates suffering through bad interview experiences keeps me up at night. I
-want to make the experience a clear win-win for both the company and the
-candidate and would love to know how you or your company has cracked some of
-the hiring code.

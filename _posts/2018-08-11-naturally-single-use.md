@@ -5,6 +5,13 @@ title: "Naturally Single Use"
 *Author: Bianca Yang*<br>
 *Email: <a href="mailto:ipacifics@gmail.com?subject=Hello from the XDRT Blog">ipacifics@gmail.com</a>*<br>
 
+Update (07/22/2020). I may be missing something huge here but I think pretty
+much all of the modern built world is single use. Either it's not feasible to
+recycle or it's not economical to do so. Can one recycle skyscrapers? We can
+recycle computers, but is it economical? Can I remelt the circuitry on my 2010
+CPU to feed into the circuitry for a 2020 one? Can I recycle my house? Can I
+effectively recycle my car?
+
 Update (8/15/2018). [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox?utm_source=hackernewsletter&utm_medium=email&utm_term=learn):
 Increasing efficiency doesn't necessarily reduce consumption.
 
