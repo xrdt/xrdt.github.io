@@ -5,29 +5,6 @@ title: "My Approved Gift List"
 *Author: Bianca Yang*<br>
 *Email: <a href="mailto:ipacifics@gmail.com?subject=Hello from the XDRT Blog">ipacifics@gmail.com</a>*<br>
 
-Things that I would be happy to receive:
-* ~~[Gymnastics Rings 1](https://www.amazon.com/Rep-Gymnastic-Rings-Numbered-Straps/dp/B00QR1J5NY/)~~
-* ~~[Gymnastics Rings 2](https://www.amazon.com/Gymnastic-Fitness-Exercise-Wooden-Gymnast/dp/B01FTOCY0A/)~~
-* [2x2 Speed Cube](https://www.amazon.com/D-FantiX-Cyclone-Speed-Stickerless-Puzzles/dp/B00Q04QJSC/ref=cm_cr_arp_d_product_top)
-* [Airpods Pro](https://www.apple.com/airpods-pro/)
-* [Textblade. Literally the coolest keyboard you have seen. According to HNews, works amazing](https://waytools.com/store/showroom/info/textblade/tablet)
-* [Custom molded ear plugs](https://www.amazon.com/Decibullz-Earplugs-Comfortable-Protection-Shooting/dp/B01N129AQ8/)
-* ~~[3L Water Reservoir](https://www.amazon.com/Source-Hydration-Reservoir-Leakproof-Antimicrobial/dp/B008S9AX0W/ref=sr_1_1)~~
-* [Leatherman Wave or equivalent multi-tool](https://www.amazon.com/LEATHERMAN-Wave-Multitool-Stainless-Steel/dp/B079MJBP21/)
-* [A Good Windbreaker (medium)](https://www.marmot.com/womens-trail-wind-hoody-58840.html)
-* [Good winter pants (size 10)](https://www.duluthtrading.com/womens-no-exposure-bonded-flex-fire-hose-pant-84805.html)
-* [Nice Kettlebells (16kg up)](https://aderfitness.com/product-category/kettlebells/)
-* [Crock Pot](https://www.amazon.com/Crock-Pot-SCV401-TR-4-Quart-Manual-Cooker/dp/B000AB32PE/)
-* [Skateboard](https://www.skatewarehouse.com/buildcomplete.html#deck=GIBMNVDK&trucks=TUSOTRBKBKJ&wheels=RICLOWH540&bearings=BSREDBR&hardware=BSHW1&griptape=JSGT)
-* [A Gorgeous Knife](https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/)
-* [Uniqlo HeatTech (Medium pants XS shirt)](https://www.uniqlo.com/us/en/women/heattech-collection)
-* [Merino wool socks (I'm size 8)](https://www.amazon.com/DANISH-ENDURANCE-Merino-Light-9-5-12-5/dp/B07D8VRCTW/)
-* [Book stand](https://www.amazon.com/Adjustable-Portable-Hardcover-Textbooks-Bookrest/dp/B07HC9D6Y8/)
-* ~~[Laptop Stand](https://www.amazon.com/dp/B00J0823FI/ref=cm_sw_r_cp_api_4B2EAb77R7NKJ)~~
-* Battle Ropes and Anchor
-* Barbell
-* A motorcycle
-* Books with Lindy effect
 
 Things that I'd be happy to gift others:
 * My go to Gift Set
@@ -57,10 +34,34 @@ Things that I'd be happy to gift others:
   * [3L Water Pack](https://www.amazon.com/Hydration-Bladder-Hunting-Climbing-Running/dp/B01CS8H2ZM/ref=sr_1_4)
   * [Waterproof Socks](https://www.amazon.com/RANDY-SUN-Waterproof-Half-Cushion-Multisport/dp/B07BXMDPW5/)
   * [Darn Tough Hiking Socks](https://www.amazon.com/Darn-Tough-Merino-Micro-Cushion/dp/B000XFW6OU/ref=sr_1_7)
+  * [Heavy duty merino wool socks](https://www.amazon.com/SmartWool-Extra-Heavy-Charcoal-X-Large/dp/B01MRRGI60/ref=sr_1_3)
+  * [Sawyer Mini](https://www.amazon.com/Sawyer-Products-SP128-Filtration-System/dp/B00FA2RLX2/ref=lp_3447645011_1_3)
+  * [Leatherman Wave or equivalent multi-tool](https://www.amazon.com/LEATHERMAN-Wave-Multitool-Stainless-Steel/dp/B079MJBP21/)
+  * [A Good Windbreaker](https://www.marmot.com/womens-trail-wind-hoody-58840.html)
+  * [Good winter pants](https://www.duluthtrading.com/womens-no-exposure-bonded-flex-fire-hose-pant-84805.html)
+  * [Uniqlo HeatTech](https://www.uniqlo.com/us/en/women/heattech-collection)
 * Book Lover
   * [Book stand](https://www.amazon.com/Adjustable-Portable-Hardcover-Textbooks-Bookrest/dp/B07HC9D6Y8/)
+  * Books with Lindy effect
 * Generic
   * [Premium Finger Nail Clippers](https://www.amazon.com/Seki-Stainless-Fingernail-Clipper-SS-106/dp/B000F35R00/) OR
   [Toe Nail Clipper](https://kaiscissors.com/kai-type-003l-nail-clippers/)
   * [Coleman Beverage Cooler](https://www.amazon.com/Coleman-3000000739-Beverage-Cooler/dp/B00363V3LI/ref=sr_1_1)
   * [Opinel Paring Knife](https://www.amazon.com/Opinel-Paring-Kitchen-Knife-Blade/dp/B00QMAX0XQ/ref=sr_1_1)
+* Optimal Health
+  * [Ancestral Supplements Beef Organs Capsules](https://www.amazon.com/Ancestral-Supplements-Grass-Organs-Desiccated/dp/B06XP7Z1KN/ref=sr_1_5)
+  * [Electrolyte Pills](https://www.amazon.com/Electrolyte-Supplement-Replacement-Rehydration-Magnesium/dp/B07JLRS82B/ref=sr_1_10)
+  * Barbell
+  * [Belcampo Bone Broth x2](https://shop1.belcampo.com/product/original-bone-broth/)
+  * [Nice Kettlebells (16kg up)](https://aderfitness.com/product-category/kettlebells/)
+  * [Gymnastics Rings 1](https://www.amazon.com/Rep-Gymnastic-Rings-Numbered-Straps/dp/B00QR1J5NY/)
+  * [Gymnastics Rings 2](https://www.amazon.com/Gymnastic-Fitness-Exercise-Wooden-Gymnast/dp/B01FTOCY0A/)
+* Meat Lover
+  * [White Oak Pastures Sausage](https://www.whiteoakpastures.com/artisan/sausages/)
+  * [Belcampo Meats](https://shop1.belcampo.com)
+  * [Stryve Hickory Seasoned Biltong](https://www.walmart.com/ip/Stryve-Biltong-Hickory-Seasoned-8oz/257082789)
+  * [Pemmican Bar](https://frankiesfreerangemeat.com/products/pemmican)
+* Fun
+  * [Skateboard](https://www.skatewarehouse.com/buildcomplete.html#deck=GIBMNVDK&trucks=TUSOTRBKBKJ&wheels=RICLOWH540&bearings=BSREDBR&hardware=BSHW1&griptape=JSGT)
+* Productivity
+  * [Laptop Stand](https://www.amazon.com/dp/B00J0823FI/ref=cm_sw_r_cp_api_4B2EAb77R7NKJ)

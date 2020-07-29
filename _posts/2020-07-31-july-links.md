@@ -32,9 +32,97 @@ __Books__:
   * I could not be more happy to have finished this book and to have known that
   there was such a man who once existed and who was interested enough in sharing
   his experiences with the rest of us blind but eager fools.
-* __[Never Too Late](https://www.amazon.com/Never-Too-Late-Musical-Story/dp/0201567636)__
-  * Another good book by John Holt. This time, he's talking about his journey in
-  learning to play the cello as an adult.
+* [Deschooling Society](https://davidtinapple.com/illich/1970_deschooling.html)
+  * Inverts our assumptions about education. By Ivan Ilich, a big name within
+  deschooling / unschooling.
+  * The main thread is that society has conditioned people to be dependent on
+  institutions like school. The more manipulative institutions, which are
+  partly characterized by the unwillingness of the participants in their
+  activities (military, jails, mental asylums), have taken over society. People
+  who are dependent on institutions lose their sense of responsibility for their
+  own growth and respect for the nonprofessionals. They can only be satisfied
+  within the box of people who have been similarly indoctrinated and of things
+  that those people have created. School has also engendered a system where
+  production and making, as distinct from doing and action, have become our new
+  purposes in life. You can see the frustration this paradigm engenders by
+  looking at men who are bored or lost because they have nothing to produce and
+  thus do not know what to do. Values and desired are produced and defined by
+  the institutions that have taken over the world and are satisfied by products
+  produced by subsidiaries of those institutions.
+  > Institutional value can be defined as the level of output of an institution.
+  The corresponding value of man is measured by his ability to consume and
+  degrade these institutional outputs, and thus create a new-even higher-demand.
+  * School is a false public utility because people have no option but to
+  consume it and it inherently stratifies society (those who cannot conform to
+  the rigid rubric that schools demand for advancement are forever locked out of
+  a decent living). School is not natural. It must cultivate ever increasing
+  demand for itself in order to survive. It is a closed ecosystem that only
+  those privileged enough with wealth or the mark of a successful society man
+  (one whom society has deemed likely to serve its purposes) can have access to.
+  Learning is not free in access and what can be learned is limited to what we
+  have certified people to teach.
+  * Ivan also notes that even the most radical education reform activists cannot
+  break free of the assumption that young people must be processed, often
+  forcefully, into the proper molds so they can serve society. The alternative
+  he proposes, which some people are beginning to work towards, is to set up a
+  network where anybody can express their interest in a concrete topic, like a
+  book or an article, and be matched with someone else with the same interest.
+  Let people teach each other!! An enhancement to this network is to establish
+  public access skill centers where anybody can be hired with money or skill
+  vouchers (preferentially distributed to the poor) for private or semi-private
+  tutoring. These skill centers can be combined with libraries or other central
+  resource / tool centers (like makerspaces). The objective is to allow for
+  self-exploration and for each person to hold himself responsible for his own
+  development. Of course, society must acknowledge the futility of trying to
+  pursue the future and spread technology to the world. We will exhaust the
+  planet before we can elevate the "standard of life" and thus demands for ever
+  increasing standards for the entire world's population.
+  > All of today's futuristic planners seek to make economically feasible what
+  is technically possible while refusing to face the inevitable social
+  consequence: the increased craving of all men for goods and services that will
+  remain the privilege of a few.
+  * The institutions Ivan gives the nice label are telephone networks and the
+  postal service and subway lines and public markets. These institutions, he
+  says, do not require coercion (ahem advertising) to get men to use them and
+  are obviously to one's advantage to use.
+  > [School fed instruction] never yields the joy of knowing something to one's
+  satisfaction.
+  * Ivan also makes the point that childhood is a modern, bourgeoisie invention.
+  Note that only children are forced into the jails euphemistically known as
+  schools. One accumulates more social virtue as he spends more time and money
+  on schooling. Only by attacking the
+  [young](https://w3-lab.com/marketing-for-businesses/nestle-found-japan/) can
+  one change the whole of society.
+  * We have linked instruction to learning but there is no way to measure the
+  beauty and limitlessness of personal growth. Most learning happens in an
+  impromptu and practical way. We have engineered the ability to take apart
+  machines and learn from them. Ivan makes the point that radios and cars and
+  darn near everything else manufactured are becoming so complicated that only
+  those with special certification or expensive equipment can figure out how to
+  take them apart and then study their function. I think Ivan is underestimating
+  the ability of those who are [fiercely
+  nonconformist](http://paulgraham.com/conformism.html) to find ways to
+  satisfy their curiosities. Just look at prototyping in Shenzhen and Adafruit
+  and Raspberry Pi and [this guy who makes his own silicon
+  chips](http://sam.zeloof.xyz). The proportion of independent thinkers is
+  likely constant throughout time. They will survive any societal setbacks,
+  so it seems easy and ok to just leave things to them to run and ignore the
+  rest of the miserable
+  ([underserved](https://medium.com/swlh/emergent-layers-chapter-2-overserved-and-underserved-customers-6d5ce546531d))
+  populace, but it seems wrong to be so utilitarian and ignore the "less
+  productive".
+  * Nobody takes the idea of tribal knowledge literally. Well, at least most
+  people who talk about tribal knowledge are (as usual) the techies who (as
+  usual [don't understand that things are certain way for
+  reasons](https://scholars-stage.blogspot.com/2018/08/tradition-is-smarter-than-you-are.html))
+  think that tribal knowledge just that implicit matter that floats around in
+  the in air that circulates through their office. But what I'm now thinking
+  about when it comes to tribal knowledge is literal
+  [tribal](https://ancestralsupplements.com/about-us.html) like Native American
+  or Zulu respect the earth and the gods and be subject to the illusions of
+  [mimesis](https://en.wikipedia.org/wiki/René_Girard) tribal knowledge.
+  Tradition is smarter than I am. I could certainly use a lot more of tradition
+  to ground myself right now.
 
 __Podcasts (Most of these are so good I might relisten to them)__:
 * [Ezra Klein and Rutger Bregman](https://podcasts.apple.com/us/podcast/are-humans-fundamentally-good-with-rutger-bregman/id1081584611?i=1000476380401)
