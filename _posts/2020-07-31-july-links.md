@@ -5,7 +5,7 @@ title: "What Happened in July?"
 *Author: Bianca Yang*<br>
 *Email: <a href="mailto:ipacifics@gmail.com?subject=Hello from the XDRT Blog">ipacifics@gmail.com</a>*<br>
 
-__Books__:
+__Books__ (I only read two books??!):
 * __[How Children Learn](https://www.amazon.com/dp/0201484048)__
   * I'm continuing on my quest to absorb as much of the material that was
   produced during the American education revolution of the 1960s / 1970s. I came
@@ -123,6 +123,14 @@ __Books__:
   [mimesis](https://en.wikipedia.org/wiki/René_Girard) tribal knowledge.
   Tradition is smarter than I am. I could certainly use a lot more of tradition
   to ground myself right now.
+  * We need to move our society away from expectation and towards hope.
+  > Hope, in its strong sense, means trusting faith in the goodness of nature,
+  while expectation, as I will use it here, means reliance on results which are
+  planned and controlled by man. Hope centers desire on a person from whom we
+  await a gift. Expectation looks forward to satisfaction from a predictable
+  process which will produce what we have the right to claim.
+* [Intuition and Logic in
+Mathematics](https://mathshistory.st-andrews.ac.uk/Extras/Poincare_Intuition/)
 
 __Podcasts (Most of these are so good I might relisten to them)__:
 * [Ezra Klein and Rutger Bregman](https://podcasts.apple.com/us/podcast/are-humans-fundamentally-good-with-rutger-bregman/id1081584611?i=1000476380401)
@@ -217,6 +225,18 @@ __Podcasts (Most of these are so good I might relisten to them)__:
   introduce them to.
 
 __Internet Interests__:
+* [Insulin Index of Various Foods](https://fermatslibrary.com/s/an-insulin-index-of-foods-the-insulin-demand-generated-by-1000-kj-portions-of-common-foods)
+  * Fascinating look at how one's insulin hormone might react to intake of
+  various foods.
+* [The man who wrote Apache Kafka and would eventually found Confluent on
+logs](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+  * Get yourself educated on why the abstraction of decoupling producers and
+  consumers of data can literally be the abstraction that transforms your
+  data architecture.
+* [The first sign of civilization: healed broken femur](https://www.facebook.com/AmitabhBachchan/posts/fb-2673-years-ago-anthropologist-margaret-mead-was-asked-by-a-student-what-she-c/3213367208697046/)
+* [Cash Buffer Across Industries](https://pasteboard.co/Jk9k6zH.png)
+* [Five Levels of Remote Work and Achieving Remote
+Nirvana](https://medium.com/swlh/the-five-levels-of-remote-work-and-why-youre-probably-at-level-2-ccaf05a25b9c)
 * [Very cool newspaper rendering of the front page of
 reddit](https://github.com/thesephist/unim.press)
 * [Work Yourself Out of Your
@@ -280,6 +300,17 @@ becoming an Expert Beginner (is this just imposter syndrome?).
   decreases once one gets past the beginner tutorials. Pretty soon you're onto
   learning from research papers.
 * [New productivity app!!](http://amie.so)
+* [A Guide to the Surreal
+Internet](https://aaronzlewis.com/blog/2019/05/29/you-can-handle-the-post-truth/),
+from Deepfake celebrities to digital identity theft (from Russia, of course) to
+online radicalization and digital terrorism to engineering the perfect internet
+death.
+* [DNA Malware](https://twitter.com/geoffmanaugh/status/895728956724322304)
+* [A Response Against HyperIndividualism and the Resulting Nuclear
+Family and Towards Communal Living and Forged
+Families](https://www.theatlantic.com/magazine/archive/2020/03/the-nuclear-family-was-a-mistake/605536/)
+* [Some data to suggest further research into endogeneity of political systems:
+East Germany vs West](https://twitter.com/essobecker/status/1238013473948200962)
 * [Stratechery on the Utterly Lacking Uber
 S-1](https://stratechery.com/2019/uber-questions/)
   * Ben debates the Personal Mobility value proposition of Uber, their
@@ -306,7 +337,7 @@ Internet](https://stratechery.com/2019/disney-and-the-future-of-tv/)
     streaming rights for less popular sports, but the above listings make sports
     and ESPN highly suited for a wide distribution business model.
     * Disney+ is all about driving the [Disney movies + merchandising + theme
-    park attractions
+   park attractions
     flywheel](https://kottke.org/15/06/walt-disneys-corporate-strategy-chart).
     It's cheap because Disney wants to attract and retain as much traffic as
     possible. Lifetime value of a Disney customer is much higher than the gains
@@ -314,8 +345,7 @@ Internet](https://stratechery.com/2019/disney-and-the-future-of-tv/)
     projected to 2024) sooner.
     * Hulu is a Netflix hedge.
     * Closing thought from Ben: focus on the job(s) to be done.
-* [Stratechery on How to Regulate the
-Internet](https://stratechery.com/2019/a-regulatory-framework-for-the-internet/)
+* [Stratechery on How to Regulate the Internet](https://stratechery.com/2019/a-regulatory-framework-for-the-internet/)
   * Main points:
     * Existing legislation has either entrenched the large players (FB / GOOG)
     or practically demanded that platforms filter content or spy on traffic.
@@ -352,9 +382,7 @@ Internet](https://stratechery.com/2019/a-regulatory-framework-for-the-internet/)
     cow as successful as Windows to build its next few decades of growth upon
     remains to be seen. Azure is still second to AWS; Office365 isn't
     particularly strong as a general productivity suite.
-* [Stratechery on MSFT vs Zoom vs
-Slack in the SaaS
-Space](https://stratechery.com/2019/microsoft-slack-zoom-and-the-saas-opportunity/)
+* [Stratechery on MSFT vs Zoom vs Slack in the SaaS Space](https://stratechery.com/2019/microsoft-slack-zoom-and-the-saas-opportunity/)
   * The main point is to study [this chart](https://stratechery.com/wp-content/uploads/2019/04/Stratechery-2019-05-01-19.31.23.png)
   and realize that the major challenge facing MSFT relative to the other hot
   up and coming SaaS players is that MSFT doesn't have a clear way to grow its
@@ -372,6 +400,52 @@ Space](https://stratechery.com/2019/microsoft-slack-zoom-and-the-saas-opportunit
   will protect themselves and perhaps find a new gathering place from which to
   shake up how we see the world (i.e. expose new edges in the global knowledge
   graph).
+* [Matt Stoller on Feb 2020 Coronavirus Updates](https://mattstoller.substack.com/p/the-coronavirus-crash-a-merger-boom)
+  * Main point: Big Chinese supply chain disruption. The US stopped
+  manufacturing because of environmental and health reasons. China took up the
+  slack and US manufacturers are taking advantage of low [Chinese prices to try
+  to price
+  gouge](https://mattstoller.substack.com/p/national-champs-or-national-chumps/comments#comment-89595).
+  Unless local manufacturing somehow becomes green or economically feasible, we i
+  will continue to export it to countries that are more lax on those metrics and
+  willing to charge dirt cheap prices. Now that China has made obvious the
+  fragility of the Just In Time and single supplier (ahem monopoly) nature of
+  much of global trade, US manufacturers are starting to seriously consider
+  Viet Nam and its fellow SE Asian neighbors as alternative manufacturing bases.
+  * Matt also talks about other abuses of corporate power in the newsletter.
+  Click on the link to read about Intuit, Kronos, Charles Schwab, and Nvidia.
+* [More Matt Stoller on Fighting Against Economic Threats from
+China](https://mattstoller.substack.com/p/national-champs-or-national-chumps)
+  * Main points: We cannot succumb to the authoritarian pressures from China and
+  also pursue a fascist solution. Rather, we should go back to the 1930 - 1970s
+  and pursue heavy antitrust and heavy government R&D investment. The Economies
+  of scale we are all so fond of pointing to as an advantage of bigness should
+  be economies of production, not economics of political or legal scale. Orgs
+  with political or legal scale have more incentives to kill innovation that
+  results in self cannibalism than to support innovation that leads to radical
+  progress. Matt
+  gives a bunch of examples of companies during that time that outperformed the
+  large incumbents. Our military is only one industry that faces major risks
+  from having a single supplier in China that is inevitably going to be
+  controlled by an antagonistic state. Pharmaceuticals is another. Most
+  electronics are also at risk. It's best to embrace the cultural tendencies
+  the US has towards democratic liberalism and fight for the republic, rather
+  than succumbing to the belief that central control of BIG is better.
+* [Venkatesh Rao on Blue Collar
+Innovation](https://twitter.com/vgr/status/1091792354007109632)
+  * Get your hands dirty!
+* [Danco on What Antifragility Actually
+Means](https://danco.substack.com/p/antifragility)
+  * Actively mishandle to make stronger or to resolve uncertainty.
+* [You Can't Have Messed Up on Zoom Worse than
+This](https://cdn.substack.com/image/fetch/c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5905b79-890a-4fee-994e-dd41d6bbde60_1084x708.png)
+* [when a person is confronted with data that conflicts with their prior,
+updating their prior isn’t the only option on the table. They might also
+downgrade how trustworthy they find the source of the
+data.](https://medium.com/@darren_dahly/how-bad-statistical-practices-drive-away-the-good-ones-90c55dfef331)
+* [Implementing a basic arithmetic
+calculator that can parse string input with correct order of
+operations](http://www2.lawrence.edu/fast/GREGGJ/CMSC150/071Calculator/Calculator.html)
 
 __China Studies__:
 * I'm currently slowly working my way through the [Ladanyi China News Analysis
@@ -497,6 +571,7 @@ active flying than Hat Creek to stay up.
 movie](https://en.wikipedia.org/wiki/Mirai_(film)) on July 26. I agree with the
 criticism that the gender and age roles are played way up. It is regardless an
 enjoyable escape from the stress of the current times.
+* My phone is [unresponsive](https://twitter.com/xdrtxrdt/status/1289073500712366081).
 
 __Pieces of My Brain I Needed to Unload__:
 * Unless you are trying to gain mass, you shouldn't be drinking milk.
