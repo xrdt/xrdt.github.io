@@ -208,9 +208,9 @@ __Podcasts (Most of these are so good I might relisten to them)__:
   anything they discussed. This is a real hard hitting episode. Please check it
   out. Meanwhile, I'm going to buy Paul's book.
 * [Covid, Free Speech, and Lies](https://exponent.fm/episode-184-good-is-better-than-perfect/)
-  * Notes to come
+  * [Notes here](../11/exponent-184-covid-misinformation.html)
 * [Eric Weinstein and His Son](https://podcasts.apple.com/us/podcast/34-zev-weinstein-on-parenting-boys-generation-z/id1469999563?i=1000474506222)
-  * Notes to come
+  * [Notes here](../11/eric-zev-weinstein.html)
 * [台灣小男生跑北韓？！](https://podcasts.apple.com/tw/podcast/ep-35-北韓全民大臨演-平壤最大實境-rpg-逃出羊角島-ft-融融歷險記/id1476564589?i=1000484942856)
   * 最近在試新的中文播客，覺得這節目講旅行蠻有意思。只是聽好玩喔，所以沒有神留下
   筆記...歹勢。
