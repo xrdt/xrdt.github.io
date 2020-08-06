@@ -63,5 +63,8 @@ Things that I'd be happy to gift others:
   * [Pemmican Bar](https://frankiesfreerangemeat.com/products/pemmican)
 * Fun
   * [Skateboard](https://www.skatewarehouse.com/buildcomplete.html#deck=GIBMNVDK&trucks=TUSOTRBKBKJ&wheels=RICLOWH540&bearings=BSREDBR&hardware=BSHW1&griptape=JSGT)
+  * [Chuao Chocolate](https://chuaochocolatier.com)
+    * I like [Salted Chocolate Crunch](https://chuaochocolatier.com/products/salted-chocolate-crunch)
+  * [Amara Drinking Chocolate](https://www.amazon.com/Venezuelan-Flavors-Chocolate-Criollo-Certified/dp/B00F7NIQQ0/ref=as_li_ss_tl)
 * Productivity
   * [Laptop Stand](https://www.amazon.com/dp/B00J0823FI/ref=cm_sw_r_cp_api_4B2EAb77R7NKJ)

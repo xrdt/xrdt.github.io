@@ -17,7 +17,10 @@ title: "Dare I Say Modern Problems"
 | ---- | ----- |
 | Myopic obsession with software and bits as opposed to hardware and manufacturing | [IDFK](https://danwang.co/definite-optimism-as-human-capital/) |
 | --- | --- |
-| Acceleration of society and our inability to keep up with | [Marshall McLuhan](https://en.wikipedia.org/wiki/Marshall_McLuhan), [good books](../../../books_readings.html) that are more than 50 years old, ancient wisdom |
+| Acceleration of society and our inability to keep up with it | [Marshall McLuhan](https://en.wikipedia.org/wiki/Marshall_McLuhan), [good books](../../../books_readings.html) that are more than 50 years old, ancient wisdom |
 | --- | --- |
+| Nonrenewability of our manufactured world and the increasing abundance of technology that could wipe us off the earth |  [Edge interview](https://www.edge.org/conversation/toby_ord-we-have-the-power-to-destroy-ourselves-without-the-wisdom-to-ensure-that-we) |
+| --- | --- |
+
 
 Note: We are running on a [hedonic treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill).

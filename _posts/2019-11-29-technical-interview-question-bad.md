@@ -5,6 +5,23 @@ title: "The Dreaded Technical Interview Question"
 *Author: Bianca Yang*<br>
 *Email: <a href="mailto:ipacifics@gmail.com?subject=Hello from the XDRT Blog">ipacifics@gmail.com</a>*<br>
 
+Update (8/5/2020): Building up on the 7/22/2020 update, this take home problem
+should be publicly available and clearly accessible from the company's careers
+page. [Iris
+Automation](https://drive.google.com/drive/folders/0B50bwdqRospTRU1PejNyMldLNnc)
+is the only company I know that's done this. They're a drone company that's
+working on BVLOS (beyond visual line of sight of the human pilot) drone
+technology. The task they designed was to develop a computer vision algorithm
+that could provide as much human relevant contextual awareness as possible about
+a static image. Anybody could take the challenge; anybody could submit their
+solution to the email provided in the README. It should not take very long for
+a company's engineers to draft up such a task and an associated rubric. It is an
+effective filtering function for a candidate's raw technical ability and
+provides great fodder for deeper technical discussions with the company's
+employees. It also avoids the insidious problem of relying on completion of
+common pathways to a certain end of experience (ahem 4 year or higher CS degree
+at a reputable university) to evaluate a candidate's worthiness.
+
 Update (7/22/2020): I now think that companies should design take home problems
 that take around 4 hours to complete and that comprehensively covers what they
 expect candidates to do in their day to day work. An evaluation rubric must also
