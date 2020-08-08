@@ -214,6 +214,8 @@ __Podcasts (Most of these are so good I might relisten to them)__:
 * [台灣小男生跑北韓？！](https://podcasts.apple.com/tw/podcast/ep-35-北韓全民大臨演-平壤最大實境-rpg-逃出羊角島-ft-融融歷險記/id1476564589?i=1000484942856)
   * 最近在試新的中文播客，覺得這節目講旅行蠻有意思。只是聽好玩喔，所以沒有神留下
   筆記...歹勢。
+* [吧檯另一端的故事](https://podcasts.apple.com/us/podcast/ep1-吧台另一端的故事-臭臉/id1459801121?i=1000434892110)
+  * 聽好玩而已啦，但還真的是從這節目開始了解了一下調酒的基本技術跟參數。
 * [Practical Angel Investing Tips](https://player.fm/series/my-first-million/ep-82-the-guide-on-angel-investing)
   * Build a portfolio of 20 - 30 companies. 20 is the absolute minimum size of
   the portfolio to protect you against downside risk. Expect to give each
