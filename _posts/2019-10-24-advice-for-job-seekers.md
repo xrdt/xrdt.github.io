@@ -25,6 +25,7 @@ Table of Contents:
 * [Consider the Gap Between When You Accept the Offer and When You Begin
 Work](#gapd)<a name="gapu"></a>&shy;
 * [Great Twitter advice](https://twitter.com/SMTuffy/status/1280893276518744064)
+* [The Nature of the Job](#natured)<a name="natureu"></a>&shy;
 
 <br>
 <u>The List</u>:
@@ -286,3 +287,4 @@ Work](#gapu)<a name="gapd"></a>
     profiles skewed towards low-probability, high-reward outcomes. The
     probability of at least one of you guys (Paypal Mafia) making it big in a
     way where the spoils can be shared among the group is thus higher.
+* [[The Nature of the Job](https://news.ycombinator.com/item?id=21187558)](#natureu)<a name="natured"</a>

@@ -13,6 +13,10 @@ stabbing each other in the back, being upset at each other, so on and so forth.
 People skills are so important because, in the end, everything is about people.
   * People can make or break an experience.
   * How to figure out who to have loyalty to.
+  * If people start moving the goalposts on you or applying double standards or
+  overall just not being straight with you, you should go right ahead and cut
+  them out of your life. Ain't nobody got time to deal with that two faced
+  backstabbing unreliable nonsense.
 3. [What to do with your life](http://www.windsweptsoftware.net/rickoverthoughts.pdf)
 and how to figure it out.
 4. How to keep yourself spiritually, physically, and mentally sharp (nutrition,
@@ -73,4 +77,3 @@ get more efficient the bigger they get, you know you're looking at an
 opportunity to leverage your inputs into something much larger than you can
 intuitively understand (humans have a hard time understanding exponential
 growth).
-

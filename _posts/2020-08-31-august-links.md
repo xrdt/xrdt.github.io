@@ -41,3 +41,27 @@ Paper](https://gofile.io/d/hGmt9C)
     to have the right recall and precision, but it seems like a nice way to
     escape the black holes that explicitly algorithmic suggestion feeds
     inevitably turn into.
+* [Things and Architect Should Know](https://www.readingdesign.org/250-things/)
+* [How Coronavirus Rewrites our Cultural Map](http://subpixel.space/entries/premonition/)
+* [We No Longer Believe in Authenticity](https://subpixel.space/entries/after-authenticity/)
+  * We're no longer interested in resisting brands. We're interesting in
+  crafting them and imposing structure for their existence in society as real,
+  independent entities.
+* [Spatial Interfaces and Taking the Physical World Digital](https://darkblueheaven.com/spatialinterfaces/)
+* [In Case you Wanted a Nice Table to Share in Your Substack Newsletter About
+How the World has Changed](https://marginalrevolution.com/marginalrevolution/2020/04/world-2-0-there-are-decades-where-nothing-happens-and-weeks-where-decades-happen.html)
+* [Resolute Optimism](https://resoluteoptimism.bailliegifford.com/) -- A
+Different Take on How to do Investing Properly
+* [Very Impressive Nike Commercial](https://www.youtube.com/watch?v=WA4dDs0T7sM&feature=youtu.be)
+* [Brilliant Awk Script for Calculating Shared Expenses](https://c2.com/doc/expense/)
+* [The Biggest Ed Psyc Resources Compilation I've Seen So Far](http://www.edpsycinteractive.org/materials/videos.html)
+* [Elon Pushing the Status Quo as Usual](https://threadreaderapp.com/thread/1292818184588886016.html)
+* [Umami, Premium Econmy, Excess Meaning, Experience Economy](https://nemesis.global/memos/umami)
+* [T-Cell Immunity and the Plateau of COVID Spread](https://twitter.com/JamesTodaroMD/status/1292873236716433416)
+
+* [Fat vs Carb Oxidation and Storage in Active Individuals](https://sci-hub.tw/10.1139/h99-030)
+https://www.newyorker.com/magazine/2020/08/17/how-china-controlled-the-coronavirus
+https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/
+
+__Podcasts__:
+* [Chamath and Pomp](https://www.youtube.com/watch?v=_hA3TV1bGsg)
