@@ -26,6 +26,7 @@ Table of Contents:
 Work](#gapd)<a name="gapu"></a>&shy;
 * [Great Twitter advice](https://twitter.com/SMTuffy/status/1280893276518744064)
 * [The Nature of the Job](#natured)<a name="natureu"></a>&shy;
+* [Great Reddit Advice on Features of a Company to Look For](https://www.reddit.com/r/cscareerquestions/comments/7u3cza/has_anyone_worked_at_a_biotech_company/dtixabp/)
 
 <br>
 <u>The List</u>:
