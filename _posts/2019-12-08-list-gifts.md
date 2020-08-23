@@ -28,6 +28,9 @@ Things that I'd be happy to gift others:
   * [65L Weekender bag](https://www.amazon.com/Foldable-Weekender-Compartment-Water-proof-Resistant/dp/B07GVK5VQ1/)
   * [General Use Merino wool socks](https://www.amazon.com/SmartWool-Womens-Outdoor-Light-Medium/dp/B01GGOKGQ6/ref=sr_1_6)
   * [Packing cubes](https://www.amazon.com/eBags-Medium-Classic-Packing-Travel/dp/B0092XBKQY/ref=sr_1_6)
+* House warming
+  * [Dinnerware Set](https://www.amazon.com/AmazonBasics-18-Piece-Dinnerware-Set-Service/dp/B019EEUQ2O/ref=sr_1_3)
+  * [Flatware Set](https://www.amazon.com/LIANYU-20-Piece-Silverware-Stainless-Dishwasher/dp/B06XK6PXX8/ref=sr_1_4)
 * Outdoorsy
   * [Uniqlo HeatTech](https://www.uniqlo.com/us/en/women/heattech-collection)
   * [Headlamp](https://www.amazon.com/Foxelli-Headlamp-Flashlight-2-Pack-Lightweight/dp/B07VCTYYZX/)
@@ -48,6 +51,7 @@ Things that I'd be happy to gift others:
   [Toe Nail Clipper](https://kaiscissors.com/kai-type-003l-nail-clippers/)
   * [Coleman Beverage Cooler](https://www.amazon.com/Coleman-3000000739-Beverage-Cooler/dp/B00363V3LI/ref=sr_1_1)
   * [Opinel Paring Knife](https://www.amazon.com/Opinel-Paring-Kitchen-Knife-Blade/dp/B00QMAX0XQ/ref=sr_1_1)
+  * [Bath Stone](https://www.amazon.com/Diatomaceous-Earth-DZY-Nonslip-Absorbent/dp/B07R5F9PKY/ref=sr_1_2)
 * Optimal Health
   * [Ancestral Supplements Beef Organs Capsules](https://www.amazon.com/Ancestral-Supplements-Grass-Organs-Desiccated/dp/B06XP7Z1KN/ref=sr_1_5)
   * [Electrolyte Pills](https://www.amazon.com/Electrolyte-Supplement-Replacement-Rehydration-Magnesium/dp/B07JLRS82B/ref=sr_1_10)

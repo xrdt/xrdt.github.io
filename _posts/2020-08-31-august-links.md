@@ -5,13 +5,22 @@ title: "The Rising of August"
 *Author: Bianca Yang*<br>
 *Email: <a href="mailto:ipacifics@gmail.com?subject=Hello from the XDRT Blog">ipacifics@gmail.com</a>*<br>
 
+> Ask for what you want. It's their job to turn you down, not yours.
 
 __Raw Internet Links__:
+* [Optimize Paul Saladino's Carnivore Diet](https://optimisingnutrition.com/optimising-paul-saladino-mds-nose-to-tail-carnivore-diet/)
+  * [Paul Saladino](https://carnivoremd.com) is a voice of reason in the modern
+  Twitter and podcast hosted debates on optimal nutrition. He's a big advocate
+  for nose to tail carnivore and has successfully stuck to a no plant diet for
+  about two years now. This post does an excellent job of breaking down Paul's
+  micronutrient intake, explaining the relationship between calorie intake
+  and intake of certain nutrients, and giving clear suggestions for how to
+  improve intake of certain vitamins and minerals that Paul seems to be missing.
+  Nutrition is the most interesting and fundamental field related to
+  biochemistry and I'm so sad that schools don't include first principles,
+  research paper based nutritional courses as a required part of the curriculum.
+  Garbage in; garbage out, friends.
 * [Rene Girard Quotes on the Apocalypse](https://medium.com/@ryanpflynn/rené-girard-battling-to-the-end-quotes-891b535b43ed)
-  * We are imitative creatures. Imitation leads to conflict that can only be
-  resolved through sacrifice and deification of the sacrificed scapegoat. Humans
-  are becoming more and more aware of how these rituals work and thus are
-  weakening these processes.
 * [Bill Gurley on What Characterizes Strong Revenue
 Streams (2011)](http://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/?ck_subscriber_id=547821799)
   * People like Price / Revenue ratios and DCF but not all revenues are the same
@@ -196,6 +205,29 @@ Itself](https://www.edge.org/conversation/toby_ord-we-have-the-power-to-destroy-
     * A 1900s lecture from HG Wells. Not sure which [one he's referring to](https://airminded.org/biographies/h-g-wells/)
 * Tooling can always get better. This time [mathematical
 diagramming](http://penrose.ink/siggraph20) is what is getting a facelift.
+* [Report on how the Home Transforms As a Result of COVID Imposed Work from Home POlicies](https://www.yakcollective.org/projects/the-new-old-home)
+  * The Yak Collective is a group of indie contributors. This is their second
+  piece on how COVID will change our lives. The below list covers the points
+  from the presentation that I thought were salient.
+    * Home is moving towards coziness.
+    * [Nuclear
+   family](https://www.theatlantic.com/magazine/archive/2020/03/the-nuclear-family-was-a-mistake/605536/)
+   and independent households disintegrate into coliving spaces
+    ([it's](https://opendoor.io)
+    [already](https://coliving.com) [happening](https://zeusliving.com)
+    [everywhere](https://www.common.com/san-francisco/) you just need to be
+    [looking](https://thehubhaus.com) in the [right places](https://topos.house))
+    and intergenerational iving.
+    * Move away from regimented and compulsory education for the young and back
+    towards apprenticeships. This time, apprenticeships will be in the knowledge
+    economy.
+    * Everybody contributes meaningfully to chores, just like people did back
+    when we lived on farms.
+    * People need new tools to help facilitate new rituals to manage the
+    distinction between work and life. Think Peloton or morning walks or morning
+    espresso making or a daily Calm app session.
+    * What will the future of family businesses look like?
+* [SSC Reflection on His Intellectual Progress in the 2010s](https://slatestarcodex.com/2020/01/08/what-intellectual-progress-did-i-make-in-the-2010s/)
 
 __Podcasts__:
 * [Chamath and Pomp](https://www.youtube.com/watch?v=_hA3TV1bGsg)
