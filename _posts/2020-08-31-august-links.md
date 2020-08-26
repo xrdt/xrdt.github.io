@@ -7,7 +7,41 @@ title: "The Rising of August"
 
 > Ask for what you want. It's their job to turn you down, not yours.
 
+[Definition #4 of Essay](https://en.wiktionary.org/wiki/essai)
+
+__Books__:
+* [To Pixar and Beyond](https://www.amazon.com/Pixar-Beyond-Unlikely-Journey-Entertainment-ebook/dp/B01912OSA0)
+  * In this book, former Pixar CFO recounts his journey with the now hallowed
+  computer animation company. He starts with his first phone call with Steve
+  Jobs about joining the company and takes us through the company's hot 1995 IPO
+  to how he negotiated equal profit sharing on the movies and equal branding on
+  the merchandise with Disney to the 2006 acquisition by Disney. It's an easy
+  and enjoyable read, something you wouldn't regret having packed in your
+  suitcase before you headed out to Cabo for a summer getaway.
+
+__Cool New Tools__:
+* [What If Tool](https://pair-code.github.io/what-if-tool/get-started/) for
+exploring ML models.
+* [Embedding projector](https://projector.tensorflow.org/) from Tensorflow.
+
 __Raw Internet Links__:
+* [So There's Some Correlation Between Length of Chinese Names (1 vs 2 Char) and End of Dynasties](https://twitter.com/yiqinfu/status/1298437372284211200)
+* [Japan Remastered 1913 - 1915](https://www.youtube.com/watch?v=MQAmZ_kR8S8)
+* [Sin taxes on sugar didn't work in Philadelphia](https://twitter.com/bansisharma/status/1083714031339401218).
+  * Taxes disproportionately affect the poor, who are less likely to go to
+  another, nearby city for untaxed goods. The government also views taxes as a
+  revenue stream and builds it into future budgets. This creates revenue
+  problems because, if these sin taxes decrease, the government will have a lost
+  a portion of revenue it foolishly came to depend upon. Taxation should be
+  applied as broadly as possible, to avoid gaming of specific rules.
+  * Only cultural change (stigma) and public behavior enforcements (no smoking
+  areas) and education can break society wide addictions like smoking and sugar
+  consumption.
+* Good Lord the Bay Area is [covered in lava](https://twitter.com/CALFIRECZU/status/1297383648065249280)
+* A Beautiful [Love Story](https://lemobilefeast.com/2020/08/23/a-love-story/),
+written by a former high school teacher who later embarked on a 3 year mobile cooking and story collecting journey
+* Words on StitchFix [straight from the CEO](https://hbr.org/2018/05/stitch-fixs-ceo-on-selling-personal-style-to-the-mass-market)
+* [Your Connective Tissues on Cake](https://crownmd.net/your-tendons-on-cake/)
 * [Optimize Paul Saladino's Carnivore Diet](https://optimisingnutrition.com/optimising-paul-saladino-mds-nose-to-tail-carnivore-diet/)
   * [Paul Saladino](https://carnivoremd.com) is a voice of reason in the modern
   Twitter and podcast hosted debates on optimal nutrition. He's a big advocate
@@ -132,15 +166,103 @@ Paper](https://gofile.io/d/hGmt9C)
   * Reality is more complicated that you think it is.
   * There's always more to learn.
 * [How Coronavirus Accelerated Technological Developments May Rewrite our Cultural Map](http://subpixel.space/entries/premonition/)
-* [We No Longer Believe in Authenticity](https://subpixel.space/entries/after-authenticity/)
-  * Experience economy is dying. We can no longer infinitely mold meaning.
-  * We're no longer interested in resisting brands. We're interesting in
-  crafting them and imposing structure for their existence in society as real,
-  independent entities.
-* [Spatial Interfaces and Taking the Physical World Digital](https://darkblueheaven.com/spatialinterfaces/)
+* [Exploration of the End of Authenticity](https://subpixel.space/entries/after-authenticity/)
+  * It's not longer selling out to capitalize on your reach and get famous and
+  break out of indie / hipster circles.
+  * Authenticity also exists in tourism and anthropology circles. We want
+  authentic native or tribal experiences. We don't want some trinkets that were
+  manufactured for the Westerners seeking to take some memento of their time in
+  a foreign place home. We want the original object, untouched by capitalism,
+  raw and inherently useful in the local context.
+  * 20th century African art fetish:
+  > African art picked up randomly in the course of fieldwork was placed
+  entirely in a closed sphere with a sacred cast. [...] It was not considered
+  entirely proper to acquire an art object from African market traders, or
+  worse, from European traders in Africa, or worse still, from dealers in Europe
+  or America.
+  * 2008 Hipster music: “you probably haven’t heard of them”. If you have,
+  they're a sell out. Of course, this extended to everything else that could
+  define an individual: fashion, food, accessories, films.
+  * One theory is that authenticity culture emerged out of the economic
+  uncertainty of the 2007 - 2008 financial crisis. Maker movement and indie
+  entrepreneurism also emerged out of the need to make one's own economic
+  future.
+  * Authenticity is now a marketing term that can get thrown on any modern items
+  to give it a bit of that nice antique patina. We've figured out how to scale
+  authenticity (single-lot, artisan, hand-crafted, etc). Ref Venkatesh Rao's
+  [premium mediocre](https://aeon.co/essays/america-still-has-a-heartland-it-s-just-an-artificial-one)
+  [essays](https://www.ribbonfarm.com/2017/08/17/the-premium-mediocre-life-of-maya-millennial/)
+  Call it "contemporary conformism", as Carles does. Or maybe you like
+  "authentic consumption".
+  > Auth music doesn’t really have a wide-reaching sound. It is not ‘scalable.’
+  Auths do not have a visual aesthetic like ‘hipsters.’ Auth is a state of mind
+  where you cannot be influenced. U can only vibe and approach the world with an.
+  auth state of mind. No brands represent u.
+  > The history of 21st century authenticity is the history of hipsters and
+  their disappearance.
+  * How can you think outside of authenticity politics?
+  * [Brandless](https://brandless.com/)???
+  > [W]e need more nuanced forms of critique that address how brands participate
+  in society as creators and collaborators with real agency. ... Brands
+  and commodities therefore need to be considered and critiqued on the basis of
+  the specific cultural and economic contributions they make to society.
+  * Brands are a substrate for meaning and individual differentiation.
+* [Umami, Premium Econmy, Excess Meaning, Death of Experience Economy](https://nemesis.global/memos/umami)
+  * Written in March 2020.
+  * Spending on experiences was the pre-corona standard of premium consumption.
+  * People high on the promises of unlimited, endless meaning making in the
+  experience economy wanted umami. Umami is what you got when you didn’t get
+  anything.
+  * Financialization (2008 - 2018) -- "What was actually happening was the
+  enrichment of financial assets over the creation of any ‘real wealth’ along
+  with corresponding illusions of progress". Little to no physical investment.
+  Little to no new physical goods development. All that's left is repackaging
+  of the immaterial --> hence distilling our world into it's most savory and
+  umami pieces.
+  * What is umami: "SYNERGY, IMPRESSION OF THICKNESS, and PARTS > WHOLE"
+    > “This shouldn’t be good but it is”
+
+    > “This doesn’t seem like what it’s supposed to be”
+
+    > “This is both too much and not enough”
+
+    > “I shouldn’t be here but i am”
+
+    > “This could be anywhere but it’s here”
+    * ^ in a temporary but consciousness encompassing flow of experience
+    thickening (could be paradoxical)
+    * People can't keep up with the umami experience generation machine and
+    think deeper about the fact that there's no meaningful substrate underlying
+    these pieces of yummy, fun, obviously temporary sensory heightening memes.
+  * How do you create meaning when anybody can reorganize the existing meaning
+  graph (infinite free money)? You create feelings of scarcity. You make things
+  that only the in group can "get".
+  * What's next? No one knows. But our minds and feeds are saturated with this
+  frothy nonsense that has made our lives interesting for the past X years.
+  Something else must emerge to satisfy our desire for distraction and
+  differentiation.
+* [Spatial Interfaces--Basically when Building Digital 3D Experiences Makes More Sense than Building 2D Ones](https://darkblueheaven.com/spatialinterfaces/)
+  * Reducing dimensionality doesn't always make designing and programming
+  digital experiences easier. It's far more difficult to program a generic
+  deck of cards for any kind of game than it is to build a generic 3D deck of
+  cards.
+  * Why now? Gaming has been the leader in 3D experiences and the developments
+  there are permeating other folds of society through digital 3d places like
+  Fortnite and e-sports. The tools required to create 3D experiences have become
+  much, much easier to use and available in a much larger variety of programming
+  languages and platforms. It's only getting easier to be a 3D developer.
+  * Why are spatial interfaces important? Spatial interfaces are highly
+  untuitive and information rich. It's how we navigate our regular environments.
+  Skeumorphic design and Snapchat all provide spatial affordances to make the
+  in-app experience more intuitive and rich.
+  * The author proposes a way to leave a breadcrumb trail across the internet
+  that I find reasonably interesting. It's basically a replay of how people
+  traversed a series of web pages. His other suggestions are more "obvious", in
+  the sense that they are skeumorphic 3D experiences. Think about holding
+  conferences in a 3D avatar driven platform like Second Life or using a virtual
+  office like Sococo.
 * [In Case you Wanted a Nice Table to Share in Your Substack Newsletter About
 How the World has Changed](https://marginalrevolution.com/marginalrevolution/2020/04/world-2-0-there-are-decades-where-nothing-happens-and-weeks-where-decades-happen.html)
-* [Umami, Premium Econmy, Excess Meaning, Experience Economy](https://nemesis.global/memos/umami)
   * [No way out of commodity culture](http://www.shaviro.com/Blog/?p=394)
     * [Referenced book](https://www.amazon.com/exec/obidos/ASIN/0060935235/dhalgrenstevensh)
 * [Resolute Optimism](https://resoluteoptimism.bailliegifford.com/) -- A
