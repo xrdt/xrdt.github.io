@@ -1,4 +1,4 @@
----
+--
 layout: posts
 title: "The Rising of August"
 ---
@@ -7,7 +7,27 @@ title: "The Rising of August"
 
 > Ask for what you want. It's their job to turn you down, not yours.
 
+> [If you've never been scammed, your baseline level of trust in people is too
+low](https://www.scottaaronson.com/blog/?p=40).
+
 [Definition #4 of Essay](https://en.wiktionary.org/wiki/essai)
+
+I've found that during technical interviews, when people ask me leading
+questions, like "why don't you think about count", my thinking gets
+short-circuited. Of course, this is not unique to me. I've noticed it in people
+I've interviewed, too. Clearly the suggested solution is superior to whatever
+backwards nonsense track I'm letting my brain wander free along so I should just
+stop everything and narrow my focus on the few tidbits they gave me until that
+tidbit glows red hot from the intensity of my mental gaze. Is the tip effective?
+Hard to say...if I already have what they're thinking about in my current search
+buffer I can readily return a "yeah but I'm also thinking xyz". If I don't have
+anything near what they're suggesting in my current search space...it's not
+necessarily super effective. In fact, the mental effort required to rejigger
+my thinking to accommodate their suggestion is so much that it might just blast
+through any productive whisps of thoughts I was having. Maybe it's more
+effective to ask the person what they're thinking and then give a few examples.
+Hm, how do you help someone who's stuck without giving them the answer or
+stopping their train of thinking.
 
 __Books__:
 * [To Pixar and Beyond](https://www.amazon.com/Pixar-Beyond-Unlikely-Journey-Entertainment-ebook/dp/B01912OSA0)
@@ -25,6 +45,13 @@ exploring ML models.
 * [Embedding projector](https://projector.tensorflow.org/) from Tensorflow.
 
 __Raw Internet Links__:
+* [Why America Doesn't Make Things Anymore](https://americanaffairsjournal.org/2019/05/financing-advanced-manufacturing-why-vcs-arent-the-answer/)
+  * VC isn't incentivized to invest in anything besides pharma and software.
+  Hard tech innovation and manufacturing is all movie overseas.
+* [The Risks of Centralized Power, Re WeChat](https://twitter.com/yiqinfu/status/1299024297608896512)
+* [Brent Beshore Fishing for Investment Ideas](https://twitter.com/BrentBeshore/status/1283119266691153923) (I'm screwing around with the "fishing for" phrasing.)
+  * [Alex Danco's take on Canadian REITs with hardy tenants like Walmart](https://twitter.com/Alex_Danco/status/1283123882078109696)
+    * [Chamath said he was looking into REITs with similarly hardy tenants in April](https://www.businessinsider.com/chamath-palihapitiya-shares-3-part-investing-strategy-for-coronavirus-market-2020-4)
 * [So There's Some Correlation Between Length of Chinese Names (1 vs 2 Char) and End of Dynasties](https://twitter.com/yiqinfu/status/1298437372284211200)
 * [Japan Remastered 1913 - 1915](https://www.youtube.com/watch?v=MQAmZ_kR8S8)
 * [Sin taxes on sugar didn't work in Philadelphia](https://twitter.com/bansisharma/status/1083714031339401218).

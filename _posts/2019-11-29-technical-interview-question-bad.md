@@ -5,6 +5,51 @@ title: "The Dreaded Technical Interview Question"
 *Author: Bianca Yang*<br>
 *Email: <a href="mailto:ipacifics@gmail.com?subject=Hello from the XDRT Blog">ipacifics@gmail.com</a>*<br>
 
+Update (8/29/2020): The ability for a candidate to complete a take home
+assignment presumes that they have the
+[privilege](https://belkadan.com/blog/2016/05/So-You-Want-To-Be-A-Compiler-Wizard/#on-free-time)
+of time to complete such a task. I don't have a well codified set of principles
+for running good real-time technical evaluations, so let me just paste a bunch
+of thoughts and stories and come back to the harder problem of distilling them
+later.
+* Optimize the problem for expansion and back and forth discussion between the
+interviewer and candidate on actual design considerations of space and speed.
+* Let the candidate guide the discussion and implementation. Your
+role as an evaluator is to push back on design choices or add complexity and
+constraints to the problem definition.
+* (??) Treat the candidate as though they were already a coworker.
+* Try to offer a problem or environment that most closely replicates their
+future day responsibilities.
+
+Here's a couple of stories about good technical interviews I've had:
+I had a great experience at Evernote where the interviewer offered me the choice
+of working on a traditional algorithms / data structures problem or debugging
+and patching a piece of sample code. I chose the latter problem (figured it
+would be easier and more representative of day to day work). It was fun and far
+less stressful than an algorithms question. I impressed the interviewer but
+didn't end up moving forward in the process.
+
+I had another good experience working on a simulated work environment problem
+during an onsite interview with [Elementary Robotics](https://www.elementaryrobotics.com).
+The team built a simulator environment with a robotic arm with a camera on the
+end effector. They asked me to program the robot to pick up some colored blocks
+and put those blocks into a holding container. In another round of the onsite
+with Elementary, I wrote a hash map from scratch with the CTO. It was more
+stressful in the moment than it should have been; we were working together
+almost like a tutor and a student, rather than as test examiner and examinee.
+
+I had another interesting experience with [Grail](https://grail.com) where the
+interviewer had me code up a program to return the top 10 items in a list of
+two field jsons by some numerical field. Once I finished the basic
+implementation, he asked me some follow up questions about trading off space and
+time complexity. We had time left over, so he then asked me a question that
+could have gone to the [ends of the earth](https://danluu.com/navigate-url/).
+The question was about debugging a shared online coding interface like coderpad.
+His plan was to say "no that wouldn't work" to every suggestion for debugging I
+had and see how far my knowledge of some networked computer architecture could
+go. Definitely a fun problem but I was kind of exhausted by this point in the
+interview and was grateful he only put me through a few rounds of "no's".
+
 Update (8/5/2020): Building up on the 7/22/2020 update, this take home problem
 should be publicly available and clearly accessible from the company's careers
 page. [Iris
@@ -32,7 +77,11 @@ version of a final interview round is) for a series of discussions. The
 candidate has already demonstrated sufficient technical capability, so these
 discussions should be more casual and be focused on evaluating culture fit,
 alignment with company vision, expected tenure, and potential growth vectors or
-breadth of knowledge.
+breadth of knowledge. [Emerald Cloud Lab](https://www.emeraldcloudlab.com) did
+this with me. I spent the onsite eating meals with the team chatting about my
+philosophical alignment on Thielian principles with the head of culture, and
+generally getting a feel for the people who made up the design / eng / science
+teams.
 
 Update (12/7/19): For phone interviews, I now use
 [Steve Yegge's Five Essential Phone Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions). I haven't decided
