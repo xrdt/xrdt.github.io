@@ -45,10 +45,92 @@ exploring ML models.
 * [Embedding projector](https://projector.tensorflow.org/) from Tensorflow.
 
 __Raw Internet Links__:
+* [Response to Andreessen's piece on the Time to Build](https://nintil.com/on-building/)
+  * Things are being built. They just aren't being built fast enough. How do we
+  remove regulatory friction so people will be incentivized to build rather than
+  collect their golden handcuffs paychecks at fancy techbro companies? If
+  companies and institutions eventually accumulate enough crud that slows them
+  down, how do we build in replacement mechanisms so fresh blood and thinking
+  can come in and deliver the needed, if not desired (want a faster horse?),
+  innovation?
 * [Why America Doesn't Make Things Anymore](https://americanaffairsjournal.org/2019/05/financing-advanced-manufacturing-why-vcs-arent-the-answer/)
   * VC isn't incentivized to invest in anything besides pharma and software.
-  Hard tech innovation and manufacturing is all movie overseas.
+  Hard tech innovation and manufacturing is all moving overseas.
 * [The Risks of Centralized Power, Re WeChat](https://twitter.com/yiqinfu/status/1299024297608896512)
+  * [Chinese thread](http://weibointl.api.weibo.com/share/168796067.html) where
+  someone basically says the issue is the intermingling of social and financial
+  functions on the app. Posting content that is construed as sexual harassment,
+  for example, should not prevent you from paying your bills or receiving
+  business through the app. This is in response to an incident where a [young
+  shopkeeper committed suicide after his WeChat account was
+  frozen](https://outline.com/3PFKN8).
+  * [When your WeChat account is permanently frozen (ahem excommunicated)](https://m.weibo.cn/status/4542579900685543#repost)
+  I've translated the points below. Apologies for any glaring incompetencies in
+  translation. My brain often shuts down to literal translation mode instead of
+  thinking about how the contemporary English language is actually used.
+    * #1 -- If you one day wake up to find that you automatically get kicked
+    out of WeChat with a pop up window saying "This account is suspected of
+    XXXXX illegal activity or rule violation and has been subject to permanent
+    restrictions on logging in. Please hit 'enter' to see details.", do not
+    panic! Things have already come so far. Panicking will do no good!
+    * #2 -- Your account is permanently restricted from posting and editing
+    information on the platform, including your personal information. Don't
+    think you can edit your personal information as a signal to the outside
+    world of your predicament. You should know that your account is now an
+    informational black hole; you have no possibility of radiating out any
+    information.
+    * #3 -- You can still log in to your account through a "temporary login",
+    but your activity is subject to the restrictions in #2.
+    * #4 -- It is a false rumor that if you have taken out loans in WeChat, your
+    account cannot be sealed. Your financial WeChat activity remains as is; it
+    is merely your social WeChat that is blocked.
+    * #5 -- You can still receive updates from groups you have joined.
+    * #6 -- You can delete and leave groups.
+    * #7 -- You cannot disband groups you have created. You can only leave those
+    groups. You will need to find some way to communicate with the automatically
+    chosen new group owner to delete the group you created.
+    * #8 -- You can bind a new WeChat account to the phone number you were using
+    with the sealed account. The sealed account will unbind from that phone
+    number so you don't need to worry about your phone number becoming useless.
+    * #9 -- You can't send WeChat contact cards to anybody.
+    * #10 -- You cannot send QR codes for WeChat groups to anybody.
+    * #11 -- You can create a new WeChat account but you will need to manually
+    re-add all your contacts. If you can't find someone on WeChat through
+    user-defined username or phone number, you two have effectively forever lost
+    communications.
+    * #12 -- You cannot join your original groups with the new WeChat account.
+    You must find someone to invite you. (I'm not why it says original
+    groups...can you join groups your sealed account wasn't part of??)
+    * #13 -- If you've bound your WeChat to ETC (not entirely sure what this is,
+    I think it's some way to pay traffic tolls), you can follow the public ETC
+    helper account and try to switch the WeChat account your ETC is bound to.
+    If you have a 2-wheeled ETC binding, then, congratulations, you cannot
+    unbind your sealed WeChat account. Your ETC is now forever bound to your
+    sealed WeChat account.
+    * #14 -- If your WeChat has any no password required payment contracts, e.g.
+    autopay Tencent Video VIP subscription, please cancel those subscriptions.
+    Your WeChat account can no longer log into Tencent Video anymore.
+    * #15 -- You are also forever unable to log into any Tencent properties
+    that used the sealed WeChat account for log in. You need to manually unbind
+    these accounts one by one. Some of these you will not be able to unbind.
+    * #16 -- You can use another WeChat account to submit an appeal to customer
+    support, but the success rate of the appeal is 0, 0, 0.
+    * #17 -- Most likely your account was not sealed by WeChat. It was likely
+    sealed because of XX circular. You don't know which deparment is responsible
+    for XX. You don't have any way to submit an appeal for reconsideration. You
+    don't even know concretely what you did wrong. It's all probability waves
+    and black boxes permeating the space around you.
+    * #18 -- Your sealed account will often receive messages from "WeChat Group"
+    patiently reminding you: "You've already been sentenced to life
+    imprisonment, stop the futile efforts to redeem yourself."
+    * #19 -- WeChat is starting to do some canary testing of a new feature:
+    extracting your communications logs from the app. It's not yet widely
+    available.
+    * #20 -- Don't put all your digital social interactions on WeChat. If your
+    account is ever sealed, you will then have socially died.
+    * #21 -- We need a new instant messaging tool.
+    * A comment: No wonder the first step a lot of business people do after
+    joining WeChat is leaving their phone number.
 * [Brent Beshore Fishing for Investment Ideas](https://twitter.com/BrentBeshore/status/1283119266691153923) (I'm screwing around with the "fishing for" phrasing.)
   * [Alex Danco's take on Canadian REITs with hardy tenants like Walmart](https://twitter.com/Alex_Danco/status/1283123882078109696)
     * [Chamath said he was looking into REITs with similarly hardy tenants in April](https://www.businessinsider.com/chamath-palihapitiya-shares-3-part-investing-strategy-for-coronavirus-market-2020-4)
