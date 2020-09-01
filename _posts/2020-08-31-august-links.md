@@ -5,14 +5,19 @@ title: "The Rising of August"
 *Author: Bianca Yang*<br>
 *Email: <a href="mailto:ipacifics@gmail.com?subject=Hello from the XDRT Blog">ipacifics@gmail.com</a>*<br>
 
-> Ask for what you want. It's their job to turn you down, not yours.
+These monthly files have been a great way for me to keep track of and actually
+reflect on my reading. The problem is that I'm a lazy butt and categorizing all
+my links and even building a table of contents to make navigating this mess of
+links and notes is beyond what I care to be doing right now. I will shift to
+weekly compilations for September and see if that improves anything about this
+public journal blog format.
 
+__Unconnected Thoughts__:
+> Ask for what you want. It's their job to turn you down, not yours.
 > [If you've never been scammed, your baseline level of trust in people is too
 low](https://www.scottaaronson.com/blog/?p=40).
-
-[Definition #4 of Essay](https://en.wiktionary.org/wiki/essai)
-
-I've found that during technical interviews, when people ask me leading
+* [Definition #4 of Essay](https://en.wiktionary.org/wiki/essai)
+* I've found that during technical interviews, when people ask me leading
 questions, like "why don't you think about count", my thinking gets
 short-circuited. Of course, this is not unique to me. I've noticed it in people
 I've interviewed, too. Clearly the suggested solution is superior to whatever
@@ -29,7 +34,7 @@ effective to ask the person what they're thinking and then give a few examples.
 Hm, how do you help someone who's stuck without giving them the answer or
 stopping their train of thinking.
 
-__Books__:
+__Books and Treatises__:
 * [To Pixar and Beyond](https://www.amazon.com/Pixar-Beyond-Unlikely-Journey-Entertainment-ebook/dp/B01912OSA0)
   * In this book, former Pixar CFO recounts his journey with the now hallowed
   computer animation company. He starts with his first phone call with Steve
@@ -38,6 +43,65 @@ __Books__:
   the merchandise with Disney to the 2006 acquisition by Disney. It's an easy
   and enjoyable read, something you wouldn't regret having packed in your
   suitcase before you headed out to Cabo for a summer getaway.
+* [Richard Gabriel on Why OOP Has Failed](https://www.dreamsongs.com/Files/ObjectsHaveFailed.pdf)
+  * OOP is a totalizing paradigm (objects represent how objects work in the real
+  world; everything is an object) that has serious flaws with being too static
+  (not resilient, easy to break interfaces). We need to encourage diversity of
+  thought about programming (functional, data driven, logic, expert systems,
+  etc.) so we can continue to push forward how humans interface with computers.
+    * Think about the fact that Go4 patterns could be easily implemented in
+    Lisp using first class constructs.
+    * OOP promised reuse but that turns out to be very hard to manage the
+    operations. It's cheaper mentally and time wise to just rewrite things by
+    yourself.
+    * Encapsulation has failed because things like errors and performance aren't
+    encapsulated within objects. OOP also makes it hard to manage things like
+    global consistency (think of singleton objects). If you do encode some
+    synchornization mechanism for global consistency, you've just broken
+    encapsulation and made everything dependent on everything else.
+    * It's impossible to lay down a strict design up front for how all the
+    objects in a system should work together. The psuedo mathematical or even
+    factory manager derived rigor that Charles Babbage and Dijkstra encouraged
+    has infected the field with a false sense of ability to define types or
+    other static constructs that can represent and encompass the breadth of
+    all things humans could want to build. Types can be too restrictive. Types
+    were designed for ease of formal verification, not for ease of
+    expressibility.
+    * OOP designed systems do not evolve very well. Rewrites and bloat often
+    occur because the langauges lack dynamism.
+    * Databases, with their primary focus on separating state and behavior,
+    cannot play well with OOP out of the box. OOP is focused on encapsulating
+    bits of state and behavior into objects.
+    * RPC -- it's not great to distribute a bunch of fine grained objects. Round
+    trip times will always be slow. People decided to build XML and send massive
+    objects in one go. This is how RDBMSs work.
+    * Modeling Languages -- This is where OOP has really contributed something
+    fascinating. Structure can be coded automatically while complex business
+    logic will be coded by hand and plugged into the structure.
+    * No need to go so far down the postmodernist rabbit hole and pursue
+    totalizing paradigms. It's much better to find a way to have multiple ways
+    of working integrate and contribute towards the same solution.
+  * Programmers often wax poetic about how natural systems like the human body
+  are able to coordinate actions among massive numbers of unreliable,
+  independent entities. How can we get human written code to function with that
+  level of robustness and ability to self-sustain? (Ref autonomic computing)
+  * I'm not able to find a recording of the talk, but the introduction for
+  [why objects haven't
+  failed](https://www.dreamsongs.com/ObjectsHaveNotFailedNarr.html) is still on
+  the internet.
+    * The claim that OOP is successful because of wide adoption is weak.
+    * OOP works on the premise that "smart data structures and dumb code works
+    better than the other way around".
+    > Show me your interfaces, the contracts for your methods, and I won't
+    usually need your field declarations and class hierarchy; they'll be
+    irrelevant.
+      * Does OOP resolve the concerns of ongoing programs, like the ones
+      being deployed on the World Wide Web, better than functional or procedural
+      programming?
+    * Well, this author acknowledges that OOP isn't perfect. He's merely saying
+    that there's lots of evolution from the early days of Smalltalk based OOP
+    and that we do have to consider where each tool (functional, procedural,
+    object-oriented) best fits into the larger programming ecosystem.
 
 __Cool New Tools__:
 * [What If Tool](https://pair-code.github.io/what-if-tool/get-started/) for
@@ -45,6 +109,26 @@ exploring ML models.
 * [Embedding projector](https://projector.tensorflow.org/) from Tensorflow.
 
 __Raw Internet Links__:
+* [Have You Thought About Compiling Your Personal Canon Yet](http://davidcole.me/canon/)
+* [It's Not Like Spelling Things Over the Phone Has Ever Been Easy](https://www.mcsweeneys.net/articles/e-mail-addresses-it-would-be-really-annoying-to-give-out-over-the-phone)
+* [It's Been a Long While Since I've Read Short Fiction](https://www.newyorker.com/humor/daily-shouts/sell-out-part-one)
+* [Jane Street Pay](https://news.ycombinator.com/item?id=24272514)
+  * You can make 7 figures, but you gotta prove you're worth it. It's easier to
+  get to a point where you're making 7 figures if you start out early and growth
+  within the company than if you join as a senior person.
+* [Apple is Figuring Out How to Break Free of the iPhone](https://stratechery.com/2019/apples-audacity/)
+  * This was written in June 2019. It was clear that iPhone growth had plateaued
+  and the contribution of the iPhone to revenue was decreasing. Rather than
+  focus more on ramping up internal revenue generators by increasing prices,
+  Apple has been looking to expand new opportunities, like breaking up iTunes
+  into Podcast, Music, and TV; making the Apple Watch independent with its own
+  app store; and introducing the iPadOS branding. The company is also pushing
+  forward on its commitment to privacy with "Sign In with Apple". The end result
+  here is similar to what [privacy.com](https://privacy.com) and
+  [Abine](https://www.abine.com) have done: obfuscate emails to subvert data
+  collection efforts.
+  * There's also a blurb at the beginning about the Mac Pro being an audacious
+  tech statement in the way that supercars are an audacious tech statement.
 * [Response to Andreessen's piece on the Time to Build](https://nintil.com/on-building/)
   * Things are being built. They just aren't being built fast enough. How do we
   remove regulatory friction so people will be incentivized to build rather than
@@ -55,82 +139,21 @@ __Raw Internet Links__:
   innovation?
 * [Why America Doesn't Make Things Anymore](https://americanaffairsjournal.org/2019/05/financing-advanced-manufacturing-why-vcs-arent-the-answer/)
   * VC isn't incentivized to invest in anything besides pharma and software.
-  Hard tech innovation and manufacturing is all moving overseas.
-* [The Risks of Centralized Power, Re WeChat](https://twitter.com/yiqinfu/status/1299024297608896512)
-  * [Chinese thread](http://weibointl.api.weibo.com/share/168796067.html) where
-  someone basically says the issue is the intermingling of social and financial
-  functions on the app. Posting content that is construed as sexual harassment,
-  for example, should not prevent you from paying your bills or receiving
-  business through the app. This is in response to an incident where a [young
-  shopkeeper committed suicide after his WeChat account was
-  frozen](https://outline.com/3PFKN8).
-  * [When your WeChat account is permanently frozen (ahem excommunicated)](https://m.weibo.cn/status/4542579900685543#repost)
-  I've translated the points below. Apologies for any glaring incompetencies in
-  translation. My brain often shuts down to literal translation mode instead of
-  thinking about how the contemporary English language is actually used.
-    * #1 -- If you one day wake up to find that you automatically get kicked
-    out of WeChat with a pop up window saying "This account is suspected of
-    XXXXX illegal activity or rule violation and has been subject to permanent
-    restrictions on logging in. Please hit 'enter' to see details.", do not
-    panic! Things have already come so far. Panicking will do no good!
-    * #2 -- Your account is permanently restricted from posting and editing
-    information on the platform, including your personal information. Don't
-    think you can edit your personal information as a signal to the outside
-    world of your predicament. You should know that your account is now an
-    informational black hole; you have no possibility of radiating out any
-    information.
-    * #3 -- You can still log in to your account through a "temporary login",
-    but your activity is subject to the restrictions in #2.
-    * #4 -- It is a false rumor that if you have taken out loans in WeChat, your
-    account cannot be sealed. Your financial WeChat activity remains as is; it
-    is merely your social WeChat that is blocked.
-    * #5 -- You can still receive updates from groups you have joined.
-    * #6 -- You can delete and leave groups.
-    * #7 -- You cannot disband groups you have created. You can only leave those
-    groups. You will need to find some way to communicate with the automatically
-    chosen new group owner to delete the group you created.
-    * #8 -- You can bind a new WeChat account to the phone number you were using
-    with the sealed account. The sealed account will unbind from that phone
-    number so you don't need to worry about your phone number becoming useless.
-    * #9 -- You can't send WeChat contact cards to anybody.
-    * #10 -- You cannot send QR codes for WeChat groups to anybody.
-    * #11 -- You can create a new WeChat account but you will need to manually
-    re-add all your contacts. If you can't find someone on WeChat through
-    user-defined username or phone number, you two have effectively forever lost
-    communications.
-    * #12 -- You cannot join your original groups with the new WeChat account.
-    You must find someone to invite you. (I'm not why it says original
-    groups...can you join groups your sealed account wasn't part of??)
-    * #13 -- If you've bound your WeChat to ETC (not entirely sure what this is,
-    I think it's some way to pay traffic tolls), you can follow the public ETC
-    helper account and try to switch the WeChat account your ETC is bound to.
-    If you have a 2-wheeled ETC binding, then, congratulations, you cannot
-    unbind your sealed WeChat account. Your ETC is now forever bound to your
-    sealed WeChat account.
-    * #14 -- If your WeChat has any no password required payment contracts, e.g.
-    autopay Tencent Video VIP subscription, please cancel those subscriptions.
-    Your WeChat account can no longer log into Tencent Video anymore.
-    * #15 -- You are also forever unable to log into any Tencent properties
-    that used the sealed WeChat account for log in. You need to manually unbind
-    these accounts one by one. Some of these you will not be able to unbind.
-    * #16 -- You can use another WeChat account to submit an appeal to customer
-    support, but the success rate of the appeal is 0, 0, 0.
-    * #17 -- Most likely your account was not sealed by WeChat. It was likely
-    sealed because of XX circular. You don't know which deparment is responsible
-    for XX. You don't have any way to submit an appeal for reconsideration. You
-    don't even know concretely what you did wrong. It's all probability waves
-    and black boxes permeating the space around you.
-    * #18 -- Your sealed account will often receive messages from "WeChat Group"
-    patiently reminding you: "You've already been sentenced to life
-    imprisonment, stop the futile efforts to redeem yourself."
-    * #19 -- WeChat is starting to do some canary testing of a new feature:
-    extracting your communications logs from the app. It's not yet widely
-    available.
-    * #20 -- Don't put all your digital social interactions on WeChat. If your
-    account is ever sealed, you will then have socially died.
-    * #21 -- We need a new instant messaging tool.
-    * A comment: No wonder the first step a lot of business people do after
-    joining WeChat is leaving their phone number.
+  Hard tech innovation and manufacturing is all moving overseas because it's
+  easier to acquire funding, especially for expansion there. It used to be that
+  hardware companies could acquire large amounts of financing through IPOs or
+  acquisitions. Now, the IPO market has dried up and major US manufacturing
+  companies have largely outsourced manufacturing to Asia.
+  * We used to think that only low level manufacturing was outsourced to Asia.
+  Now it's becoming evident that even advanced manufacturing is moving offshore.
+  * Other countries like Britain experimenting with special government funds for
+  manufacturing. Israel and Germany have made it favorable for commercial banks
+  to lend to manufacturing startups looking to scale up. In Israel, the
+  government guarantees the loans.
+  * The right doesn't like government intervention. The left can only accept
+  increased manufacturing when it's tied with environmental interventions and
+  social justice. No clear policy that will be accepted in America but we do
+  need some way to get building back on American land.
 * [Brent Beshore Fishing for Investment Ideas](https://twitter.com/BrentBeshore/status/1283119266691153923) (I'm screwing around with the "fishing for" phrasing.)
   * [Alex Danco's take on Canadian REITs with hardy tenants like Walmart](https://twitter.com/Alex_Danco/status/1283123882078109696)
     * [Chamath said he was looking into REITs with similarly hardy tenants in April](https://www.businessinsider.com/chamath-palihapitiya-shares-3-part-investing-strategy-for-coronavirus-market-2020-4)
@@ -150,19 +173,6 @@ __Raw Internet Links__:
 * A Beautiful [Love Story](https://lemobilefeast.com/2020/08/23/a-love-story/),
 written by a former high school teacher who later embarked on a 3 year mobile cooking and story collecting journey
 * Words on StitchFix [straight from the CEO](https://hbr.org/2018/05/stitch-fixs-ceo-on-selling-personal-style-to-the-mass-market)
-* [Your Connective Tissues on Cake](https://crownmd.net/your-tendons-on-cake/)
-* [Optimize Paul Saladino's Carnivore Diet](https://optimisingnutrition.com/optimising-paul-saladino-mds-nose-to-tail-carnivore-diet/)
-  * [Paul Saladino](https://carnivoremd.com) is a voice of reason in the modern
-  Twitter and podcast hosted debates on optimal nutrition. He's a big advocate
-  for nose to tail carnivore and has successfully stuck to a no plant diet for
-  about two years now. This post does an excellent job of breaking down Paul's
-  micronutrient intake, explaining the relationship between calorie intake
-  and intake of certain nutrients, and giving clear suggestions for how to
-  improve intake of certain vitamins and minerals that Paul seems to be missing.
-  Nutrition is the most interesting and fundamental field related to
-  biochemistry and I'm so sad that schools don't include first principles,
-  research paper based nutritional courses as a required part of the curriculum.
-  Garbage in; garbage out, friends.
 * [Rene Girard Quotes on the Apocalypse](https://medium.com/@ryanpflynn/rené-girard-battling-to-the-end-quotes-891b535b43ed)
 * [Bill Gurley on What Characterizes Strong Revenue
 Streams (2011)](http://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/?ck_subscriber_id=547821799)
@@ -275,6 +285,26 @@ Paper](https://gofile.io/d/hGmt9C)
   * Reality is more complicated that you think it is.
   * There's always more to learn.
 * [How Coronavirus Accelerated Technological Developments May Rewrite our Cultural Map](http://subpixel.space/entries/premonition/)
+  * How will culture shift online? Probably micro networks will explode. People
+  can't handle all the mainstream social networks. Intangibles like activities
+  and narratives will take precedence. Knowledge tooling will evolve to support
+  the new ways to share units of cultural significance.
+  * Brands with relationship models will hold up better than ones like
+  dropshipping and other low-margin microbrands. How will DTC work without
+  infinite VC funding? People like participating in the success of brands so
+  crowdfunding and patronage will probably accelerate.
+  * People will not be nearly as comfortable being in dense urban spaces as they
+  were before (seems like a very American phenomenon, given how undense most of
+  the country is). Who will now vacant ground-floor real estate in prime urban
+  streets go to? The small entrepreneurs or the big box players like Amazon?
+  * More entertainment, less money to get it. People are going to get creative
+  to satisfy their needs.
+  * How can tools like Zoom (and nascent competitors like Roblox/) help people
+  better structure their time? Watch for the emergence of spatial interfaces.
+  * Eyo will people ever die? Given that you can create deepfakes of anybody
+  with a sufficient online presence, how will you send people off? When will
+  you do it? Or will their computer supported consciousness meld into the
+  backbone of the web?
 * [Exploration of the End of Authenticity](https://subpixel.space/entries/after-authenticity/)
   * It's not longer selling out to capitalize on your reach and get famous and
   break out of indie / hipster circles.
@@ -389,32 +419,6 @@ Different Take on How to do Investing Properly
   in place and mask wearing and otherwise infection slowing activities are just
   prolonging our adaptation to the virus and setting the right conditions for
   companies like Moderna to make bank on a vaccine.
-* [Fat vs Carb Oxidation and Storage in Active Individuals](https://sci-hub.tw/10.1139/h99-030)
-  * Carb and protein preferentially oxidized. Fat initially shunted into adipose
-  tissue. After about 4 days of high CHO diet, fat starts to be oxidized.
-  Glycogen depleting exercise improves fat oxidation. Takes about 7 days to
-  become fat adapted (fat burning). Sedentary people should therefore control
-  their carbohydrate intakes because they can quickly oversupply their body's
-  ability to store energy in muscle or liver glycogen or even in adipose tissue.
-* [Carb Intolerance and Lipemia](https://sci-hub.tw/10.7326/0003-4819-68-4-926)
-  * No connection between carb intolerance (diabetes) and lipemia (fatty acids
-  in blood). Pretty much everybody has blood triglycerides go up 50-100%
-  overnight after eating high CHO diet. Obesity is an aggravating factor in
-  endogenous lipemia. Cellular adiposity leads to relative insulin insensitivity.
-  Hyperinsulism is directly related to obesity and is also related to endogenous
-  lipemia so obesity just makes the condition worse. Weight reduction again
-  helps massively with the elevated serum triglyceride levels.
-  Respect your insulin hormone!!!
-* [Carb vs Fat Induced Lipemia](https://www.researchgate.net/publication/9706857_Carbohydrate-induced_and_fat-induced_lipemia)
-  * Main focus on carb induced. Patients with fat induced, which is super rare,
-  was due to severely lacking lipase enzyme activity (likely genetic). Not clear
-  why carb induced happens but it was confirmed that the triglycerides in the
-  serum were from lipogenesis from dietary CHO. For people with carb induced,
-  lowest triglycerides achieved on high fat diets. Caloric insufficiency can
-  also lower serum triglyceride levels. Very good research paper overall on
-  how the body controls serum triglyceride levels.
-* [A Perspective on Chinese Response to the Coronavirus Outbreak](https://www.newyorker.com/magazine/2020/08/17/how-china-controlled-the-coronavirus)
-* [The Chinese Surveillance State (esp Xinjiang) and the Future of AI Safety in Surveillance Use Cases](https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/)
 * [Knowing this Distribution of Numbers can Help with Fraud Detection](https://economicthinkinginaction.com/benfords-law-and-fraud-detection/)
   * It is certainly not uniform. One occurs far more often than you'd see in a
   uniform distribution.
@@ -459,6 +463,124 @@ diagramming](http://penrose.ink/siggraph20) is what is getting a facelift.
     espresso making or a daily Calm app session.
     * What will the future of family businesses look like?
 * [SSC Reflection on His Intellectual Progress in the 2010s](https://slatestarcodex.com/2020/01/08/what-intellectual-progress-did-i-make-in-the-2010s/)
+
+__China__:
+* [A Perspective on Chinese Response to the Coronavirus Outbreak](https://www.newyorker.com/magazine/2020/08/17/how-china-controlled-the-coronavirus)
+* [The Chinese Surveillance State (esp Xinjiang) and the Future of AI Safety in Surveillance Use Cases](https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/)
+* [The Risks of Centralized Power, Re WeChat](https://twitter.com/yiqinfu/status/1299024297608896512)
+  * [Chinese thread](http://weibointl.api.weibo.com/share/168796067.html) where
+  someone basically says the issue is the intermingling of social and financial
+  functions on the app. Posting content that is construed as sexual harassment,
+  for example, should not prevent you from paying your bills or receiving
+  business through the app. This is in response to an incident where a [young
+  shopkeeper committed suicide after his WeChat account was
+  frozen](https://outline.com/3PFKN8).
+  * [When your WeChat account is permanently frozen (ahem excommunicated)](https://m.weibo.cn/status/4542579900685543#repost)
+  I've translated the points below. Apologies for any glaring incompetencies in
+  translation. My brain often shuts down to literal translation mode instead of
+  thinking about how the contemporary English language is actually used.
+    * #1 -- If you one day wake up to find that you automatically get kicked
+    out of WeChat with a pop up window saying "This account is suspected of
+    XXXXX illegal activity or rule violation and has been subject to permanent
+    restrictions on logging in. Please hit 'enter' to see details.", do not
+    panic! Things have already come so far. Panicking will do no good!
+    * #2 -- Your account is permanently restricted from posting and editing
+    information on the platform, including your personal information. Don't
+    think you can edit your personal information as a signal to the outside
+    world of your predicament. You should know that your account is now an
+    informational black hole; you have no possibility of radiating out any
+    information.
+    * #3 -- You can still log in to your account through a "temporary login",
+    but your activity is subject to the restrictions in #2.
+    * #4 -- It is a false rumor that if you have taken out loans in WeChat, your
+    account cannot be sealed. Your financial WeChat activity remains as is; it
+    is merely your social WeChat that is blocked.
+    * #5 -- You can still receive updates from groups you have joined.
+    * #6 -- You can delete and leave groups.
+    * #7 -- You cannot disband groups you have created. You can only leave those
+    groups. You will need to find some way to communicate with the automatically
+    chosen new group owner to delete the group you created.
+    * #8 -- You can bind a new WeChat account to the phone number you were using
+    with the sealed account. The sealed account will unbind from that phone
+    number so you don't need to worry about your phone number becoming useless.
+    * #9 -- You can't send WeChat contact cards to anybody.
+    * #10 -- You cannot send QR codes for WeChat groups to anybody.
+    * #11 -- You can create a new WeChat account but you will need to manually
+    re-add all your contacts. If you can't find someone on WeChat through
+    user-defined username or phone number, you two have effectively forever lost
+    communications.
+    * #12 -- You cannot join your original groups with the new WeChat account.
+    You must find someone to invite you. (I'm not why it says original
+    groups...can you join groups your sealed account wasn't part of??)
+    * #13 -- If you've bound your WeChat to ETC (not entirely sure what this is,
+    I think it's some way to pay traffic tolls), you can follow the public ETC
+    helper account and try to switch the WeChat account your ETC is bound to.
+    If you have a 2-wheeled ETC binding, then, congratulations, you cannot
+    unbind your sealed WeChat account. Your ETC is now forever bound to your
+    sealed WeChat account.
+    * #14 -- If your WeChat has any no password required payment contracts, e.g.
+    autopay Tencent Video VIP subscription, please cancel those subscriptions.
+    Your WeChat account can no longer log into Tencent Video anymore.
+    * #15 -- You are also forever unable to log into any Tencent properties
+    that used the sealed WeChat account for log in. You need to manually unbind
+    these accounts one by one. Some of these you will not be able to unbind.
+    * #16 -- You can use another WeChat account to submit an appeal to customer
+    support, but the success rate of the appeal is 0, 0, 0.
+    * #17 -- Most likely your account was not sealed by WeChat. It was likely
+    sealed because of XX circular. You don't know which deparment is responsible
+    for XX. You don't have any way to submit an appeal for reconsideration. You
+    don't even know concretely what you did wrong. It's all probability waves
+    and black boxes permeating the space around you.
+    * #18 -- Your sealed account will often receive messages from "WeChat Group"
+    patiently reminding you: "You've already been sentenced to life
+    imprisonment, stop the futile efforts to redeem yourself."
+    * #19 -- WeChat is starting to do some canary testing of a new feature:
+    extracting your communications logs from the app. It's not yet widely
+    available.
+    * #20 -- Don't put all your digital social interactions on WeChat. If your
+    account is ever sealed, you will then have socially died.
+    * #21 -- We need a new instant messaging tool.
+    * A comment: No wonder the first step a lot of business people do after
+    joining WeChat is leaving their phone number.
+
+__Nutrition__:
+* [Your Connective Tissues on Cake](https://crownmd.net/your-tendons-on-cake/)
+* [Optimize Paul Saladino's Carnivore Diet](https://optimisingnutrition.com/optimising-paul-saladino-mds-nose-to-tail-carnivore-diet/)
+  * [Paul Saladino](https://carnivoremd.com) is a voice of reason in the modern
+  Twitter and podcast hosted debates on optimal nutrition. He's a big advocate
+  for nose to tail carnivore and has successfully stuck to a no plant diet for
+  about two years now. This post does an excellent job of breaking down Paul's
+  micronutrient intake, explaining the relationship between calorie intake
+  and intake of certain nutrients, and giving clear suggestions for how to
+  improve intake of certain vitamins and minerals that Paul seems to be missing.
+  Nutrition is the most interesting and fundamental field related to
+  biochemistry and I'm so sad that schools don't include first principles,
+  research paper based nutritional courses as a required part of the curriculum.
+  Garbage in; garbage out, friends.
+* [Fat vs Carb Oxidation and Storage in Active Individuals](https://sci-hub.tw/10.1139/h99-030)
+  * Carb and protein preferentially oxidized. Fat initially shunted into adipose
+  tissue. After about 4 days of high CHO diet, fat starts to be oxidized.
+  Glycogen depleting exercise improves fat oxidation. Takes about 7 days to
+  become fat adapted (fat burning). Sedentary people should therefore control
+  their carbohydrate intakes because they can quickly oversupply their body's
+  ability to store energy in muscle or liver glycogen or even in adipose tissue.
+* [Carb Intolerance and Lipemia](https://sci-hub.tw/10.7326/0003-4819-68-4-926)
+  * No connection between carb intolerance (diabetes) and lipemia (fatty acids
+  in blood). Pretty much everybody has blood triglycerides go up 50-100%
+  overnight after eating high CHO diet. Obesity is an aggravating factor in
+  endogenous lipemia. Cellular adiposity leads to relative insulin insensitivity.
+  Hyperinsulism is directly related to obesity and is also related to endogenous
+  lipemia so obesity just makes the condition worse. Weight reduction again
+  helps massively with the elevated serum triglyceride levels.
+  Respect your insulin hormone!!!
+* [Carb vs Fat Induced Lipemia](https://www.researchgate.net/publication/9706857_Carbohydrate-induced_and_fat-induced_lipemia)
+  * Main focus on carb induced. Patients with fat induced, which is super rare,
+  was due to severely lacking lipase enzyme activity (likely genetic). Not clear
+  why carb induced happens but it was confirmed that the triglycerides in the
+  serum were from lipogenesis from dietary CHO. For people with carb induced,
+  lowest triglycerides achieved on high fat diets. Caloric insufficiency can
+  also lower serum triglyceride levels. Very good research paper overall on
+  how the body controls serum triglyceride levels.
 
 __Podcasts__:
 * [Chamath and Pomp](https://www.youtube.com/watch?v=_hA3TV1bGsg)
