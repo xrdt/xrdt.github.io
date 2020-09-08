@@ -13,7 +13,47 @@ fats, which are found in high quantities in seed and vegetable oils) suck
 because they disrupt our reactive oxygen species driven satiety and fat burning
 mechanisms (you do want to burn fat, right?). Nothing new here, if you've been
 following along with what my nutritional and [optimal health rogue
-experts](../../../books_readings.html#rogue_experts) have been saying.
+experts](../../../books_readings.html#rogue_experts) have been saying. If you
+want proof that this theory works, you can read the blog owner's article
+recounting his time on the [Croissant
+Diet](https://fireinabottle.net/introducing-the-croissant-diet/).
+  * Excellent comment from blog owner in the Croissant Diet page (the entire
+  comments section is full of brilliant insight):
+  > Saturated fat isn’t water soluble and therefore CANNOT and DOES NOT
+  circulate in blood. Chylomicrons do, and they move fat around, but they are
+  encapsulated with “phospholipids” – detergent, basically, to get the fat
+  around. It’s unclear to me why the fat inside the chylomicrons should affect
+  arterial health and there’s no evidence that saturated fat consumption has any
+  bearing on arterial health. The fact that most heart attacks happens in
+  arteries with high blood pressure and fast moving blood – as opposed to in
+  veins with slow moving, low pressure blood points out the inherent lie in the
+  "saturated fat clogs the plumbing" theory of heart disease.
+  * [1940s American farm
+  diet](https://fireinabottle.net/the-french-diet-in-upstate-new-york/)
+
+^^In case you haven't been convinced to abandon whatever fad diet you're on and
+go back to the roots of Croissant and cheese pate and yak milk and everything
+else with those beautiful saturated fats, take a look at this paper on [melanoma
+dietary lipids](https://pubmed.ncbi.nlm.nih.gov/3110746/).
+  * The paper is inconclusive, but it shows a strong coincidence of (p < 0.001)
+  melanoma and increased consumption of polyunsaturated fats (vegetable oils).
+  They mainly look at linoleic acid and arachidonic acid, the latter appearing
+  through conversion from linoleic acid. Arachidonic acid has some downstream
+  effects like being converted into prostglandins (powerful locally-acting
+  vasodilators that are also associated with inflammation) and encouraging
+  erythema (redness of skin caused by capillary dilation) of sunburn. The paper
+  also noted that the saturated fat concentration was similar in the control
+  (non-melanoma) and patient (melanoma) groups. It was polyunsaturated fats
+  (esp oleic acid, and at the expense of monounsaturated fats) that were higher
+  in the patients. The importance of monounsaturated fats not observed in this
+  paper.
+  * A [cited paper](https://academic.oup.com/jnci/article-abstract/61/1/97/917923?redirectedFrom=fulltext)
+  demonstrated that systemic administration of prostglandins to mice increased
+  epidermal carcinogenesis in response to contact chemicals.
+  * Another [cited paper](https://academic.oup.com/jnci/article-abstract/72/1/115/1007197?redirectedFrom=fulltext)
+  demonstrated that dietary polyunsaturates decreased initiation time and
+  accelerated growth of transplanted tumors.
+  * Watch what you eat! When in doubt, go back to the traditional basics.
 
 [This is exactly the kind of thing Ben Thompson was talking about when he said
 he was bullish on local journalism](https://twitter.com/awilkinson/status/1300823531912007681)
