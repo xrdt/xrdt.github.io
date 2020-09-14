@@ -93,27 +93,49 @@ give you a good balance between flexibility and structure. You want structure
 so you get good at what you're assigned. You want flexibility to explore within
 the company and learn about different functions in the business and potentially
 in the industry.
-   * If you are not working on projects that excite you and make you want to
-   come to work every morning, ask for another project. Talk to people on
-   other teams to see how else you could contribute. As a junior employee,
-   your responsibilities are to get good at what you do and to figure out
-   what's important. You don't want to be stuck doing something unimpressive,
-   especially if you're in an internship (think about limited time and how much
-   internship results matter to future employers), so it's
-   important to assess the skills you will be developing on a project and
-   speak up as soon as you feel like you're not going to get something
-   meaningful back for your time. Watch out for dead-end projects in
-   internships, because they will hurt your performance in future interviews.
-   * Take the question of your tenure at the company seriously. Consider that it
-   probably takes 2 - 3 years for you to settle into a company. Only after you've
-   matured in a company's way of doing things and problem can you begin to work on
-   projects that are actually meaningful to the company's structure, bottom line, etc.
-   If you don't think the company can provide you a long enough runway to get you
-   to takeoff in 2 - 3 years, you probably shouldn't [join](#Problemd). The question of
-   tenure here isn't about the money. It's about finding a place that makes you happy and will
-   allow you to fully apply and level up your skills. Give each place at least 6 months before you
-   jump, if you absolutely have to. Before you jump, you should work with your manager and leadership to
-   see how the work environment can be adjusted to better fit your needs.
+  * Sept 2020: I've recently come to enjoy asking: "tell me about the hardest
+  technical challenge you've encountered and what you did to try to resolve
+  it". I'm tired of receiving nonsense answers to this question, so please study
+  the below list and correct yourself (unfortunately, this plural "you/вы"
+  includes myself; curse the reality that all advice is biographical) of the
+  tendency any of the following answers:
+    * I had to learn X. NO F-ing WAY. I'm sincerely unimpressed by the reality
+    that (1) your brain is able to absorb new information and apply it
+    productively and (2) that this is a novel feature of your time with Y
+    company. If you're not learning, you're wasting your time.
+    * Documentation was bad and I had to talk to people to get help. Welcome to
+    the real world. Nobody likes writing documentation, even if it helps
+    themselves. A lot of the job also requires you just talking to people
+    because the world still runs on people and their quirks.
+    * We ran into some edge cases. Sure, [reality has more detail than you
+   think](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
+   is an axiom of life. Unless your edge cases are actually [beautifully
+   challenging](http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/),
+   this answer can also be a dud.
+   * [Beautifully challenging](http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/)
+   seems like the epitome of a [great answer](http://stryku.pl/poetry/okon.php)
+   to this question.
+  * If you are not working on projects that excite you and make you want to
+  come to work every morning, ask for another project. Talk to people on
+  other teams to see how else you could contribute. As a junior employee,
+  your responsibilities are to get good at what you do and to figure out
+  what's important. You don't want to be stuck doing something unimpressive,
+  especially if you're in an internship (think about limited time and how much
+  internship results matter to future employers), so it's
+  important to assess the skills you will be developing on a project and
+  speak up as soon as you feel like you're not going to get something
+  meaningful back for your time. Watch out for dead-end projects in
+  internships, because they will hurt your performance in future interviews.
+  * Take the question of your tenure at the company seriously. Consider that it
+  probably takes 2 - 3 years for you to settle into a company. Only after you've
+  matured in a company's way of doing things and problem can you begin to work on
+  projects that are actually meaningful to the company's structure, bottom line, etc.
+  If you don't think the company can provide you a long enough runway to get you
+  to takeoff in 2 - 3 years, you probably shouldn't [join](#Problemd). The question of
+  tenure here isn't about the money. It's about finding a place that makes you happy and will
+  allow you to fully apply and level up your skills. Give each place at least 6 months before you
+  jump, if you absolutely have to. Before you jump, you should work with your manager and leadership to
+  see how the work environment can be adjusted to better fit your needs.
 * [Take](#Seriousu)<a name="Seriousd"></a> the interviews seriously.
    * Make sure you prepare. Do *not* waste anybody's time. It is expensive
    to have engineers interview you and it is expensive to bring you out for

@@ -19,8 +19,11 @@ People skills are so important because, in the end, everything is about people.
   backstabbing unreliable nonsense.
 3. [What to do with your life](http://www.windsweptsoftware.net/rickoverthoughts.pdf)
 and how to figure it out.
+  * You should spend your time in unforgiving arenas like science and sports so
+  you can develop a sharply tuned, objective sense for correctness without the
+  need for official (expert fucking "opinion") intermediation.
 4. How to keep yourself spiritually, physically, and mentally sharp (nutrition,
-fitness, anyone?).
+fitness).
 5. Courage (when to stand up for things) / willpower (getting things done is a
 matter of someone being hardheaded enough to push through the walls that will
 appear to stop them from getting things done) / integrity (doing the right
