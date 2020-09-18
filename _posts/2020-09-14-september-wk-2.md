@@ -55,7 +55,7 @@ Thread](https://news.ycombinator.com/item?id=24192117)
     It turns out that's no simple task and it's fundamentally flawed because we
     don't want to build in our limited understanding of the complexity of the
     world.
-  > [W]e should build in only the meta-methods that can find and capture this
+  > \[W\]e should build in only the meta-methods that can find and capture this
   arbitrary complexity. Essential to these methods is that they can find good
   approximations, but the search for them should be by our methods, not by us.
   We want AI agents that can discover like we can, not which contain what we
@@ -92,6 +92,14 @@ rather simple paper, I finally got my brain to obey and ingest the [original
 Google paper](http://infolab.stanford.edu/~backrub/google.html).
   * What's hilarious about this paper is "Appendix A: Advertising and Mixed
     Motives".
+  > \[W\]e expect that advertising funded search engines will be inherently
+  biased towards the advertisers and away from the needs of the consumers.
+  > In general, it could be argued from the consumer point of view that the
+  better the search engine is, the fewer advertisements will be needed for the
+  consumer to find what they want.
+  > \[W\]e believe the issue of advertising causes enough mixed incentives that
+  it is crucial to have a competitive search engine that is transparent and in
+  the academic realm.
 
 [2019 Social Capital Annual
 Letter](https://www.socialcapital.com/annual-letters/2019)
