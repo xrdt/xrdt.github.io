@@ -149,6 +149,7 @@ __Podcasts (Most of these are so good I might relisten to them)__:
   complimentarity and open schools and accepting collateral evil as a necessary
   feature of a society where trust is the dominant mode of operations.
 * [Exponent Scale Scale Scale](https://exponent.fm/episode-182-scale-scale-scale/)
+  * The [associated article](https://stratechery.com/2020/email-addresses-and-razor-blades/).
   * This is an amazing episode just in terms of education myself about how the
   world works. I try to read Stratechery, but I often get bored, so listening
   to him debate with James (who obviously hasn't the time or luxury to think
