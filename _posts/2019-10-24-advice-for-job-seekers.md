@@ -16,6 +16,7 @@ Table of Contents:
 * [Remember that It's Just as Hard to do a Small Thing Well as it is to do a Big Thing Well](#Rememberd)<a name="Rememberu"></a>&shy;
 * [What do you want to get out of your job](#Goalsd)<a name="Goalsu"></a>&shy;
 * [Take your interviews seriously](#Seriousd)<a name="Seriousu"></a>&shy;
+* [What is the Company Looking For](#Lookingd)<a name="Lookingu"></a>&shy;
 * [I don't care what you wear (to a point)](#Outfitd)<a name="Outfitu"></a>&shy;
 * [Industry != school, except in school (In theory there is no difference between theory and practice. In practice there is.)](#IndustrySchoold)<a name="IndustrySchoolu"></a>&shy;
 * [Learn to negotiate](#Negotiated)<a name="Negotiateu"></a>&shy;
@@ -110,11 +111,12 @@ in the industry.
     * We ran into some edge cases. Sure, [reality has more detail than you
    think](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
    is an axiom of life. Unless your edge cases are actually [beautifully
-   challenging](http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/),
-   this answer can also be a dud.
-   * [Beautifully challenging](http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/)
+  challenging](http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/),
+      this answer can also be a dud.
+    * [Beautifully challenging](http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/)
    seems like the epitome of a [great answer](http://stryku.pl/poetry/okon.php)
    to this question.
+    * Ooh, also [Battery Day](https://www.youtube.com/watch?v=l6T9xIeZTds).
   * If you are not working on projects that excite you and make you want to
   come to work every morning, ask for another project. Talk to people on
   other teams to see how else you could contribute. As a junior employee,
@@ -156,6 +158,19 @@ in the industry.
    lunch or other events they may have you participate in.
    * [Recognize that most questions these interviewers as you are total
    BS.](../../11/24/technical-interview-question-bad.html)
+* [What](#Lookingu)<a name="Lookingd"></a> is the company looking for?
+  * When I was that ThoughtSpot, I would tell new grads that we were looking
+    for general software engineering skills. You know, you should be strong in
+    things like data structures and algorithms. This answer would inevitably
+    raise questions like "well, does that mean anybody can be good at that
+    stuff?". Yes, anybody _can_ be good at this stuff, but what distinguishes
+    people in the line of software engineering is whether you know what tools
+    you have at your disposal, whether you know what they do, whether you know
+    how to use them, and whether you know when / why to use them. Blindly
+    studying LeetCode or Cracking the Coding Interview or whatever other prep
+    resource you find most suitable for your mind can help you get by as an
+    entry level engineer, but the things I mentioned are part of honing your
+    ability to continue participating in the craft of software engineering.
 * [*I*](#Outfitu)<a name="Outfitd"></a> don't care what you dress in at a career fair, as long as it's clean
 and doesn't have holes. This is a perk of the tech industry.
 *You should dress
