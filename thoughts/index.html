@@ -16,10 +16,6 @@ layout: thoughts
     <li>Projects</li>
 </ul>
 
-<div id="search">
-    {% include search-lunr.html %}
-</div>
-
 {% assign postsByYearMonth = paginator.posts | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
 {% for yearMonth in postsByYearMonth %}
 <h3>{{ yearMonth.name }}</h3>
