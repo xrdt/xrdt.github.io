@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Quote From the Epilogue of \"The Way It Spozed To Be\""
+title: "Quote From the Epilogue of -The Way It Spozed To Be-"
 ---
 *Author: Bianca Yang*<br>
 *Email: <a href="mailto:ipacifics@gmail.com?subject=Hello from the XDRT Blog">ipacifics@gmail.com</a>*<br>
