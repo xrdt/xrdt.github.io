@@ -1,16 +1,12 @@
 ---
 layout: posts
-title: "My Approved Gift List"
+title: "Gifts"
 ---
 *Author: Bianca Yang*<br>
 *Email: <a href="mailto:ipacifics@gmail.com?subject=Hello from the XDRT Blog">ipacifics@gmail.com</a>*<br>
 
 
-Things that I'd be happy to gift others:
-* My go to Gift Set
-  * [Cast Iron Pan](https://www.amazon.com/Lodge-Skillet-Skillet-Stovetop-Cooking/dp/B00063RWT8) +
-  [Silicone Handle Holder](https://www.amazon.com/Lodge-Manufacturing-Company-ASHHM41-Silicone/dp/B00UHKS55K/)
-  * [Stryve Hickory Seasoned Biltong](https://www.walmart.com/ip/Stryve-Biltong-Hickory-Seasoned-8oz/257082789)
+Gift ideas:
 * Gift set for stationery appreciators
   * [Kanso Notebook](https://www.jetpens.com/Tomoe-River-52-gsm-Kanso-Notebook-B5-White/pd/12789)
   * [Pilot Metropolitan Fountain Pen](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pen-White-Tiger-Fine-Nib/pd/12081)
@@ -70,5 +66,8 @@ Things that I'd be happy to gift others:
   * [Chuao Chocolate](https://chuaochocolatier.com)
     * I like [Salted Chocolate Crunch](https://chuaochocolatier.com/products/salted-chocolate-crunch)
   * [Amara Drinking Chocolate](https://www.amazon.com/Venezuelan-Flavors-Chocolate-Criollo-Certified/dp/B00F7NIQQ0/ref=as_li_ss_tl)
+    * Please do yourself a favor and level up your understanding of liquid
+      chocolate with this beautiful mix. Even better, go visit Amara in Pasadena
+      and order a beautiful arepa to pair with a cup of drinking chocolate.
 * Productivity
   * [Laptop Stand](https://www.amazon.com/dp/B00J0823FI/ref=cm_sw_r_cp_api_4B2EAb77R7NKJ)
