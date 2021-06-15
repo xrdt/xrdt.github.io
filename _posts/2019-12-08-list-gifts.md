@@ -25,6 +25,7 @@ Gift ideas:
   * [Packing cubes](https://www.amazon.com/eBags-Medium-Classic-Packing-Travel/dp/B0092XBKQY/ref=sr_1_6)
   * [3 Way Bag](https://everyman.co/products/hideout-5-way)
   * [65L Weekender bag](https://www.amazon.com/Foldable-Weekender-Compartment-Water-proof-Resistant/dp/B07GVK5VQ1/)
+  * [Bellroy Wallet / Bags](https://bellroy.com)
 * House warming
   * [Dinnerware Set](https://www.amazon.com/AmazonBasics-18-Piece-Dinnerware-Set-Service/dp/B019EEUQ2O/ref=sr_1_3)
   * [Flatware Set](https://www.amazon.com/LIANYU-20-Piece-Silverware-Stainless-Dishwasher/dp/B06XK6PXX8/ref=sr_1_4)
