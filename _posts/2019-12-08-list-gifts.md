@@ -7,6 +7,9 @@ title: "Gifts"
 
 
 Gift ideas:
+* Something Engraved with their Name
+  * HT to
+    [Giftology](https://www.amazon.com/Giftology-Increase-Referrals-Strengthen-Retention/dp/1619614332)
 * Stationery appreciators
   * [Kanso Notebook](https://www.jetpens.com/Tomoe-River-52-gsm-Kanso-Notebook-B5-White/pd/12789)
   * [Pilot Metropolitan Fountain Pen](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pen-White-Tiger-Fine-Nib/pd/12081)
@@ -19,16 +22,9 @@ Gift ideas:
   * [Crock Pot](https://www.amazon.com/Crock-Pot-SCV401-TR-4-Quart-Manual-Cooker/dp/B000AB32PE/)
   * [Cast Iron, Non Enameled Dutch Oven](https://www.amazon.com/Lodge-L8DD3-Cast-Iron-Dutch/dp/B000LEXR0K/ref=sr_1_3)
 * The Traveler
-  * [Ear plugs](https://www.amazon.com/Decibullz-Earplugs-Comfortable-Protection-Shooting/dp/B01N129AQ8/)
-  * [Eyemask](https://www.amazon.com/gp/product/B00ZTC56O4/)
-  * [General Use Merino wool socks](https://www.amazon.com/SmartWool-Womens-Outdoor-Light-Medium/dp/B01GGOKGQ6/ref=sr_1_6)
-  * [Packing cubes](https://www.amazon.com/eBags-Medium-Classic-Packing-Travel/dp/B0092XBKQY/ref=sr_1_6)
-  * [3 Way Bag](https://everyman.co/products/hideout-5-way)
-  * [65L Weekender bag](https://www.amazon.com/Foldable-Weekender-Compartment-Water-proof-Resistant/dp/B07GVK5VQ1/)
-  * [Bellroy Wallet / Bags](https://bellroy.com)
+  * [18L Multicarry Bag](https://everyman.co/products/hideout-5-way)
+  * [Other Nice Wallet / Bags](https://bellroy.com)
 * House warming
-  * [Dinnerware Set](https://www.amazon.com/AmazonBasics-18-Piece-Dinnerware-Set-Service/dp/B019EEUQ2O/ref=sr_1_3)
-  * [Flatware Set](https://www.amazon.com/LIANYU-20-Piece-Silverware-Stainless-Dishwasher/dp/B06XK6PXX8/ref=sr_1_4)
 * Outdoorsy
   * [Uniqlo HeatTech](https://www.uniqlo.com/us/en/women/heattech-collection)
   * [Headlamp](https://www.amazon.com/Foxelli-Headlamp-Flashlight-2-Pack-Lightweight/dp/B07VCTYYZX/)
@@ -55,11 +51,9 @@ Gift ideas:
   * [Gymnastics Rings 2](https://www.amazon.com/Gymnastic-Fitness-Exercise-Wooden-Gymnast/dp/B01FTOCY0A/)
   * [Crabtree and Evelyn Skin Care](http://crabtree-evelyn.com/)
 * Meat Lover
-  * [White Oak Pastures Sausage](https://www.whiteoakpastures.com/artisan/sausages/)
+  * [White Oak Pastures Meats](https://www.whiteoakpastures.com)
   * [Belcampo Meats](https://shop1.belcampo.com)
   * [Stryve Hickory Seasoned Biltong](https://www.walmart.com/ip/Stryve-Biltong-Hickory-Seasoned-8oz/257082789)
-  * [Pemmican Bar](https://frankiesfreerangemeat.com/products/pemmican)
 * Fun
-  * [Skateboard](https://www.skatewarehouse.com/buildcomplete.html#deck=GIBMNVDK&trucks=TUSOTRBKBKJ&wheels=RICLOWH540&bearings=BSREDBR&hardware=BSHW1&griptape=JSGT)
   * [Amara Drinking Chocolate](https://www.amazon.com/Venezuelan-Flavors-Chocolate-Criollo-Certified/dp/B00F7NIQQ0/ref=as_li_ss_tl)
   * [Michelle's Maccs](https://michellesmaccs.com/)
